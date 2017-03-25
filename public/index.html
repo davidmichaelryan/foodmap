@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <meta name='HandheldFriendly' content='true' />
+    <meta name='robots' content='index,follow,archive'>
+    <meta itemprop='name' content='Food Map'>
+    <meta name='author' content='David Ryan'>
+    <meta name='keyword' content='Food Map, David Ryan, David Michael Ryan'>
+    <meta name='description' itemprop='description' content='Food Map'>
+    <title>Food Map</title>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans|Gentium+Book+Basic' rel='stylesheet' type='text/css'>
+    <link rel='stylesheet' href='styles.css'>
+  </head>
+  <body>
+    <form id="map-form" action="#" onsubmit="updateMap(); return false;">
+      <label>Start location<input type='text'></label><br>
+      <label>End location<input type='text'></label><br>
+      <input type='submit'>
+    </form>
+
+    <div id='map'></div>
+
+    <!--
+      JAVACSRIPT
+    -->
+    <script src='scripts.js'></script>
+    <script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCvRWaNGBayIc2C59blfpri7Cq8W4cTwxE'
+    async defer onload="initMap()"></script>
+    <script async defer src="flavortown.js" onload="confirmArrival('flavortown')"></script>
+  </body>
+</html>

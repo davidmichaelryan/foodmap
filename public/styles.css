@@ -1,0 +1,19 @@
+html * {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+#map {
+  height: 400px;
+  max-width: 800px;
+}
+input,
+label {
+  display: block;
+}
+label input {
+  display: inline;
+  margin-left: 10px;
+}

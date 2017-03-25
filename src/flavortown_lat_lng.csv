@@ -1,0 +1,746 @@
+id," name"," address"," zip_code"," city"," state",Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,City,State,County,Zip,Country
+1," A1 Diner"," 3 Bridge Street"," 04345"," Gardiner"," ME",44.229879,-69.774471,1,rooftop,3,"Bridge St",Gardiner,ME,"Kennebec County",04345,US
+2," Tick Tock Diner"," 281 Allwood Road"," "," Clifton"," NJ",40.835121,-74.146908,1,range_interpolation,281,"Allwood Rd",Clifton,NJ,"Passaic County",07012,US
+3," Blue Moon Cafe"," 1621 Aliceanna Street"," "," Baltimore"," MD",39.283322,-76.594235,1,rooftop,1621,"Aliceanna St",Baltimore,MD,"Baltimore city",21231,US
+4," Hodad's"," 5010 Newport Avenue"," "," Ocean Beach"," CA",29.056714,-81.294778,0.4,street_center,,"Newport Ave",Deland,FL,"Volusia County",32724,US
+5," Joe's Farm Grill"," 3000 E. Ray Road"," "," Gilbert"," AZ",33.321165,-111.781447,1,range_interpolation,3000,"E Ray Rd",Gilbert,AZ,"Maricopa County",85296,US
+6," Al's Breakfast"," 413 14th Avenue SE"," "," Minneapolis"," MN",44.980683,-93.235783,1,range_interpolation,413,"14th Ave SE",Minneapolis,MN,"Hennepin County",55414,US
+7," Psycho Suzi's"," 1900 Marshall Street NE"," "," Minneapolis"," MN",45.007059,-93.271814,1,range_interpolation,1900,"Marshall St NE",Minneapolis,MN,"Hennepin County",55418,US
+8," Franks Diner"," 508 58th Street"," "," Kenosha"," WI",42.583564,-87.817105,1,range_interpolation,508,"58th St",Kenosha,WI,"Kenosha County",53140,US
+9," Alpine Steakhouse"," 4520 S. Tamiami Trail"," "," Sarasota"," FL",27.288058,-82.531008,1,rooftop,4520,"S Tamiami Trl",Sarasota,FL,"Sarasota County",34231,US
+10," Aunt Lena's Creamery CLOSED"," 4040 South Arizona Avenue"," "," Chandler"," AZ",33.246624,-111.841452,1,range_interpolation,4040,"S Arizona Ave",Chandler,AZ,"Maricopa County",85248,US
+11," Baby Blues Bar-B-Q"," 444 Lincoln Boulevard"," "," Venice"," CA",34.000457,-118.465244,1,rooftop,444,"Lincoln Blvd",Venice,CA,"Los Angeles County",90291,US
+12," Barbeque King Drive-In"," 2900 Wilkinson Boulevard"," "," Charlotte"," NC",35.224045,-80.888615,1,range_interpolation,2900,"Wilkinson Blvd",Charlotte,NC,"Mecklenburg County",28208,US
+13," Bayway Diner"," 2019 South Wood Avenue"," "," Linden"," NJ",40.620914,-74.235515,1,range_interpolation,2019,"S Wood Ave",Linden,NJ,"Union County",07036,US
+14," Hillbilly Hot Dogs"," 6591 Ohio River Road"," "," Lesage"," WV",38.485297,-82.300441,1,range_interpolation,6591,"Ohio River Rd",Lesage,WV,"Cabell County",25537,US
+15," Chap's Pit Beef"," 5801 Pulaski Highway"," "," Baltimore"," MD",39.302757,-76.567987,0.33,place,,,Baltimore,MD,"Baltimore city",21205,US
+16," Triple X Family Restaurant"," 2 North Salisbury Street"," "," West Lafayette"," IN",40.422521,-86.905588,1,range_interpolation,2,"N Salisbury St","West Lafayette",IN,"Tippecanoe County",47906,US
+17," JT Farnham's Seafood and Grill"," 88 Eastern Ave"," 01929"," South Essex"," MA",42.630537,-70.768862,0.8,range_interpolation,88,"Eastern Ave",Essex,MA,"Essex County",01929,US
+18," Red Arrow Diner"," 61 Lowell Street"," "," Manchester"," NH",42.993447,-71.461367,1,range_interpolation,61,"Lowell St",Manchester,NH,"Hillsborough County",03104,US
+19," Brownstone Diner"," 426 Jersey Avenue"," "," Jersey City"," NJ",40.716779,-74.048675,1,range_interpolation,426,"Jersey Ave","Jersey City",NJ,"Hudson County",07302,US
+20," White Manna Hamburgers"," 358 River Street"," "," Hackensack"," NJ",40.889144,-74.038478,1,range_interpolation,358,"River St",Hackensack,NJ,"Bergen County",07601,US
+21," Eveready Diner"," 4189 Albany Post Road"," "," Hyde Park"," NY",41.777042,-73.931214,1,range_interpolation,4189,"Albany Post Rd","Hyde Park",NY,"Dutchess County",12538,US
+22," BBQ Shack"," 1613 E. Peoria Street"," 66071"," Paola"," KS",38.57132,-94.869251,0.8,street_center,,"E Peoria St",Paola,KS,"Miami County",66071,US
+23," Beacon Drive-In"," 255 John B. White Boulevard"," "," Spartanburg"," SC",34.942223,-81.942877,0.7,range_interpolation,255,"John B White Sr Blvd",Spartanburg,SC,"Spartanburg County",29306,US
+24," Benny's Seafood"," 2500 SW 107th Avenue"," "," South Miami"," FL",25.745831,-80.368267,1,rooftop,2500,"SW 107th Ave",Miami,FL,"Miami-Dade County",33165,US
+25," Big Star Diner"," 305 Madison Avenue North"," "," Bainbridge Island"," WA",47.626944,-122.521149,1,range_interpolation,305,"Madison Ave N","Bainbridge Island",WA,"Kitsap County",98110,US
+26," Bobby's Hawaiian Style Restaurant"," 14626 Hwy 99"," 98087"," Lynnwood"," WA",47.865955,-122.280423,1,range_interpolation,14626,"State Rte 99",Lynnwood,WA,"Snohomish County",98087,US
+27," BoBo Drive-In"," 2300 SW 10th Avenue"," 66604"," Topeka"," KS",39.051208,-95.7061,1,range_interpolation,2300,"SW 10th Ave",Topeka,KS,"Shawnee County",66604,US
+28," Brint's Diner NEW OWNERS"," 4834 East Lincoln Street"," 67218"," Wichita"," KS",37.672075,-97.280163,1,range_interpolation,4834,"E Lincoln St",Wichita,KS,"Sedgwick County",67218,US
+29," Cafe On The Route CLOSED"," 1101 Military Avenue"," 66713"," Baxter Springs"," KS",37.023765,-94.735329,1,range_interpolation,1101,"Military Ave","Baxter Springs",KS,"Cherokee County",66713,US
+30," Central City Cafe"," 529 14th Street"," "," West Huntington"," WV",38.411744,-82.479582,1,range_interpolation,529,"14th St W",Huntington,WV,"Cabell County",25704,US
+31," Charlie's Diner"," 32 West Main Street"," "," Spencer"," MA",42.234116,-72.010271,0.8,range_interpolation,32,"W Main St",Spencer,MA,"Worcester County",01562,US
+32," Chino Bandido"," 15414 North 19th Avenue"," "," Phoenix"," AZ",33.62575,-112.099827,1,range_interpolation,15414,"N 19th Ave",Phoenix,AZ,"Maricopa County",85023,US
+33," The Coffee Cup"," 512 Nevada Way"," "," Boulder City"," NV",35.976974,-114.838592,0.9,range_interpolation,512,"Nevada Hwy","Boulder City",NV,"Clark County",89005,US
+34," Cozy Corner"," 745 North Parkway"," "," Memphis"," TN",35.125254,-89.984443,1,range_interpolation,745,"N Pkwy",Memphis,TN,"Shelby County",38104,US
+35," Creole Creamery"," 4924 Prytania Street"," "," New Orleans"," LA",29.924413,-90.108005,1,range_interpolation,4924,"Prytania St","New Orleans",LA,"Orleans Parish",70115,US
+36," Daddypops Diner"," 232 North York Road"," "," Hatboro"," PA",40.181435,-75.105265,0.8,range_interpolation,232,"N York Rd",Hatboro,PA,"Montgomery County",19040,US
+37," Dari-Ette Drive-In"," 1440 Minnehaha Avenue"," "," St. Paul"," MN",44.962794,-93.08112,0.8,street_center,,"Minnehaha Ave","Saint Paul",MN,"Ramsey County",55101,US
+38," The Dining Car"," 8826 Frankford Avenue"," "," Philadelphia"," PA",40.04953,-75.011876,1,range_interpolation,8826,"Frankford Ave",Philadelphia,PA,"Philadelphia County",19136,US
+39," Dot's Back Inn"," 4030 Macarthur Avenue"," "," Richmond"," VA",37.589919,-77.458482,1,rooftop,4030,"Macarthur Ave",Richmond,VA,"Richmond city",23227,US
+40," Doumars"," 1919 Monticello Avenue"," "," Norfolk"," VA",36.866187,-76.284982,1,rooftop,1919,"Monticello Ave",Norfolk,VA,"Norfolk city",23517,US
+41," Duarte's Tavern"," 202 Stage Road"," "," Pescadero"," CA",37.252894,-122.382941,1,range_interpolation,202,"Stage Rd",Pescadero,CA,"San Mateo County",94060,US
+42," El Indio"," 3695 India Street"," "," San Diego"," CA",32.742348,-117.18008,1,rooftop,3695,"India St","San Diego",CA,"San Diego County",92103,US
+43," 11th Street Diner"," 1065 Washington Avenue"," "," Miami Beach"," FL",25.78182,-80.132297,1,rooftop,1065,"Washington Ave","Miami Beach",FL,"Miami-Dade County",33139,US
+44," Emma Jean's Holland Burger Cafe"," 17143 D Street"," "," Victorville"," CA",34.561028,-117.313943,1,rooftop,17143,"D St",Victorville,CA,"San Bernardino County",92394,US
+45," Charlie Parker's"," 700 North Street"," "," Springfield"," IL",39.795407,-89.661586,1,range_interpolation,700,"New St",Springfield,IL,"Sangamon County",62704,US
+46," Evelyn's Drive-In"," 2325 Main Road (Route 77)"," "," Tiverton"," RI",41.617593,-71.203973,1,range_interpolation,2325,"Main Rd",Tiverton,RI,"Newport County",02878,US
+47," The Fly Trap"," 22950 Woodward Avenue"," "," Ferndale"," MI",42.462052,-83.135062,1,range_interpolation,22950,"Woodward Ave",Ferndale,MI,"Oakland County",48220,US
+48," Four Kegs Sports Pub"," 276 N Jones Blvd"," 89107"," Las Vegas"," NV",36.176706,-115.223862,1,range_interpolation,276,"N Jones Blvd","Las Vegas",NV,"Clark County",89107,US
+49," The Frosted Mug CLOSED"," 11541 South Pulaski Road"," "," Alsip"," IL",41.68282,-87.719855,1,range_interpolation,11541,"S Pulaski Rd",Alsip,IL,"Cook County",60803,US
+50," Gaffey Street Diner"," 247 North Gaffey Street"," "," San Pedro"," CA",33.744966,-118.292493,1,rooftop,247,"N  Gaffey St","San Pedro",CA,"Los Angeles County",90731,US
+51," Grampa's Bakery"," 17 Southwest First Street"," "," Dania Beach"," FL",26.050727,-80.144196,1,rooftop,17,"SW  1st St",Dania,FL,"Broward County",33004,US
+52," Grubstake Diner"," 1525 Pine Street"," "," San Francisco"," CA",37.789321,-122.420826,1,rooftop,1525,"Pine St","San Francisco",CA,"San Francisco County",94109,US
+53," Hackney's On Harms"," 1241 Harms Road"," "," Glenview"," IL",42.077592,-87.771293,1,range_interpolation,1241,"Harms Rd",Glenview,IL,"Cook County",60025,US
+54," Harold's Restaurant"," 602 North Limestone Street"," "," Gaffney"," SC",35.076502,-81.645935,1,range_interpolation,602,"N Limestone St",Gaffney,SC,"Cherokee County",29340,US
+55," Hightstown Diner"," 151 Mercer Street"," "," Highstown"," NJ",0,0,0,,,,,,,,
+56," Hullabaloo Diner"," 15045 FM 2154 Road"," "," College Station"," TX",30.531926,-96.301116,1,range_interpolation,15045,"Fm 2154th Rd","College Station",TX,"Brazos County",77845,US
+57," Iron Barley"," 5510 Virginia Avenue"," "," St. Louis"," MO",38.565208,-90.245842,1,range_interpolation,5510,"Virginia Ave","Saint Louis",MO,"St. Louis city",63111,US
+58," Jay Bee's Bar-B-Que"," 15911 Avalon Boulevard"," "," Gardena"," CA",33.886807,-118.265416,1,range_interpolation,15911,"Avalon Blvd",Gardena,CA,"Los Angeles County",90248,US
+59," Jefferson Diner"," 5 Bowling Green Parkway"," "," Lake Hopatong"," NJ",40.962131,-74.598365,0.8,range_interpolation,5,"Bowling Green Pkwy","Lake Hopatcong",NJ,"Morris County",07849,US
+60," Joe's Cable Car CLOSED"," 4320 Mission Street"," "," San Francisco"," CA",37.728457,-122.431899,1,rooftop,4320,"Mission St","San Francisco",CA,"San Francisco County",94112,US
+61," Joe's Gizzard City"," 120 West Main Street"," "," Potterville"," MI",42.629546,-84.742769,1,range_interpolation,120,"W Main St",Potterville,MI,"Eaton County",48876,US
+62," Keegan's Seafood Grille"," 1519 Gulf Boulevard"," "," Indian Rocks Beach"," FL",27.898709,-82.847943,1,rooftop,1519,"Gulf Blvd","Indian Rocks Beach",FL,"Pinellas County",33785,US
+63," Kelly's Diner"," 674 Broadway"," "," Somerville"," MA",42.399549,-71.111558,1,range_interpolation,674,Broadway,Somerville,MA,"Middlesex County",02144,US
+64," Krazy Jim's Blimpy Burger"," 551 South Division Street"," "," Ann Arbor"," MI",42.275006,-83.744116,1,range_interpolation,551,"S Division St","Ann Arbor",MI,"Washtenaw County",48104,US
+65," Leonard's BBQ"," 5465 Fox Plaza Drive"," "," Memphis"," TN",35.074286,-89.882152,1,range_interpolation,5465,"Fox Plaza Dr",Memphis,TN,"Shelby County",38115,US
+66," Leo's BBQ"," 3631 North Kelley Avenue"," 73111"," Oklahoma City"," OK",35.50652,-97.494548,1,range_interpolation,3631,"N Kelley Ave","Oklahoma City",OK,"Oklahoma County",73111,US
+67," Little Tea Shop"," 69 Monroe Avenue"," "," Memphis"," TN",35.144271,-90.054154,1,range_interpolation,69,"Monroe Ave",Memphis,TN,"Shelby County",38103,US
+68," Los Tapatios"," 1141 Old Bayshore Highway"," "," San Jose"," CA",37.364641,-121.896877,1,range_interpolation,1141,"Old Bayshore Hwy","San Jose",CA,"Santa Clara County",95112,US
+69," Louie Mueller Barbecue"," 206 West Second Street"," "," Taylor"," TX",30.568659,-97.411702,1,range_interpolation,206,"W 2nd St",Taylor,TX,"Williamson County",76574,US
+70," Mac and Ernie's Roadside Eatery"," Williams' Creek Depot - FM 470"," 78883"," Tarpley"," TX",29.675083,-99.292249,1,street_center,,"Williams Creek Rd",Tarpley,TX,"Bandera County",78883,US
+71," Mad Greek's Diner"," 72112 Baker Boulevard"," "," Baker"," CA",35.266788,-116.07412,1,rooftop,72112,"Baker Blvd",Baker,CA,"San Bernardino County",92309,US
+72," 39th Street Mama's CLOSED"," 3906 Waddell Street"," "," Kansas City"," MO",39.055985,-94.595512,1,range_interpolation,3906,"Waddell Ave","Kansas City",MO,"Jackson County",64111,US
+73," Maria's Taco Xpress"," 2529 South Lamar Boulevard"," "," Austin"," TX",30.245234,-97.77959,1,range_interpolation,2529,"S Lamar Blvd",Austin,TX,"Travis County",78704,US
+74," Marietta Diner"," 306 Cobb Pkwy S"," 30060"," Marietta"," GA",33.944229,-84.516758,0.8,range_interpolation,306,"Cobb Pkwy S",Marietta,GA,"Cobb County",30060,US
+75," Marlowe's Ribs"," 4381 Elvis Presley Boulevard"," "," Memphis"," TN",35.029185,-90.025328,1,range_interpolation,4381,"Elvis Presley Blvd",Memphis,TN,"Shelby County",38116,US
+76," Matthew's Cafeteria"," 2299 Main Street"," "," Tucker"," GA",33.852583,-84.213954,1,range_interpolation,2299,"Main St",Tucker,GA,"DeKalb County",30084,US
+77," Matt's Big Breakfast"," 801 North 1st Street"," "," Phoenix"," AZ",33.456454,-112.072541,1,range_interpolation,801,"N 1st St",Phoenix,AZ,"Maricopa County",85004,US
+78," Mike's Chili Parlor"," 1447 Northwest Ballard Way"," "," Seattle"," WA",47.662782,-122.374427,1,range_interpolation,1447,"NW Ballard Way",Seattle,WA,"King County",98107,US
+79," Mike's City Diner"," 1714 Washington Street"," "," Boston"," MA",42.336845,-71.076088,1,range_interpolation,1714,"Washington St",Boston,MA,"Suffolk County",02118,US
+80," Mo Gridder's"," 565 Hunts Point Avenue"," "," Bronx"," NY",40.812094,-73.883564,1,rooftop,565,"Hunts Point Ave",Bronx,NY,"Bronx County",10474,US
+81," Monte Carlo Steakhouse"," 3916 Central SW"," "," Albuquerque"," NM",35.0862,-106.683703,1,range_interpolation,3916,"Central Ave",Albuquerque,NM,"Bernalillo County",87105,US
+82," Mustache Bill's Diner"," 8th Avenue and Broadway Street"," "," Barnegat Light"," NJ",39.757703,-74.106586,0.78,intersection,,Broadway,"Barnegat Light",NJ,"Ocean County",08006,US
+83," The Nook"," 492 Hamline Avenue South"," "," St. Paul"," MN",0,0,0,,,,,,,,
+84," The Original Falafel's Drive-In"," 2301 Stevens Creek Boulevard"," 95128"," San Jose"," CA",37.323209,-121.935699,1,range_interpolation,2301,"Stevens Creek Blvd","San Jose",CA,"Santa Clara County",95128,US
+85," Panini Pete's"," 42 1/2 South Section Street"," "," Fairhope"," AL",30.524284,-87.902998,1,range_interpolation,"42 1/2","S Section St",Fairhope,AL,"Baldwin County",36532,US
+86," Paradise Pup"," 1724 S. River Road"," "," Des Plaines"," IL",42.02212,-87.876048,1,range_interpolation,1724,"S River Rd","Des Plaines",IL,"Cook County",60018,US
+87," Patrick's Roadhouse"," 106 Entrada Drive"," "," Los Angeles"," CA",34.027998,-118.518343,1,rooftop,106,"Entrada Dr","Santa Monica",CA,"Los Angeles County",90402,US
+88," Penguin Drive-In"," 1921 Commonwealth Avenue"," "," Charlotte"," NC",35.21893,-80.813216,1,range_interpolation,1921,"Commonwealth Ave",Charlotte,NC,"Mecklenburg County",28205,US
+89," Pizza Palace"," 3132 E. Magnolia Avenue"," "," Knoxville"," TN",35.994559,-83.886547,1,range_interpolation,3132,"E Magnolia Ave",Knoxville,TN,"Knox County",37914,US
+90," Ramona Cafe"," 628 Main Street"," "," Ramona"," CA",33.044919,-116.862667,1,rooftop,628,"Main St",Ramona,CA,"San Diego County",92065,US
+91," The Ritz Diner"," 72 E. Mount Pleasant Avenue"," "," Livingston"," NJ",40.796412,-74.312152,1,range_interpolation,72,"E Mount Pleasant Ave",Livingston,NJ,"Essex County",07039,US
+92," Roberto's Mexican Food"," 39510 N. Daisy Mountain Drive"," 85086"," Anthem"," AZ",33.853985,-112.115626,1,range_interpolation,39510,"N Daisy Mountain Dr",Anthem,AZ,"Maricopa County",85086,US
+93," The Rock Cafe"," 114 Main Street"," "," Stroud"," OK",35.786115,-96.777146,1,range_interpolation,114,"Main St",Stroud,OK,"Lincoln County",74079,US
+94," Rosie's Diner CLOSED"," 4500 14 Mile Road"," "," Rockford"," MI",43.132429,-85.551631,0.33,place,,,Rockford,MI,"Kent County",49341,US
+95," Russian River Pub"," 11829 River Road"," "," Forestville"," CA",38.505671,-122.942758,1,range_interpolation,11829,"River Rd",Forestville,CA,"Sonoma County",95436,US
+96," Schooner or Later"," 241 N. Marina Drive"," "," Long Beach"," CA",33.751916,-118.108352,1,rooftop,241,"N  Marina Dr","Long Beach",CA,"Los Angeles County",90803,US
+97," Scully's Tavern"," 9809 Sunset Drive"," "," Miami"," FL",25.703737,-80.298461,0.8,street_center,,"SW 72nd St","South Miami",FL,"Miami-Dade County",33143,US
+98," Silk City Diner"," 435 Spring Garden Street"," "," Philadelphia"," PA",39.961326,-75.145827,1,range_interpolation,435,"Spring Garden St",Philadelphia,PA,"Philadelphia County",19123,US
+99," Skylark Diner"," Route 1 and Wooding Avenue"," "," Edison"," NJ",40.519753,-74.393444,1,place,,,Edison,NJ,"Middlesex County",08817,US
+100," Smokey Valley Truck Stop"," 40 Bond Court"," "," Olive Hill"," KY",38.298549,-83.208975,0.9,range_interpolation,40,"Bond Ln","Olive Hill",KY,"Carter County",41164,US
+101," Smoque"," 3800 N. Pulaski Road"," "," Chicago"," IL",41.950182,-87.727508,1,range_interpolation,3800,"N Pulaski Rd",Chicago,IL,"Cook County",60641,US
+102," South Side Soda Shop & Diner"," 1122 South Main Street"," "," Goshen"," IN",41.572034,-85.829995,1,range_interpolation,1122,"S Main St",Goshen,IN,"Elkhart County",46526,US
+103," Squeeze Inn"," 5301 Power Inn Road"," 95820"," Sacramento"," CA",38.529255,-121.409299,0.8,range_interpolation,5301,"Power Inn Rd",Sacramento,CA,"Sacramento County",95820,US
+104," Studio Diner"," 4701 Ruffin Road"," "," San Diego"," CA",32.824176,-117.127328,1,range_interpolation,4701,"Ruffin Rd","San Diego",CA,"San Diego County",92123,US
+105," Sweetie Pie's"," 4270 Manchester Avenue"," "," St. Louis"," MO",38.626978,-90.255633,1,range_interpolation,4270,"Manchester Ave","Saint Louis",MO,"St. Louis city",63110,US
+106," Taylor's Automatic Refresher"," 933 Main Street"," "," St. Helena"," CA",38.502041,-122.465393,1,range_interpolation,933,"Main St","Saint Helena",CA,"Napa County",94574,US
+107," Tecolote Cafe"," 1203 Cerrillos Road"," "," Santa Fe"," NM",35.674647,-105.958867,1,range_interpolation,1203,"Cerrillos Rd","Santa Fe",NM,"Santa Fe County",87505,US
+108," Ted Peters Famous Smoked Fish"," 1350 Pasadena Avenue"," "," Pasadena"," FL",34.076761,-118.215642,0.4,street_center,,"Pasadena Ave","Los Angeles",CA,"Los Angeles County",90031,US
+109," Thee Pitts Again"," 5558 W. Bell Road"," "," Glendale"," AZ",33.638998,-112.179772,1,range_interpolation,5558,"W Bell Rd",Glendale,AZ,"Maricopa County",85308,US
+110," Tom's Bar-B-Q"," 4087 New Getwell Road"," 38118"," Memphis"," TN",35.037131,-89.936714,1,range_interpolation,4087,"New Getwell Rd",Memphis,TN,"Shelby County",38118,US
+111," Village Cafe"," 1001 W. Grace Street"," "," Richmond"," VA",37.55096,-77.453315,1,rooftop,1001,"W Grace St",Richmond,VA,"Richmond city",23220,US
+112," Virginia Diner"," 408 County Drive N"," 23888"," Wakefield"," VA",36.97356,-76.98905,1,rooftop,408,"N County Dr",Wakefield,VA,"Sussex County",23888,US
+113," Voula's Offshore Cafe"," 658 NE Northlake Way"," "," Seattle"," WA",47.654649,-122.321759,1,range_interpolation,658,"NE Northlake Way",Seattle,WA,"King County",98105,US
+114," White Palace Grill"," 1159 S. Canal Street"," "," Chicago"," IL",41.867761,-87.639067,1,range_interpolation,1159,"S Canal St",Chicago,IL,"Cook County",60607,US
+115," Willie Bird's Restaurant"," 1150 Santa Rosa Avenue"," "," Santa Rosa"," CA",38.426922,-122.71314,1,range_interpolation,1150,"Santa Rosa Ave","Santa Rosa",CA,"Sonoma County",95404,US
+116," YJ's Snack Bar"," 128 W. 18th Street"," "," Kansas City"," MO",39.091986,-94.584985,1,range_interpolation,128,"W 18th St","Kansas City",MO,"Jackson County",64108,US
+117," Victor's 1959 Cafe"," 3756 Grand Ave"," "," Minneapolis"," MN",44.934871,-93.284504,1,range_interpolation,3756,"Grand Ave",Minneapolis,MN,"Hennepin County",55409,US
+118," Town Talk Diner CLOSED"," 2701 1/2 E. Lake Street"," "," Minneapolis"," MN",44.948502,-93.277946,1,range_interpolation,"2701 1/2","E Lake St",Minneapolis,MN,"Hennepin County",55406,US
+119," Donatelli's"," 2692 East County Road E"," "," White Bear Lake"," MN",48.643714,-96.914605,0.22,place,,,Kennedy,MN,"Kittson County",56733,US
+120," Modern Cafe"," 337 13th Ave NE"," "," Minneapolis"," MN",45.000746,-93.262011,1,range_interpolation,337,"13th Ave NE",Minneapolis,MN,"Hennepin County",55413,US
+121," Byways Cafe"," 1212 NW Glisan"," "," Portland"," OR",45.526345,-122.683601,1,range_interpolation,1212,"NW Glisan St",Portland,OR,"Multnomah County",97209,US
+122," The Wienery"," 414 Cedar Ave S."," 55467"," Minneapolis"," MN",44.969653,-93.247388,1,range_interpolation,414,"Cedar Ave S",Minneapolis,MN,"Hennepin County",55454,US
+123," Clanton's Cafe"," 319 E. Illinois Ave."," 74301"," Vinita"," OK",36.63737,-95.151109,1,range_interpolation,319,"E Illinois Ave",Vinita,OK,"Craig County",74301,US
+124," Grinder's"," 417 E. 18th St."," 64108"," Kansas City"," MO",39.091475,-94.578809,1,range_interpolation,417,"E 18th St","Kansas City",MO,"Jackson County",64108,US
+125," Tip Top Cafe"," 2814 Fredericksburg Rd."," 78201"," San Antonio"," TX",29.469673,-98.531054,1,range_interpolation,2814,"Fredericksburg Rd","San Antonio",TX,"Bexar County",78201,US
+126," The Shed"," 7501 Hwy 57"," 39565"," Ocean Springs"," MS",30.413758,-88.824232,0.8,street_center,,"State St","Ocean Springs",MS,"Jackson County",39564,US
+127," The Joint"," 701 Mazant Street"," 70117"," New Orleans"," LA",29.961118,-90.035688,1,range_interpolation,701,"Mazant St","New Orleans",LA,"Orleans Parish",70117,US
+128," Texas Pride BBQ"," 2980 E Tx 1604 Loop S"," 78101"," Adkins"," TX",29.390034,-98.238813,1,range_interpolation,2980,"E Tx 1604th Loop",Adkins,TX,"Bexar County",78101,US
+129," Burger Bar"," 5291 S 1900 W"," 84067"," Roy"," UT",41.167494,-112.026183,1,range_interpolation,5291,"S 1900 W",Roy,UT,"Weber County",84067,US
+130," Emily's Lebanese Delicatessen"," 641 University Ave NE"," 55416"," Minneapolis"," MN",44.994982,-93.260898,1,range_interpolation,641,"University Ave NE",Minneapolis,MN,"Hennepin County",55413,US
+131," The Original Vito and Nick's Pizzeria"," 8433 South Pulaski Road"," 60652"," Chicago"," IL",41.73958,-87.721589,1,range_interpolation,8433,"S Pulaski Rd",Chicago,IL,"Cook County",60652,US
+132," Valencia Luncheria"," 172 Main Street"," 06851"," Norwalk"," CT",41.125663,-73.419596,1,range_interpolation,172,"Main St",Norwalk,CT,"Fairfield County",06851,US
+133," Brewburger's"," 4629 South 108th Street"," 68127"," Omaha"," NE",41.213124,-96.081323,1,range_interpolation,4629,"S 108th St",Omaha,NE,"Douglas County",68137,US
+134," Glenn's Diner"," 1820 W. Montrose Ave"," 60613"," Chicago"," IL",41.961653,-87.675249,1,range_interpolation,1820,"W Montrose Ave",Chicago,IL,"Cook County",60613,US
+135," Lone Star Taqueria"," 2265 Fort Union Boulevard"," 84121"," Salt Lake City"," UT",40.624127,-111.826048,1,range_interpolation,2265,"Fort Union Blvd","Salt Lake City",UT,"Salt Lake County",84121,US
+136," Pat's BBQ"," 155 West Commonwealth Avenue"," 84115"," Salt Lake City"," UT",40.724441,-111.895097,1,range_interpolation,155,"W Commonwealth Ave","Salt Lake City",UT,"Salt Lake County",84115,US
+137," Blow Fly Inn"," 1201 Washington Ave"," 39507"," Gulfport"," MS",30.402331,-89.031263,1,range_interpolation,1201,"Washington Ave",Gulfport,MS,"Harrison County",39507,US
+138," Tune-Up Cafe"," 1115 Hickox Street"," "," Santa Fe"," NM",35.681074,-105.958411,1,range_interpolation,1115,"Hickox St","Santa Fe",NM,"Santa Fe County",87505,US
+139," Pizzeria Luigi"," 1137 25th Street"," 92102"," San Diego"," CA",32.717458,-117.140137,1,range_interpolation,1137,"25th St","San Diego",CA,"San Diego County",92102,US
+140," Di Pasquale's"," 3700 Gough Street"," 21224"," Baltimore"," MD",39.288909,-76.566476,1,rooftop,3700,"Gough St",Baltimore,MD,"Baltimore city",21224,US
+141," Lo Bello's"," 809 Fifth Avenue"," 15108"," Coraopolis"," PA",40.519859,-80.170055,0.9,range_interpolation,809,"5th Ave",Coraopolis,PA,"Allegheny County",15108,US
+142," Stoney Creek Inn"," 8238 Fort Smallwood Road"," 21226"," Baltimore"," MD",39.164919,-76.530088,1,rooftop,8238,"Fort Smallwood Rd","Curtis Bay",MD,"Anne Arundel County",21226,US
+143," Alcenia's"," 317 N Main"," 38103"," Memphis"," TN",35.153615,-90.049616,1,range_interpolation,317,"N Main St",Memphis,TN,"Shelby County",38103,US
+144," Harry's Roadhouse"," 96 Old Las Vegas"," 87505"," Santa Fe"," NM",35.656638,-105.946155,0.33,place,,,"Santa Fe",NM,"Santa Fe County",87505,US
+145," Dor-Stop Restaurant"," 1430 Potomac Ave"," 15216"," Pittsburgh"," PA",40.395782,-80.034645,1,range_interpolation,1430,"Potomac Ave",Pittsburgh,PA,"Allegheny County",15216,US
+146," Surrey's Cafe"," 1418 Magazine Street"," 70130"," New Orleans"," LA",29.935841,-90.071837,1,range_interpolation,1418,"Magazine St","New Orleans",LA,"Orleans Parish",70130,US
+147," Sophia's Place"," 6313 4th St N.W."," 87107"," Albuquerque"," NM",35.149033,-106.639444,1,range_interpolation,6313,"4th St NW",Albuquerque,NM,"Bernalillo County",87107,US
+148," Magnolia Cafe"," 1920 S Congress Ave"," 78704"," Austin"," TX",30.245006,-97.751504,0.9,range_interpolation,1920,"Congress Ave S",Austin,TX,"Travis County",78704,US
+149," Ruth's Diner"," 2100 Emigration Canyon"," 84108"," Salt Lake City"," UT",40.760022,-111.782916,1,range_interpolation,2100,"Emigration Cyn","Salt Lake City",UT,"Salt Lake County",84108,US
+150," O'Rourke's Diner"," 728 Main Street"," 06457"," Middletown"," CT",41.565583,-72.652686,1,range_interpolation,728,"Main St",Middletown,CT,"Middlesex County",06457,US
+151," Parasol's Restaurant & Bar"," 2533 Constance Street"," 70130"," New Orleans"," LA",29.926729,-90.079672,1,range_interpolation,2533,"Constance St","New Orleans",LA,"Orleans Parish",70130,US
+152," Tommy's Joynt"," 1101 Geary Blvd."," 94109"," San Francisco"," CA",37.785497,-122.421804,1,rooftop,1101,"Geary Blvd","San Francisco",CA,"San Francisco County",94109,US
+153," Joe Tess Place"," 5424 South 24th Street"," 68102"," Omaha"," NE",41.203551,-95.94721,1,range_interpolation,5424,"S 24th St",Omaha,NE,"Douglas County",68107,US
+154," Big Jim's"," 201 Saline Street"," 15201"," Pittsburgh"," PA",40.427065,-79.949528,1,range_interpolation,201,"Saline St",Pittsburgh,PA,"Allegheny County",15207,US
+155," Hob Nob Hill"," 2271 First Ave"," 92101"," San Diego"," CA",32.729118,-117.163772,0.9,range_interpolation,2271,"1st Ave","San Diego",CA,"San Diego County",92101,US
+156," Tufano's Vernon Park Tap"," 1073 W Vernon Park"," 60607"," Chicago"," IL",41.751444,-87.613723,0.8,street_center,,"S Vernon Ave",Chicago,IL,"Cook County",60619,US
+157," The Silver Skillet"," 200 14th St."," 30318"," Atlanta"," GA",33.786468,-84.396056,1,range_interpolation,200,"14th St NW",Atlanta,GA,"Fulton County",30318,US
+158," Wilsons BBQ"," 1851 Post Rd"," 06824"," Fairfield"," CT",41.140961,-73.264204,1,range_interpolation,1851,"Post Rd",Fairfield,CT,"Fairfield County",06824,US
+159," Standard Diner"," 320 Central Ave. SE"," 87102"," Albuquerque"," NM",35.08334,-106.643354,1,range_interpolation,320,"Central Ave NW",Albuquerque,NM,"Bernalillo County",87102,US
+160," Salsa Brava"," 2220 E Route 66"," 86004"," Flagstaff"," AZ",35.203542,-111.615806,1,range_interpolation,2220,"E Old Route 66",Flagstaff,AZ,"Coconino County",86004,US
+161," Dell Rhea's Chicken Basket"," 645 Joliet Road"," 60527"," Willowbrook"," IL",41.743508,-87.941266,1,range_interpolation,645,"Joliet Rd",Hinsdale,IL,"DuPage County",60527,US
+162," Green Mesquite"," 1400 Barton Springs Rd."," 78704"," Austin"," TX",30.261026,-97.759158,1,range_interpolation,1400,"Barton Springs Rd",Austin,TX,"Travis County",78704,US
+163," Gorilla Barbeque"," 2145 Coast Highway"," 94044"," Pacifica"," CA",37.61226,-122.489299,1,range_interpolation,2145,"Coast Hwy",Pacifica,CA,"San Mateo County",94044,US
+164," Hank's Creekside Restaurant"," 2800 4th St."," 95405"," Santa Rosa"," CA",38.447072,-122.70177,0.8,street_center,,"4th St","Santa Rosa",CA,"Sonoma County",95404,US
+165," Rivershack Tavern"," 3449 River Rd."," 70121"," Jefferson"," LA",29.959735,-90.15502,0.8,street_center,,"River Rd","New Orleans",LA,"Jefferson Parish",70121,US
+166," Blue Plate Diner"," 2041 S 2100 E"," 84108"," Salt Lake City"," UT",40.726534,-111.830643,1,range_interpolation,2041,"S 2100 E","Salt Lake City",UT,"Salt Lake County",84108,US
+167," Broadway Diner"," 6501 Eastern Ave"," 21224"," Baltimore"," MD",39.287478,-76.53662,1,rooftop,6501,"Eastern Ave",Baltimore,MD,"Baltimore city",21224,US
+168," The Highlander"," 931 Monroe Dr."," 30308"," Atlanta"," GA",33.779734,-84.367603,1,rooftop,931,"Monroe Dr NE",Atlanta,GA,"Fulton County",30308,US
+169," Guys Gumbo Shack"," 212 1/2 Fairhope Ave."," 36532"," Fairhope"," AL",30.523531,-87.910366,1,range_interpolation,"212 1/2","Fairhope Ave",Fairhope,AL,"Baldwin County",36532,US
+170," Starlite Lounge"," 364 Freeport Road"," 15238"," Blawnox"," PA",40.494033,-79.860352,1,range_interpolation,364,"Freeport Rd",Pittsburgh,PA,"Allegheny County",15238,US
+171," Casino El Camino"," 517 E 6th St."," 78701"," Austin"," TX",30.26659,-97.738145,1,range_interpolation,517,"E 6th St",Austin,TX,"Travis County",78701,US
+172," G and A Restaurant"," 3802 Eastern Avenue"," 21224"," Baltimore"," MD",39.286987,-76.565112,1,rooftop,3802,"Eastern Ave",Baltimore,MD,"Baltimore city",21224,US
+173," Uncle Lou's"," 3633 Millbranch Road"," 38116"," Memphis"," TN",35.04962,-90.007624,1,range_interpolation,3633,"Millbranch Rd",Memphis,TN,"Shelby County",38116,US
+174," Captain Chuck-a-Mucks"," 21088 Marina Road"," 23314"," Carrollton"," VA",36.994763,-76.562064,1,rooftop,21088,"Marina Rd",Carrollton,VA,"Isle of Wight County",23314,US
+175," Dixie Quick's"," 157 West Broadway"," 51503"," Council Bluffs"," IA",41.263556,-95.843257,1,range_interpolation,157,"E Broadway","Council Bluffs",IA,"Pottawattamie County",51503,US
+176," Cabbagetown CLOSED"," 198 Carroll St. SE"," 30312"," Atlanta"," GA",33.760387,-84.366421,1,range_interpolation,198,"Corley St NE",Atlanta,GA,"Fulton County",30312,US
+177," The Cove"," 606 W. Cypress St."," 78212"," San Antonio"," TX",29.440501,-98.500751,1,range_interpolation,606,"W Cypress St","San Antonio",TX,"Bexar County",78212,US
+178," Bryant Lake Bowl"," 801 W Lake St."," 55408"," Minneapolis"," MN",44.948514,-93.289375,1,range_interpolation,801,"W Lake St",Minneapolis,MN,"Hennepin County",55408,US
+179," Jamaica Kitchen"," 8736 SW 72 Street Miami"," FL 33173"," 33173"," Miami"," FL",25.702026,-80.337462,1,range_interpolation,8736,"SW 72nd St",Miami,FL,"Miami-Dade County",33173,US
+180," Crystal Restaurant"," 1211 Penn Avenue"," 15222"," Pittsburgh"," PA",40.445957,-79.992386,1,range_interpolation,1211,"Penn Ave",Pittsburgh,PA,"Allegheny County",15222,US
+181," Red Iguana"," 736 W North Temple"," 84116"," Salt Lake City"," UT",40.77169,-111.912034,0.9,range_interpolation,736,"N Temple St","Salt Lake City",UT,"Salt Lake County",84116,US
+182," Colonnade"," 1879 Cheshire Bridge Road NE"," 30084"," Atlanta"," GA",33.80959,-84.361131,1,range_interpolation,1879,"Cheshire Bridge Rd",Atlanta,GA,"Fulton County",30324,US
+183," Manci's Antique Club"," 1715 Main St."," 36526"," Daphne"," AL",30.603494,-87.902886,1,range_interpolation,1715,"Main St",Daphne,AL,"Baldwin County",36526,US
+184," Amato's"," 6405 Center Street"," 68016"," Omaha"," NE",41.237742,-96.011968,1,range_interpolation,6405,"Center St",Omaha,NE,"Douglas County",68106,US
+185," Darwell's Cafe"," 127 E. First St."," 39560"," Long Beach"," MS",30.350379,-89.150642,1,range_interpolation,127,"E 1st St","Long Beach",MS,"Harrison County",39560,US
+186," Brick Oven Pizza"," 800 S Broadway"," 21231"," Baltimore"," MD",39.282453,-76.59372,1,rooftop,800,"S Broadway",Baltimore,MD,"Baltimore city",21231,US
+187," Nadine's"," 19 S. 27th St."," 19203"," Pittsburgh"," PA",40.426328,-79.967265,1,range_interpolation,19,"S 27th St",Pittsburgh,PA,"Allegheny County",15203,US
+188," Casamento's"," 4330 Magazine St."," 70115"," New Orleans"," LA",29.920724,-90.100473,1,range_interpolation,4330,"Magazine St","New Orleans",LA,"Orleans Parish",70115,US
+189," Big Mama's"," 3223 North 45th St."," 68104"," Omaha"," NE",41.287981,-95.980449,1,range_interpolation,3223,"N 45th St",Omaha,NE,"Douglas County",68104,US
+190," Moochie's Meatballs"," 232 E 800 S."," 84111"," Salt Lake City"," UT",40.751803,-111.884191,1,range_interpolation,232,"E 800 S","Salt Lake City",UT,"Salt Lake County",84111,US
+191," Cemita's Puebla"," 3619 North Ave"," 60647"," Chicago"," IL",41.89063,-87.618745,0.8,street_center,,"N New St",Chicago,IL,"Cook County",60611,US
+192," Tioli's Crazee Burger"," 4201 30th Street"," 92104"," San Diego"," CA",32.754377,-117.129806,1,rooftop,4201,"30th St","San Diego",CA,"San Diego County",92104,US
+193," Cecilia's Cafe"," 230 6TH St. SW"," 87102"," Albuquerque"," NM",35.083534,-106.654066,1,range_interpolation,230,"6th St SW",Albuquerque,NM,"Bernalillo County",87102,US
+194," Joey K's"," 3001 Magazine St"," 70115"," New Orleans"," LA",29.92485,-90.084623,1,range_interpolation,3001,"Magazine St","New Orleans",LA,"Orleans Parish",70115,US
+195," Kelly O's"," 1130 Perry Hwy"," 15237"," Pittsburgh"," PA",40.546031,-80.035924,1,range_interpolation,1130,"Perry Hwy",Pittsburgh,PA,"Allegheny County",15237,US
+196," Giusti's"," 14743 Walnut Grove-Thornton Road"," 95690"," Walnut Grove"," CA",38.223783,-121.507214,1,range_interpolation,14743,"Walnut Grove-thornton Rd","Walnut Grove",CA,"Sacramento County",95690,US
+197," Louie's"," 1839 N Henderson Avenue"," 75206"," Dallas"," TX",32.810782,-96.77401,1,range_interpolation,1839,"N Henderson Ave",Dallas,TX,"Dallas County",75206,US
+198," Super Duper Weenie"," 306 Black Rock Turnpike"," 06825"," Fairfield"," CT",41.164814,-73.234171,1,range_interpolation,306,"Black Rock Tpke",Fairfield,CT,"Fairfield County",06825,US
+199," California Taco"," 3235 California Street"," 68131"," Omaha"," NE",41.264639,-95.960312,1,range_interpolation,3235,"California St",Omaha,NE,"Douglas County",68131,US
+200," Bert's Burger Bowl"," 235 N Guadalupe St."," 87501"," Santa Fe"," NM",35.689711,-105.943999,1,range_interpolation,235,"N Guadalupe St","Santa Fe",NM,"Santa Fe County",87501,US
+201," Chef Point Cafe"," 5901 Watauga Rd."," 76148"," Watauga"," TX",32.860684,-97.253923,1,range_interpolation,5901,"Watauga Rd","Fort Worth",TX,"Tarrant County",76148,US
+202," Jamie's Grill and Bar"," 427 Braodway"," 95818"," Sacramento"," CA",38.557255,-121.495915,0.33,place,,,Sacramento,CA,"Sacramento County",95818,US
+203," Black Duck Cafe"," 605 Riverside Avenue"," 06800"," Westport"," CT",41.120172,-73.370295,1,range_interpolation,605,"Riverside Ave",Westport,CT,"Fairfield County",06880,US
+204," Backroad Pizza"," 1807 2nd Street"," 87505"," Santa Fe"," NM",35.663305,-105.965643,1,range_interpolation,1807,"2nd St","Santa Fe",NM,"Santa Fe County",87505,US
+205," Kuma's Corner"," 2900 W Belmont Ave"," 60618"," Chicago"," IL",41.939227,-87.700276,1,range_interpolation,2900,"W Belmont Ave",Chicago,IL,"Cook County",60618,US
+206," Slim's Last Chance"," 5606 1st Avenue S"," 98108"," Seattle"," WA",47.55266,-122.334067,1,range_interpolation,5606,"1st Ave S",Seattle,WA,"King County",98108,US
+207," Cafe Rolle"," 5737 H Street"," 95819"," Sacramento"," CA",38.567494,-121.43182,1,range_interpolation,5737,"H St",Sacramento,CA,"Sacramento County",95819,US
+208," Bar Gernika"," 202 South Capitol Blvd"," 83714"," Boise"," ID",43.615725,-116.201435,1,range_interpolation,202,"S Capitol Blvd",Boise,ID,"Ada County",83702,US
+209," Havana Hideout"," 509 Lake Avenue"," 33460"," Lake Worth"," FL",26.615541,-80.053757,1,rooftop,509,"Lake Ave","Lake Worth",FL,"Palm Beach County",33460,US
+210," Los Taquitos"," 4747 East Elliot Road"," 85044"," Phoenix"," AZ",33.348756,-111.983975,1,range_interpolation,4747,"E Elliot Rd",Phoenix,AZ,"Maricopa County",85044,US
+211," Fred's Texas Cafe"," 915 Currie Street"," 76107"," Ft. Worth"," TX",32.750019,-97.358218,1,range_interpolation,915,"Currie St","Fort Worth",TX,"Tarrant County",76107,US
+212," Blue Water Seafood"," 3667 India Street"," 92103"," San Diego"," CA",32.742072,-117.179771,1,rooftop,3667,"India St","San Diego",CA,"San Diego County",92103,US
+213," Creolina's Dixie Take Out CLOSED"," 13150 West State Road 84"," 33325"," Davie"," FL",26.116939,-80.322615,1,range_interpolation,13150,"State Hwy 84","Fort Lauderdale",FL,"Broward County",33325,US
+214," Sol Food"," 901 Lincoln Ave"," 94901"," San Rafael"," CA",37.971801,-122.524059,1,range_interpolation,901,"Lincoln Ave","San Rafael",CA,"Marin County",94901,US
+215," Georgia's Greek"," 323 NW 85th Street"," 98117"," Seattle"," WA",47.690475,-122.360783,1,range_interpolation,323,"NW 85th St",Seattle,WA,"King County",98117,US
+216," Over Easy"," 4730 E Indian School Road"," 85018"," Phoenix"," AZ",33.494821,-111.980111,1,range_interpolation,4730,"E Indian School Rd",Phoenix,AZ,"Maricopa County",85018,US
+217," Avila's"," 4714 Maple Avenue"," 75219"," Dallas"," TX",32.813956,-96.825324,1,range_interpolation,4714,"Maple Ave",Dallas,TX,"Dallas County",75219,US
+218," West Side Drive-In"," 1939 West State Street"," 83702"," Boise"," ID",43.625281,-116.213828,1,range_interpolation,1939,"W State St",Boise,ID,"Ada County",83702,US
+219," Bizzarro Italian Cafe"," 1307 N 46th Street"," 98103"," Seattle"," WA",47.661973,-122.34199,1,range_interpolation,1307,"N 46th St",Seattle,WA,"King County",98103,US
+220," La Piazza Al Forno"," 5803 W Glendale Avenue"," 85301"," Glendale"," AZ",33.538418,-112.183797,1,range_interpolation,5803,"W Glendale Ave",Glendale,AZ,"Maricopa County",85301,US
+221," Twisted Root Burger Company"," 2615 Commerce Street"," 75226"," Dallas"," TX",32.782678,-96.786684,1,range_interpolation,2615,"Commerce St",Dallas,TX,"Dallas County",75226,US
+222," Arleta Library Bakery and Cafe"," 5513 SE 72nd"," 97206"," Portland"," OR",45.482982,-122.58939,1,range_interpolation,5513,"SE 72nd Ave",Portland,OR,"Multnomah County",97206,US
+223," Bubba's Diner"," 566 San Anselmo Avenue"," 94960"," San Anselmo"," CA",37.976318,-122.563199,1,range_interpolation,566,"San Anselmo Ave","San Anselmo",CA,"Marin County",94960,US
+224," Flakowitz of Boynton"," 7410 West Boynton Beach Blvd"," 33437"," Boynton Beach"," FL",26.526435,-80.163002,1,rooftop,7410,"Boynton Beach Blvd","Boynton Beach",FL,"Palm Beach County",33437,US
+225," Jamaica Gates Caribbean Cuisine"," 1020 W Arkansas"," 76013"," Arlington"," TX",32.706303,-97.118871,1,range_interpolation,1020,"W Arkansas Ln",Arlington,TX,"Tarrant County",76013,US
+226," Otto's Sausage"," 4138 SE Woodstock Blvd"," 97202"," Portland"," OR",45.479038,-122.620299,1,range_interpolation,4138,"SE Woodstock Blvd",Portland,OR,"Multnomah County",97202,US
+227," Zia Diner"," 326 South Guadalupe"," 87501"," Santa Fe"," NM",35.685627,-105.945487,1,range_interpolation,326,"S Guadalupe St","Santa Fe",NM,"Santa Fe County",87501,US
+228," Southern Kitchen"," 1716 6th Avenue"," 98405"," Tacoma"," WA",47.256087,-122.46152,1,range_interpolation,1716,"6th Ave",Tacoma,WA,"Pierce County",98405,US
+229," Giuseppe's"," 2824 E Indian Road"," 85016"," Phoenix"," AZ",32.956657,-112.72595,0.8,street_center,,"W Indian Rd","Gila Bend",AZ,"Maricopa County",85337,US
+230," Blue Marlin"," 2500 North East 163rd Street"," 33302"," Miami"," FL",25.925278,-80.175351,0.8,street_center,,"NE 163rd St",Miami,FL,"Miami-Dade County",33162,US
+231," Pine State Biscuits"," 2204 NE Alberta Street"," 97211"," Portland"," OR",45.558915,-122.642856,1,range_interpolation,2204,"NE Alberta St",Portland,OR,"Multnomah County",97211,US
+232," Rocco's Ristorante"," 1131 Folsom Street"," 94103"," San Francisco"," CA",37.775955,-122.408454,1,rooftop,1131,"Folsom St","San Francisco",CA,"San Francisco County",94103,US
+233," Donn's Hilltop Kodiak Grill CLOSED"," 12342 East Highway 21"," 83716"," Boise"," ID",43.609842,-116.181804,0.8,street_center,,"E State St",Boise,ID,"Ada County",83712,US
+234," La Camaronera"," 1952 West Flagler Street"," 33135"," Miami"," FL",25.772525,-80.227456,1,range_interpolation,1952,"State Hwy 968",Miami,FL,"Miami-Dade County",33135,US
+235," Dottie's True Blue Cafe"," 28 6th Street"," 94103"," San Francisco"," CA",37.781544,-122.409696,1,range_interpolation,28,"6th St","San Francisco",CA,"San Francisco County",94103,US
+236," Tre Kronor"," 3258 Foster Avenue"," 60625"," Chicago"," IL",41.975876,-87.710349,1,range_interpolation,3258,"Foster Ave",Chicago,IL,"Cook County",60625,US
+237," Rick's Press Room Grill and Bar"," 130 East Idaho Street"," 83642"," Meridian"," ID",43.611192,-116.395707,0.9,range_interpolation,130,"W Idaho Ave",Meridian,ID,"Ada County",83642,US
+238," Mama E's Wings and Waffles"," 3838 Springlake Drive"," 73111"," Oklahoma City"," OK",35.509278,-97.49229,1,range_interpolation,3838,"Springlake Dr","Oklahoma City",OK,"Oklahoma County",73111,US
+239," Haus Murphy's"," 5739 W. Glendale Avenue"," 85301"," Glendale"," AZ",33.538407,-112.182635,1,range_interpolation,5739,"W Glendale Ave",Glendale,AZ,"Maricopa County",85301,US
+240," Comet Cafe"," 1947 N Farwell Ave."," 53202"," Milwaukee"," WI",43.056231,-87.889406,1,range_interpolation,1947,"N Farwell Ave",Milwaukee,WI,"Milwaukee County",53202,US
+241," Bette’s Oceanview Diner"," 1807 4th Street"," 94710"," Berkeley"," CA",37.870453,-122.300715,1,range_interpolation,1807,"4th St",Berkeley,CA,"Alameda County",94710,US
+242," Bob’s Taco Station"," 1901 Ave H"," 77471"," Rosenberg"," TX",29.555889,-95.858475,1,place,,,Rosenberg,TX,"Fort Bend County",77471,US
+243," Cafe Pita"," 10890 Westheimer Road"," 77042"," Houston"," TX",29.736879,-95.568326,1,range_interpolation,10890,"Fm 1093",Houston,TX,"Harris County",77042,US
+244," Cattlemen's Steakhouse"," 1309 S Agnew Ave"," 73108"," Oklahoma City"," OK",35.452731,-97.554777,1,range_interpolation,1309,"S Agnew Ave","Oklahoma City",OK,"Oklahoma County",73108,US
+245," Eischen's Bar"," 109 N 2nd Street"," 73762"," Okarche"," OK",35.725904,-97.975456,1,range_interpolation,109,"N 2nd St",Okarche,OK,"Kingfisher County",73762,US
+246," Fab Hot Dogs"," 19417 Victory Blvd"," 91335"," Reseda"," CA",34.186832,-118.556036,1,rooftop,19417,"Victory Blvd",Reseda,CA,"Los Angeles County",91335,US
+247," Ingrid's Kitchen"," 3701 N Youngs Blvd"," 73112"," Oklahoma City"," OK",35.507872,-97.552137,1,range_interpolation,3701,"N Youngs Blvd","Oklahoma City",OK,"Oklahoma County",73112,US
+248," Kenny and Ziggy's Deli"," 2327 Post Oak Blvd"," 77056"," Houston"," TX",29.741693,-95.460871,0.9,range_interpolation,2327,"Post Oak Blvd",Houston,TX,"Harris County",77056,US
+249," Lankford Grocery and Market"," 88 Dennis St"," 77006"," Houston"," TX",29.750045,-95.383853,1,rooftop,88,"Dennis St",Houston,TX,"Harris County",77006,US
+250," Mambo's Cafe"," 1701 Victory Blvd"," 91201"," Glendale"," CA",34.161603,-118.300251,1,rooftop,1701,"Victory Blvd",Glendale,CA,"Los Angeles County",91201,US
+251," Mom's Tamales"," 3328 Pasadena Ave"," 90031"," Los Angeles"," CA",34.083838,-118.213379,1,rooftop,3328,"Pasadena Ave","Los Angeles",CA,"Los Angeles County",90031,US
+252," Nic's Grill"," 1201 N Pennsylvania Ave"," 73107"," Oklahoma City"," OK",35.480897,-97.547696,1,range_interpolation,1201,"N Pennsylvania Ave","Oklahoma City",OK,"Oklahoma County",73107,US
+253," Niko Niko's"," 2520 Montrose Blvd"," 77006"," Houston"," TX",29.746514,-95.392185,1,rooftop,2520,"Montrose Blvd",Houston,TX,"Harris County",77006,US
+254," PizzalChik"," 7330 W State St"," 83714"," Garden City"," ID",43.669154,-116.280083,1,range_interpolation,7330,"W State St","Garden City",ID,"Ada County",83714,US
+255," Podnah's Pit Barbeque"," 1625 NE Killingsworth"," 97211"," Portland"," OR",45.562865,-122.648685,1,range_interpolation,1625,"NE Killingsworth St",Portland,OR,"Multnomah County",97211,US
+256," Pok Pok Restaurant"," 3226 SE Division St"," 97202"," Portland"," OR",45.504646,-122.632409,1,range_interpolation,3226,"SE Division St",Portland,OR,"Multnomah County",97202,US
+257," Q Restaurant"," 225 Clement St"," 94118"," San Francisco"," CA",37.782826,-122.461686,1,rooftop,225,"Clement St","San Francisco",CA,"San Francisco County",94118,US
+258," T-Bone Tom's Steakhouse"," 707 Hwy 146"," 77565"," Kemah"," TX",29.541716,-95.02005,1,range_interpolation,707,"State Hwy 146",Kemah,TX,"Galveston County",77565,US
+259," The Diner"," 213 E Main St"," 73069"," Norman"," OK",35.221725,-97.441802,1,range_interpolation,213,"E Main St",Norman,OK,"Cleveland County",73069,US
+260," The Nickel Diner"," 524 S Main St"," 90013"," Los Angeles"," CA",34.046004,-118.248956,1,rooftop,524,"S  Main St","Los Angeles",CA,"Los Angeles County",90013,US
+261," The Red Lion Pub"," 2316 S Shepherd Dr"," 77019"," Houston"," TX",29.745664,-95.411003,1,rooftop,2316,"S  Shepherd Dr",Houston,TX,"Harris County",77019,US
+262," The Shanty"," 38995 N Old Highway 41"," 60083"," Wadsworth"," IL",42.428908,-87.937757,1,range_interpolation,38995,"N Us Hwy 41",Wadsworth,IL,"Lake County",60083,US
+263," Tex Wasabi's Santa Rosa"," 515 4th Street"," 95401"," Santa Rosa"," CA",38.439951,-122.715512,1,range_interpolation,515,"4th St","Santa Rosa",CA,"Sonoma County",95404,US
+264," Tex Wasabi's Sacramento"," 2243 Arden Way"," 95825"," Sacramento"," CA",38.596252,-121.412739,1,range_interpolation,2243,"Arden Way",Sacramento,CA,"Sacramento County",95825,US
+265," Johnny Garlic's Windsor CA"," 8988 Brooks Road South"," 9542"," Windsor"," CA",38.555999,-122.807251,1,range_interpolation,8988,"Brooks Rd S",Windsor,CA,"Sonoma County",95492,US
+266," Johnny Garlic's Santa Rosa CA"," 1460 Farmers Lane"," 95405"," Santa Rosa"," CA",38.434364,-122.687587,1,range_interpolation,1460,"Farmers Ln","Santa Rosa",CA,"Sonoma County",95405,US
+267," Johnny Garlic's Roseville CA"," 10505 Fairway Drive"," 95678"," Roseville"," CA",38.251262,-121.29188,0.8,street_center,,"Fairway Dr",Galt,CA,"Sacramento County",95632,US
+268," Bunk Sandwiches"," 621 SE Morrison Street"," 97214"," Portland"," OR",45.517373,-122.659578,1,range_interpolation,621,"SE Morrison St",Portland,OR,"Multnomah County",97214,US
+269," Sonny's Famous Steak Hoagies"," 1857 NW 66TH Ave"," 33024"," Hollywood"," FL",26.025877,-80.220593,1,range_interpolation,1857,"NW 66th Ave",Hollywood,FL,"Broward County",33024,US
+270," The Depot American Diner CLOSED"," 5840 W Roosevelt Road"," 60644"," Chicago"," IL",41.865659,-87.770531,1,range_interpolation,5840,"W Roosevelt Rd",Chicago,IL,"Cook County",60644,US
+271," Brandy's Restaurant and Bakery"," 1500 E Cedar Ave"," "," Flagstaff"," AZ",35.218955,-111.624632,1,range_interpolation,1500,"E Cedar Ave",Flagstaff,AZ,"Coconino County",86004,US
+272," Blueplate Lunch Counter and Soda Fountain"," 308 SW Washington Street"," "," Portland"," OR",45.519469,-122.674927,1,range_interpolation,308,"SW Washington St",Portland,OR,"Multnomah County",97204,US
+273," Polka Catering"," 4112 Verdugo Road"," "," Los Angeles"," CA",34.125509,-118.231629,1,rooftop,4112,"Verdugo Rd","Los Angeles",CA,"Los Angeles County",90065,US
+274," Whale's Rib Raw Bar"," 2031 NE 2nd Street"," "," Deerfield Beach"," FL",26.316656,-80.076608,1,rooftop,2031,"NE  2nd St","Deerfield Beach",FL,"Broward County",33441,US
+275," Pam's Trinidadian Caribbean Kitchen"," 5000 University Way NE"," "," Seattle"," WA",47.664749,-122.313076,1,range_interpolation,5000,"University Way NE",Seattle,WA,"King County",98105,US
+276," Prince Lebanese Grill"," 502 W Randol Mill Road"," "," Arlington"," TX",32.749926,-97.11137,1,range_interpolation,502,"W Randol Mill Rd",Arlington,TX,"Tarrant County",76011,US
+277," Cempazuchi"," 1205 E Brady Street"," "," Milwaukee"," WI",43.052801,-87.896788,1,range_interpolation,1205,"E Brady St",Milwaukee,WI,"Milwaukee County",53202,US
+278," Oinkster"," 2005 Colorado Blvd"," "," Eagle Rock"," CA",34.139417,-118.210558,1,rooftop,2005,"Colorado Blvd","Los Angeles",CA,"Los Angeles County",90041,US
+279," Geraci's Restaurant"," 2266 Warrensville Center Road"," "," Cleveland"," OH",41.498229,-81.536392,1,range_interpolation,2266,"Warrensville Center Rd",Cleveland,OH,"Cuyahoga County",44118,US
+280," Lucky's Cafe"," 777 Starkweather Ave"," "," Cleveland"," OH",41.477344,-81.682932,1,range_interpolation,777,"Starkweather Ave",Cleveland,OH,"Cuyahoga County",44113,US
+281," Melt Bar and Grilled"," 14718 Detroit Ave"," "," Lakewood"," OH",41.485314,-81.798469,1,range_interpolation,14718,"Detroit Ave",Lakewood,OH,"Cuyahoga County",44107,US
+282," Momocho Mod Mex"," 1835 Fulton Road"," "," Cleveland"," OH",41.483905,-81.709904,1,range_interpolation,1835,"Fulton Rd",Cleveland,OH,"Cuyahoga County",44113,US
+283," Sterle's Slovenian Country House"," 1401 E 55th Street"," "," Cleveland"," OH",41.520653,-81.65178,1,range_interpolation,1401,"E 55th St",Cleveland,OH,"Cuyahoga County",44103,US
+284," Bartley's Burger Cottage"," 1246 Massachusetts Ave"," "," Cambridge"," MA",42.372512,-71.116296,1,range_interpolation,1246,"Massachusetts Ave",Cambridge,MA,"Middlesex County",02138,US
+285," Crazy Burger"," 144 Boon Street"," "," Narragansett"," RI",41.425804,-71.459929,1,range_interpolation,144,"Boon St",Narragansett,RI,"Washington County",02882,US
+286," Morin's Hometown Bar and Grille"," 16 S Main Street"," "," Atteboro"," MA",0,0,0,,,,,,,,
+287," Sam La Grassa's"," 44 Province Street"," "," Boston"," MA",42.356803,-71.059941,1,range_interpolation,44,"Province St",Boston,MA,"Suffolk County",02108,US
+288," The Orchard House"," 14949 Sunnyslope Road"," "," Caldwell"," ID",43.587827,-116.792588,1,range_interpolation,14949,"Sunnyslope Rd",Caldwell,ID,"Canyon County",83607,US
+289," Four Sisters Owl Diner"," 244 Appleton Street"," "," Lowell"," MA",42.639416,-71.313277,1,range_interpolation,244,"Appleton St",Lowell,MA,"Middlesex County",01852,US
+290," Blackthorn Restaurant and Pub"," 2134 Seneca Street"," "," Buffalo"," NY",42.854377,-78.808434,1,range_interpolation,2134,"Seneca St",Buffalo,NY,"Erie County",14210,US
+291," Earl's Drive-In CLOSED"," 12139 Olean Road"," "," Chaffee"," NY",42.544104,-78.478478,0.8,range_interpolation,12139,"Olean Rd",Collins,NY,"Erie County",14034,US
+292," Grovers Bar and Grill"," 9160 Transit Road East"," "," Amherst"," NY",43.018346,-78.69709,1,range_interpolation,9160,"Transit Rd","East Amherst",NY,"Erie County",14051,US
+293," Lake Effect Diner"," 3165 Main Street"," "," Buffalo"," NY",42.950277,-78.826705,1,range_interpolation,3165,"Main St",Buffalo,NY,"Erie County",14214,US
+294," Liberty Elm Diner - CLOSED"," 777 Elmwood Ave"," "," Providence"," RI",41.791191,-71.422671,1,range_interpolation,777,"Elmwood Ave",Providence,RI,"Providence County",02907,US
+295," Louie's Restaurant"," 286 Brook Street"," "," Providence"," RI",41.824661,-71.399059,1,range_interpolation,286,"Brook St",Providence,RI,"Providence County",02906,US
+296," Pizza Junction"," 1269 Erie Avenue"," 14120"," Tonawanda"," NY",43.052729,-78.845118,1,range_interpolation,1269,"Erie Ave","North Tonawanda",NY,"Niagara County",14120,US
+297," Sophia Restaurant"," 749 Military Road"," "," Buffalo"," NY",42.95946,-78.888976,1,range_interpolation,749,"Military Rd",Buffalo,NY,"Erie County",14217,US
+298," Antojitos La Texanita"," 1667 Sebastopol Road"," "," Santa Rosa"," CA",38.427693,-122.738144,1,range_interpolation,1667,"Sebastopol Rd","Santa Rosa",CA,"Sonoma County",95407,US
+299," Donnie Mac's Trailer Park CLOSED"," 1515 W Grove Street"," 83702"," Boise"," ID",43.619517,-116.21375,1,range_interpolation,1515,"Grove St",Boise,ID,"Ada County",83702,US
+300," Tap Tap Restaurant"," 819 5th Street"," "," Miami Beach"," FL",25.774809,-80.136532,1,rooftop,819,"5th St","Miami Beach",FL,"Miami-Dade County",33139,US
+301," Big Daddy's BBQ and Banquet"," 107 Wickersham Street"," "," Fairbanks"," AK",64.843631,-147.726049,1,range_interpolation,107,"Wickersham St",Fairbanks,AK,"Fairbanks North Star Borough",99701,US
+302," Highway Inn"," 94-226 Leoku Street"," "," Waipahu"," HI",21.379857,-158.024394,1,range_interpolation,226,"Leoku St",Waipahu,HI,"Honolulu County",96797,US
+303," Hot Licks"," 3453 College Road"," "," Fairbanks"," AK",64.856343,-147.806065,1,range_interpolation,3453,"College Rd",Fairbanks,AK,"Fairbanks North Star Borough",99709,US
+304," Pagoda Restaurant"," 431 N Santa Claus Lane"," "," North Pole"," AK",64.757043,-147.352514,1,range_interpolation,431,"N Santa Claus Ln","North Pole",AK,"Fairbanks North Star Borough",99705,US
+305," Poke Stop"," 1840 Meheula Pkwy"," "," Mililani Town"," HI",21.466344,-158.002846,1,range_interpolation,1840,"Meheula Pkwy",Mililani,HI,"Honolulu County",96789,US
+306," Hanks Haute Dogs"," 324 Coral St"," "," Honolulu"," HI",21.297647,-157.861448,1,range_interpolation,324,"Coral St",Honolulu,HI,"Honolulu County",96813,US
+307," Jakes Good Eats"," 12721 Albemarle Rd"," "," Charlotte"," NC",35.223345,-80.639963,1,range_interpolation,12721,"Albemarle Rd",Charlotte,NC,"Mecklenburg County",28227,US
+308," Nico's Pier 38"," 1133 N. Nimitz Hwy"," 96817"," Honolulu"," HI",21.318226,-157.876088,1,range_interpolation,1133,"N Nimitz Hwy",Honolulu,HI,"Honolulu County",96817,US
+309," Rainbow Drive-In"," 3308 Kanaina Ave"," "," Honolulu"," HI",21.275838,-157.814816,1,range_interpolation,3308,"Kanaina Ave",Honolulu,HI,"Honolulu County",96815,US
+310," Honkytonk BBQ"," 1213 W 18th Street"," "," Chicago"," IL",41.857792,-87.656956,1,range_interpolation,1213,"W 18th St",Chicago,IL,"Cook County",60608,US
+311," ParkView Nite Club"," 1261 West 58th Street"," "," Cleveland"," OH",41.488887,-81.726312,1,range_interpolation,1261,"W 58th St",Cleveland,OH,"Cuyahoga County",44102,US
+312," Santa Cruz Diner"," 909 Ocean Street"," 95060"," Santa Cruz"," CA",36.980316,-122.021689,1,range_interpolation,909,"Ocean St","Santa Cruz",CA,"Santa Cruz County",95060,US
+313," The Little Depot Diner"," 1 Railroad Avenue"," 01961"," Peabody"," MA",42.526648,-70.927191,1,range_interpolation,1,"Railroad Ave",Peabody,MA,"Essex County",01960,US
+314," Silver Gulch Restaurant"," 2195 Old Steese Hwy N"," 99712"," Fox"," AK",64.957702,-147.62081,1,range_interpolation,2195,"Old Steese Hwy N",Fairbanks,AK,"Fairbanks North Star Borough",99712,US
+315," The Cookie Jar"," 1006 Cadillac Ct"," 99701"," Fairbanks"," AK",64.854967,-147.745402,1,range_interpolation,1006,"Cadillac Ct",Fairbanks,AK,"Fairbanks North Star Borough",99701,US
+316," Tee Off Bar and Grill"," 3129 Clement Street"," 94121"," San Francisco"," CA",37.7814,-122.492934,1,rooftop,3129,"Clement St","San Francisco",CA,"San Francisco County",94121,US
+317," Country Cafe"," 235 North Santa Claus Lane"," 99705"," North Pole"," AK",64.756372,-147.352951,1,range_interpolation,235,"N Santa Claus Ln","North Pole",AK,"Fairbanks North Star Borough",99705,US
+318," Elf's Den Restaurant Lounge"," Mi 14 Richardson Hwy"," 99705"," North Pole"," AK",64.780765,-147.207748,1,place,,,"North Pole",AK,"Fairbanks North Star Borough",99705,US
+319," Cabo Fish Taco"," 3201 N Davidson Street"," 28205"," Charlotte"," NC",35.247136,-80.805776,1,range_interpolation,3201,"N Davidson St",Charlotte,NC,"Mecklenburg County",28205,US
+320," Dish"," 1220 Thomas Ave"," 28205"," Charlotte"," NC",35.219073,-80.81205,1,range_interpolation,1220,"Thomas Ave",Charlotte,NC,"Mecklenburg County",28205,US
+321," Farmer's Shed"," 2514 Augusta Hwy"," 29072"," Lexington"," SC",33.979127,-81.312446,1,range_interpolation,2514,"Augusta Hwy",Lexington,SC,"Lexington County",29072,US
+322," Landmark Restaurant Diner"," 4429 Central Ave"," 28205"," Charlotte"," NC",35.214048,-80.770935,1,range_interpolation,4429,"Central Ave",Charlotte,NC,"Mecklenburg County",28205,US
+323," Taste of Peru"," 6545 N Clark Street"," 60626"," Chicago"," IL",42.000736,-87.671348,1,range_interpolation,6545,"N Clark St",Chicago,IL,"Cook County",60626,US
+324," South 21 Drive-In"," 3101 E Independence Blvd"," 28205"," Charlotte"," NC",35.203268,-80.791063,1,range_interpolation,3101,"E Independence Blvd",Charlotte,NC,"Mecklenburg County",28205,US
+325," Pawley's Front Porch"," 827 Harden Street"," 29205"," Columbia"," SC",34.000599,-81.016839,1,range_interpolation,827,"Harden St",Columbia,SC,"Richland County",29205,US
+326," Napa Rose"," 1600 Disneyland Drive"," 92802"," Anaheim"," CA",33.815002,-117.923755,1,range_interpolation,1600,"Disneyland Dr",Anaheim,CA,"Orange County",92802,US
+327," Schellville Grill"," 22900 Broadway"," 95476"," Sonoma"," CA",38.245413,-122.449271,1,range_interpolation,22900,Broadway,Sonoma,CA,"Sonoma County",95476,US
+328," Louis' Basque Corner"," 301 E. 4th Street"," 89512"," Reno"," NV",39.529105,-119.817462,0.7,range_interpolation,301,"Us Hwy 40",Reno,NV,"Washoe County",89501,US
+329," Gold 'N Silver Inn"," 790 W 4th Street"," 89503"," Reno"," NV",39.52766,-119.824753,1,range_interpolation,790,"W 4th St",Reno,NV,"Washoe County",89503,US
+330," Cafe Citti"," 9047 Sonoma Hwy"," 95452"," Kenwood"," CA",38.417095,-122.549329,0.8,range_interpolation,9047,"Sonoma Hwy",Kenwood,CA,"Sonoma County",95452,US
+331," Burger Me"," 10418 Donner Pass Rd"," 96161"," Truckee"," CA",39.327306,-120.187582,1,range_interpolation,10418,"Donner Pass Rd",Truckee,CA,"Nevada County",96161,US
+332," 900 Grayson"," 900 Grayson Street"," 94710"," Berkeley"," CA",37.855185,-122.293846,0.8,street_center,,"Grayson St",Berkeley,CA,"Alameda County",94710,US
+333," Rick and Ann's Restaurant"," 2922 Domingo Ave"," 94705"," Berkeley"," CA",37.858882,-122.244093,1,range_interpolation,2922,"Domingo Ave",Berkeley,CA,"Alameda County",94705,US
+334," Boondocks BBQ and Grill"," 4653 Ohio 60"," 43756"," McConnelsville"," OH",39.676688,-81.81256,0.33,place,,,Mcconnelsville,OH,"Morgan County",43756,US
+335," 13 Gypsies"," 887 Stockton Street"," 32204"," Jacksonville"," FL",30.3151,-81.689176,1,range_interpolation,887,"Stockton St",Jacksonville,FL,"Duval County",32204,US
+336," Aldo's Harbor Restaurant"," 616 Atlantic Ave"," 95062"," Santa Cruz"," CA",36.964296,-122.003651,1,range_interpolation,616,"Atlantic Ave","Santa Cruz",CA,"Santa Cruz County",95062,US
+337," At Last Cafe"," 204 Orange Ave"," 90802"," Long Beach"," CA",33.768125,-118.176687,1,rooftop,204,"Orange Ave","Long Beach",CA,"Los Angeles County",90802,US
+338," Blackwater Grill"," 260 Redfern Village"," 31522"," St. Simon Island"," GA",31.167189,-81.387143,0.8,range_interpolation,260,"Redfern Dr","Saint Simons Island",GA,"Glynn County",31522,US
+339," Culhane's Irish Pub"," 967 Atlantic Blvd"," 32233"," Atlantic Beach"," FL",30.324488,-81.396132,0.8,street_center,,"Atlantic Blvd","Atlantic Beach",FL,"Duval County",32233,US
+340," Dish Cafe and Catering"," 855 Mill Street"," 89502"," Reno"," NV",39.525728,-119.799378,1,range_interpolation,855,"Mill St",Reno,NV,"Washoe County",89502,US
+341," Don Chow Tacos Food Truck"," 11500 Tennessee Ave"," 90064"," Los Angeles"," CA",34.034776,-118.442971,1,rooftop,11500,"Tennessee Ave","Los Angeles",CA,"Los Angeles County",90064,US
+342," Fox Restaurant"," 3580 St Johns Ave"," 32205"," Jacksonville"," FL",30.298806,-81.72124,1,place,,,Jacksonville,FL,"Duval County",32205,US
+343," Galewood Cookshack CLOSED"," 2135 N Milwaukee Ave"," 60647"," Chicago"," IL",41.920008,-87.692307,1,range_interpolation,2135,"N Milwaukee Ave",Chicago,IL,"Cook County",60647,US
+344," Gloria's Cafe"," 10227 Venice Blvd"," 90034"," Los Angeles"," CA",34.021743,-118.40224,1,range_interpolation,10227,"State Rte 187","Los Angeles",CA,"Los Angeles County",90034,US
+345," JAX Truckee Diner"," 10144 W River Street"," 96161"," Truckee"," CA",39.327159,-120.184823,1,range_interpolation,10144,"W River St",Truckee,CA,"Nevada County",96161,US
+346," Mama Cozza's Italian Restaurant"," 2170 W Ball Road"," 92804"," Anaheim"," CA",33.817622,-117.958355,1,range_interpolation,2170,"W Ball Rd",Anaheim,CA,"Orange County",92804,US
+347," Metro Diner"," 3302 Hendricks Ave"," 32207"," Jacksonville"," FL",30.291256,-81.648738,1,range_interpolation,3302,"Hendricks Ave",Jacksonville,FL,"Duval County",32207,US
+348," Naglee Park Garage"," 505 E San Carlos Street"," 95112"," San Jose"," CA",37.336656,-121.876491,1,range_interpolation,505,"E San Carlos St","San Jose",CA,"Santa Clara County",95112,US
+349," North End Caffe"," 3421 N Highland Ave"," 90266"," Manhattan Beach"," CA",33.899562,-118.417337,1,rooftop,3421,"Highland Ave","Manhattan Beach",CA,"Los Angeles County",90266,US
+350," Paul's Coffee Shop"," 16947 Bushard Street"," 92708"," Fountain Valley"," CA",33.717354,-117.96335,1,range_interpolation,16947,"Bushard St","Fountain Valley",CA,"Orange County",92708,US
+351," Rudy's Can't Fail Cafe"," 4081 Hollis Street"," 94608"," Emeryville"," CA",37.829995,-122.285625,1,range_interpolation,4081,"Hollis St",Emeryville,CA,"Alameda County",94608,US
+352," Singletons Seafood Shack"," 4728 Ocean Street"," 32233"," Jacksonville"," FL",30.394654,-81.429997,1,range_interpolation,4728,"Ocean St","Atlantic Beach",FL,"Duval County",32233,US
+353," Southern Soul BBQ"," 2020 Demere Road"," 31522"," St. Simon Island"," GA",31.159348,-81.387955,1,range_interpolation,2020,"Demere Rd","Saint Simons Island",GA,"Glynn County",31522,US
+354," Blue Ash Chili Restaurant"," 9565 Kenwood Road"," 45242"," Blue Ash"," OH",39.231384,-84.377185,1,range_interpolation,9565,"Kenwood Rd",Cincinnati,OH,"Hamilton County",45242,US
+355," J.J. McBrewster's American Smokehouse"," 3101 Clays Mill Road"," 40503"," Lexington"," KY",38.001344,-84.545868,1,range_interpolation,3101,"Clays Mill Rd",Lexington,KY,"Fayette County",40503,US
+356," Rick's White Light Diner"," 114 Bridge Street"," 40601"," Frankfort"," KY",38.195222,-84.879064,1,range_interpolation,114,"Bridge St",Frankfort,KY,"Franklin County",40601,US
+357," Terry's Turf Club"," 4618 Eastern Ave"," 45226"," Cincinnati"," OH",39.118293,-84.419106,1,range_interpolation,4618,"Eastern Ave",Cincinnati,OH,"Hamilton County",45226,US
+358," The Parkette Drive-in"," 1230 E. New Circle Road"," 40505"," Lexington"," KY",38.031159,-84.45294,0.9,range_interpolation,1230,"E New Circle Rd",Lexington,KY,"Fayette County",40505,US
+359," Virgil's Cafe"," 710 Fairfield Ave"," 41073"," Bellevue"," KY",39.108411,-84.480483,1,range_interpolation,710,"Fairfield Ave",Bellevue,KY,"Campbell County",41073,US
+360," Wallace Station"," 3854 Old Frankfort Pike"," 40383"," Versailles"," KY",38.120886,-84.693371,1,range_interpolation,3854,"Old Frankfort Pike",Versailles,KY,"Woodford County",40383,US
+361," Pier 23 Cafe"," 23 Pier"," 94124"," San Francisco"," CA",37.741133,-122.376103,0.8,range_interpolation,23,Pier,"San Francisco",CA,"San Francisco County",94124,US
+362," Arnold's Country Kitchen"," 605 8th Ave S"," 37203"," Nashville"," TN",36.151746,-86.779101,0.8,range_interpolation,605,"8th Ave S",Nashville,TN,"Davidson County",37203,US
+363," Athens Family Restaurant"," 2526 Franklin Pike"," 37204"," Nashville"," TN",36.125035,-86.776534,1,range_interpolation,2526,"Franklin Pike",Nashville,TN,"Davidson County",37204,US
+364," Bro's Cajun Cuisine"," 3214 Charlotte Ave"," 37209"," Nashville"," TN",36.153015,-86.823477,1,range_interpolation,3214,"Charlotte Ave",Nashville,TN,"Davidson County",37209,US
+365," Cafe Rakka"," 71 New Shackle Island Rd"," 37075"," Hendersonville"," TN",36.306858,-86.634497,1,range_interpolation,71,"New Shackle Island Rd",Hendersonville,TN,"Sumner County",37075,US
+366," Martin's BBQ Joint"," 7238 Nolensville Road"," 37135"," Nolensville"," TN",35.958908,-86.672593,1,range_interpolation,7238,"Nolensville Rd",Murfreesboro,TN,"Williamson County",37131,US
+367," Savarino's Cucina"," 2121 Belcourt Ave"," 37212"," Nashville"," TN",36.136729,-86.803523,1,range_interpolation,2121,"Belcourt Ave",Nashville,TN,"Davidson County",37212,US
+368," Happy Gillis Cafe and Hang Out"," 549 Gillis Street"," 64106"," Kansas City"," MO",39.109486,-94.5705,1,range_interpolation,549,"Gillis St","Kansas City",MO,"Jackson County",64106,US
+369," Jamaica Way Restaurant and Catering"," 900 Rosa L Parks Blvd"," 37208"," Nashville"," TN",36.176727,-86.793848,0.8,street_center,,"8th Ave N",Nashville,TN,"Davidson County",37208,US
+370," Swagger Fine Spirits and Food"," 8431 Wornall Road"," 64114"," Kansas City"," MO",38.97564,-94.594855,1,range_interpolation,8431,"Wornall Rd","Kansas City",MO,"Jackson County",64114,US
+371," The Brick"," 1727 McGee Street"," 64108"," Kansas City"," MO",39.092874,-94.579921,0.9,range_interpolation,1727,"McGee St","Kansas City",MO,"Jackson County",64108,US
+372," Woodyard BBQ"," 3001 Merriam Lane"," 66106"," Kansas City"," KS",39.045584,-94.662466,0.9,range_interpolation,3001,"Merriam Ln","Kansas City",KS,"Wyandotte County",66106,US
+373," RJ's Bob-Be-Que"," 5835 Lamar Ave"," 66202"," Mission"," KS",39.023401,-94.65821,1,range_interpolation,5835,"Lamar Ave","Shawnee Mission",KS,"Johnson County",66202,US
+374," Smokin Guns BBQ and Catering"," 1218 Swift Avenue"," 64116"," Kansas City"," MO",39.130883,-94.577576,1,range_interpolation,1218,"Swift Ave","Kansas City",MO,"Clay County",64116,US
+375," Murphy's Bar and Grill"," 2 Merchant St"," 96813"," Honolulu"," HI",21.310355,-157.863677,1,range_interpolation,2,"Merchant St",Honolulu,HI,"Honolulu County",96813,US
+376," Comet Ping Pong"," 5037 Connecticut Ave NW"," 20008"," Washington"," DC",38.955944,-77.069972,1,rooftop,5037,"Connecticut Ave NW",Washington,DC,"District of Columbia",20008,US
+377," La Caraquena"," 300 W Broad Street"," 22046"," Falls Church"," VA",38.880014,-77.168123,1,rooftop,300,"E Broad St","Falls Church",VA,"Falls Church city",22046,US
+378," Metro 29 Diner"," 4711 Lee Hwy"," 22207"," Arlington"," VA",38.907416,-77.122344,0.33,place,,,Arlington,VA,"Arlington County",22207,US
+379," Oohhs and Aahhs Soul Food"," 1005 U Street NW"," 20001"," Washington"," DC",38.917207,-77.026249,1,rooftop,1005,"U St NW",Washington,DC,"District of Columbia",20001,US
+380," Tortilla Cafe"," 210 7th Street SE"," 20003"," Washington"," DC",38.886966,-76.995908,1,rooftop,210,"7th St SE",Washington,DC,"District of Columbia",20003,US
+381," Tune Inn"," 331 Pennsylvania Ave SE"," 20003"," Washington"," DC",38.886369,-77.00109,1,rooftop,331,"Pennsylvania Ave SE",Washington,DC,"District of Columbia",20003,US
+382," Greek Corner"," 2366 Massachusetts Ave"," 02140"," Cambridge"," MA",42.396528,-71.129432,1,range_interpolation,2366,"Massachusetts Ave",Cambridge,MA,"Middlesex County",02140,US
+383," Rino's Place"," 258 Saratoga Street"," 02128"," Boston"," MA",42.37806,-71.033229,1,range_interpolation,258,"Saratoga St",Boston,MA,"Suffolk County",02128,US
+384," The Lobster Shanty"," 25 Front Street"," 01970"," Salem"," MA",42.52042,-70.89391,1,range_interpolation,25,"Front St",Salem,MA,"Essex County",01970,US
+385," Porthole Restaurant"," 20 Custom House Wharf"," 04101"," Portland"," ME",43.656306,-70.250059,1,rooftop,20,"Custom House Wharf",Portland,ME,"Cumberland County",04101,US
+386," Maine Diner"," 2265 Post Road"," 04090"," Wells"," ME",43.342523,-70.562865,1,rooftop,2265,"Post Rd",Wells,ME,"York County",04090,US
+387," Bob's Clam Hut"," 315 US Route 1"," 03904"," Kittery"," ME",43.096545,-70.745798,0.8,street_center,,"State Rd",Kittery,ME,"York County",03904,US
+388," Becky's Diner"," 390 Commercial Street"," 04101"," Portland"," ME",43.651031,-70.257123,1,rooftop,390,"Commercial St",Portland,ME,"Cumberland County",04101,US
+389," The Blue Door Pub"," 1811 Selby Ave Street"," 55104"," St. Paul"," MN",44.946697,-93.176205,1,range_interpolation,1811,"Selby Ave","Saint Paul",MN,"Ramsey County",55104,US
+390," Kramarczuk Sausage Company"," 215 E Hennepin Ave"," 55413"," Minneapolis"," MN",44.987442,-93.25755,0.8,range_interpolation,215,"E Hennepin Ave",Minneapolis,MN,"Hennepin County",55414,US
+391," Gordy's Hi-Hat"," 415 Sunnyside Drive"," 55720"," Cloquet"," MN",46.74476,-92.460263,0.8,street_center,,"State Hwy 33",Cloquet,MN,"Carlton County",55720,US
+392," Duluth Grill"," 118 S 27th Ave W"," 55806"," Duluth"," MN",46.76081,-92.130847,1,range_interpolation,118,"S 27th Ave W",Duluth,MN,"St. Louis County",55806,US
+393," Colossal Cafe"," 1839 E 42nd Street"," 55407"," Minneapolis"," MN",44.926781,-93.246621,1,range_interpolation,1839,"E 42nd St",Minneapolis,MN,"Hennepin County",55407,US
+394," At Saras Table Chester Creek Cafe"," 1902 E 8th Street"," 55812"," Duluth"," MN",46.810306,-92.08314,1,range_interpolation,1902,"E 8th St",Duluth,MN,"St. Louis County",55812,US
+395," Northern Waters Smokehaus"," 394 S Lake Ave"," 55802"," Duluth"," MN",46.781902,-92.095217,1,range_interpolation,394,"S Lake Ave",Duluth,MN,"St. Louis County",55802,US
+396," Anchor Bar and Grill"," 413 Tower Ave"," 54880"," Superior"," WI",46.73369,-92.104007,1,range_interpolation,413,"Tower Ave",Superior,WI,"Douglas County",54880,US
+397," Corey's Catsup and Mustard"," 623 Main Street"," 06040"," Central Manchester"," CT",41.774055,-72.521484,1,range_interpolation,623,"Main St",Manchester,CT,"Hartford County",06040,US
+398," General Store and Post Office Tavern CLOSED"," 6 Post Office Road"," 20910"," Silver Spring"," MD",39.015222,-77.055592,1,rooftop,6,"Post Office Rd","Silver Spring",MD,"Montgomery County",20910,US
+399," 10th Ave Burrito Co"," 817 Belmar Plaza"," 07719"," Belmar"," NJ",40.180157,-74.025507,1,range_interpolation,817,"Belmar Plz",Belmar,NJ,"Monmouth County",07719,US
+400," Capone's Pub and Grill"," 751 N 4th Street"," 83814"," Coeur d'Alene"," ID",47.679637,-116.781083,1,range_interpolation,751,"N 4th St","Coeur D Alene",ID,"Kootenai County",83814,US
+401," Chaps Coffee Co"," 4235 S Cheney Spokane Road"," 99224"," Spokane"," WA",47.611858,-117.431127,1,range_interpolation,4235,"S Cheney Spokane Rd",Spokane,WA,"Spokane County",99224,US
+402," George's Place"," 301 Beach Ave"," 08204"," Cape May"," NJ",38.981878,-74.959788,0.9,range_interpolation,301,"W Beach Dr","Cape May",NJ,"Cape May County",08204,US
+403," Good Dog Bar"," 224 S 15th Street"," 19102"," Philadelphia"," PA",39.948697,-75.166266,1,range_interpolation,224,"S 15th St",Philadelphia,PA,"Philadelphia County",19102,US
+404," Hills' Restaurant and Lounge"," 401 W Main Ave"," 99201"," Spokane"," WA",47.659203,-117.418034,1,range_interpolation,401,"W Main Ave",Spokane,WA,"Spokane County",99201,US
+405," Honey's Sit 'n Eat"," 800 N 4th Street"," 19123"," Philadelphia"," PA",39.96482,-75.155482,0.8,street_center,,"N St",Philadelphia,PA,"Philadelphia County",19123,US
+406," Jimmy's Down The Street Cafe"," 1613 E Sherman Ave"," 83814"," Coeur d'Alene"," ID",47.673177,-116.761853,0.9,range_interpolation,1613,"I- 90 Bus","Coeur D Alene",ID,"Kootenai County",83814,US
+407," Memphis Taproom"," 2331 E Cumberland Street"," 19125"," Philadelphia"," PA",39.980493,-75.123266,1,range_interpolation,2331,"E Cumberland St",Philadelphia,PA,"Philadelphia County",19125,US
+408," Picabu Neighborhood Bistro"," 901 W 14th Ave"," 99203"," Spokane"," WA",47.642833,-117.42441,1,range_interpolation,901,"W 14th Ave",Spokane,WA,"Spokane County",99204,US
+409," Putah Creek Cafe"," 210 Railroad Ave"," 95694"," Winters"," CA",38.52171,-121.968948,1,range_interpolation,210,"Railroad Ave",Winters,CA,"Yolo County",95694,US
+410," Quahog's Seafood Shack"," 206 97th Street"," 08247"," Stone Harbor"," NJ",39.053005,-74.759159,1,range_interpolation,206,"97th St","Stone Harbor",NJ,"Cape May County",08247,US
+411," The Pineville Tavern"," 413 Pineville Road"," 18938"," New Hope"," PA",40.298254,-75.006299,1,range_interpolation,413,"Pineville Rd",Pineville,PA,"Bucks County",18946,US
+412," Waddell's Neighborhood Pub"," 4318 S Regal Street"," 99223"," Spokane"," WA",47.61428,-117.368681,0.9,range_interpolation,4318,"S Regal St",Spokane,WA,"Spokane County",99223,US
+413," Merritt Canteen"," 4355 Main Street"," 06606"," Bridgeport"," CT",41.219174,-73.216049,1,range_interpolation,4355,"Main St",Bridgeport,CT,"Fairfield County",06606,US
+414," Dad's Kitchen"," 2968 Freeport Blvd"," 95818"," Sacramento"," CA",38.550996,-121.488895,1,range_interpolation,2968,"Freeport Blvd",Sacramento,CA,"Sacramento County",95818,US
+415," Gatsby's Diner CLOSED"," 2598 Alta Arden Expy"," 95825"," Sacramento"," CA",38.599713,-121.401495,1,range_interpolation,2598,"Alta Arden Expy",Sacramento,CA,"Sacramento County",95825,US
+416," Worth Our Weight"," 1021 Hahman Drive"," 95405"," Santa Rosa"," CA",38.441804,-122.685352,1,range_interpolation,1021,"Hahman Dr","Santa Rosa",CA,"Sonoma County",95405,US
+417," L. A. Pines Cafe"," 1061 Robert Blvd"," 70458"," Slidell"," LA",30.289833,-89.770384,1,range_interpolation,1061,"Robert Blvd",Slidell,LA,"St. Tammany Parish",70458,US
+418," Louie and the Red Head Lady"," 2820 East Causeway Approach"," 70448"," Mandeville"," LA",30.373031,-90.091318,1,range_interpolation,2820,"E Causeway Approach",Mandeville,LA,"St. Tammany Parish",70448,US
+419," Mahonys PO Boy Shop"," 3454 Magazine Street"," 70115"," New Orleans"," LA",29.922389,-90.0901,1,range_interpolation,3454,"Magazine St","New Orleans",LA,"Orleans Parish",70115,US
+420," Bens Best Kosher Deli"," 96-40 Queens Blvd."," "," Rego Park"," NY",40.729431,-73.861316,1,rooftop,96-040,"Queens Blvd","Rego Park",NY,"Queens County",11374,US
+421," Hildebrandts"," 84 Hillside Ave"," 11596"," Williston Park"," NY",40.75476,-73.649063,0.8,street_center,,"Hillside Ave","Williston Park",NY,"Nassau County",11596,US
+422," The Pit Stop"," 1706 Sunrise Hwy"," 11566"," Merrick"," NY",40.660489,-73.563288,1,range_interpolation,1706,"Sunrise Hwy",Merrick,NY,"Nassau County",11566,US
+423," The Sparrow Tavern"," 24-01 29th Street"," 11102"," New York"," NY",40.772773,-73.916478,1,rooftop,24-001,"29th St",Astoria,NY,"Queens County",11102,US
+424," Tortilleria Nixtamal"," 104-05 47th Ave"," 11368"," Corona"," NY",40.74593,-73.859272,1,rooftop,104-005,"47th Ave",Corona,NY,"Queens County",11368,US
+425," Sammy's Food Services and Deli"," 3000 Elysian Fields Ave"," 70122"," New Orleans"," LA",29.988963,-90.058565,1,range_interpolation,3000,"Elysian Fields Ave","New Orleans",LA,"Orleans Parish",70122,US
+426," Mulberry Italian Ristorante"," 64 Jackson Ave"," 14218"," Lackawanna"," NY",42.813106,-78.842283,1,range_interpolation,64,"Jackson Ave",Buffalo,NY,"Erie County",14218,US
+427," Germaine’s Luau"," 91-119 Olai Street"," 96707"," Kapolei"," HI",21.300038,-158.096133,1,range_interpolation,119,"Olai St",Kapolei,HI,"Honolulu County",96707,US
+428," Brats Brothers"," 13355 Ventura Blvd."," 91423"," Sherman Oaks"," CA",34.147044,-118.424317,1,rooftop,13355,"Ventura Blvd","Sherman Oaks",CA,"Los Angeles County",91423,US
+429," Bang!"," 3472 W 32nd Ave"," 80211"," Denver"," CO",39.761978,-105.033029,1,range_interpolation,3472,"W 32nd Ave",Denver,CO,"Denver County",80211,US
+430," Foolish Craig's Cafe"," 1611 Pearl Street"," 80302"," Boulder"," CO",40.019154,-105.274669,1,range_interpolation,1611,"Pearl St",Boulder,CO,"Boulder County",80302,US
+431," Lauer Krauts"," 26 S 6th Ave"," 80601"," Brighton"," CO",39.986405,-104.815209,1,range_interpolation,26,"S 6th Ave",Brighton,CO,"Adams County",80601,US
+432," Sam's No 3"," 1500 Curtis Street"," 80202"," Denver"," CO",39.746092,-104.996026,1,range_interpolation,1500,"Curtis St",Denver,CO,"Denver County",80205,US
+433," Steuben's"," 523 E 17th Ave"," 80203"," Denver"," CO",39.743418,-104.980822,1,range_interpolation,523,"E 17th Ave",Denver,CO,"Denver County",80218,US
+434," The Bagel Deli"," 6439 E Hampden Ave"," 80222"," Denver"," CO",39.653237,-104.914129,1,range_interpolation,6439,"E Hampden Ave",Denver,CO,"Denver County",80222,US
+435," The Sink"," 1165 13th Street"," 80302"," Boulder"," CO",40.008181,-105.276433,1,range_interpolation,1165,"13th St",Boulder,CO,"Boulder County",80302,US
+436," Tocabe"," 3536 W 44th Ave"," 80211"," Denver"," CO",39.776584,-105.033807,1,range_interpolation,3536,"W 44th Ave",Denver,CO,"Denver County",80211,US
+437," Maui's Dog House"," 806 New Jersey Ave"," 08260"," Wildwood"," NJ",39.003658,-74.799131,1,range_interpolation,806,"New Jersey Ave",Wildwood,NJ,"Cape May County",08260,US
+438," Meal Ticket"," 1235 San Pablo Ave"," 94706"," Albany"," CA",37.881534,-122.296445,0.8,range_interpolation,1235,"San Pablo Ave",Albany,CA,"Alameda County",94706,US
+439," Catelli's Restaurant"," 21047 Geyserville Ave"," 95441"," Geyserville"," CA",38.706819,-122.904828,1,range_interpolation,21047,"Geyserville Ave",Geyserville,CA,"Sonoma County",95441,US
+440," HRD Coffee Shop"," 521 3rd Street"," 94107"," San Francisco"," CA",37.781087,-122.395332,1,range_interpolation,521,"3rd St","San Francisco",CA,"San Francisco County",94107,US
+441," Jimtown Store"," 6706 California 128"," 95448"," Healdsburg"," CA",38.310676,-122.493258,0.8,street_center,,"California Ct",Sonoma,CA,"Sonoma County",95476,US
+442," Sunflower Caffe Espresso and Wine Bar"," 421 1st Street W"," 95476"," Sonoma"," CA",38.292405,-122.459051,1,range_interpolation,421,"1st St W",Sonoma,CA,"Sonoma County",95476,US
+443," Elk Public House"," 1931 W Pacific Ave"," 99201"," Spokane"," WA",47.655403,-117.440424,1,range_interpolation,1931,"W Pacific Ave",Spokane,WA,"Spokane County",99201,US
+444," QFanatic BBQ and Grill"," 180 Miller Road"," 55316"," Champlin"," MN",45.189347,-93.396594,1,range_interpolation,180,"Miller Rd",Champlin,MN,"Hennepin County",55316,US
+445," The Golden Bear"," 2326 K Street"," 95816"," Sacramento"," CA",38.574289,-121.476141,1,range_interpolation,2326,"K St",Sacramento,CA,"Sacramento County",95816,US
+446," 3 Sisters Cafe"," 6360 Guilford Ave"," 46220"," Indianapolis"," IN",39.871702,-86.142737,0.8,range_interpolation,6360,"Guilford Ave",Indianapolis,IN,"Marion County",46220,US
+447," Sage General Store"," 2420 Jackson Avenue"," 11101"," Long Island City"," NY",40.744232,-73.949679,0.8,street_center,,"Jackson Ave","Long Island City",NY,"Queens County",11101,US
+448," Jerseys Cafe"," 13710 N Meridian Street"," 46302"," Carmel"," IN",39.987708,-86.135821,1,range_interpolation,13710,"N Meridian St",Carmel,IN,"Hamilton County",46032,US
+449," Katie's Restaurant"," 3701 Iberville Street"," 70119"," New Orleans"," LA",29.972733,-90.095967,1,range_interpolation,3701,"Iberville St","New Orleans",LA,"Orleans Parish",70119,US
+450," Beto's on Broadway"," 8142 Broadway Street"," 78209"," San Antonio"," TX",29.510872,-98.466038,1,range_interpolation,8142,Broadway,"San Antonio",TX,"Bexar County",78209,US
+451," Bun 'n' Barrel"," 1150 Austin Hwy"," 78209"," San Antonio"," TX",29.486719,-98.448361,1,range_interpolation,1150,"Austin Hwy","San Antonio",TX,"Bexar County",78209,US
+452," Dough Pizzeria Napoletana"," 6989 Blanco Road"," 78213"," San Antonio"," TX",29.567964,-98.520775,1,range_interpolation,6989,"Blanco Rd","San Antonio",TX,"Bexar County",78216,US
+453," El Bohio Restaurant"," 1127 Harry Wurzbach Road"," 78209"," San Antonio"," TX",29.469755,-98.438552,1,range_interpolation,1127,"Harry Wurzbach Rd","San Antonio",TX,"Bexar County",78209,US
+454," Moroccan Bites"," 5714 Evers Road"," 78238"," San Antonio"," TX",29.489379,-98.598807,1,range_interpolation,5714,"Evers Rd","San Antonio",TX,"Bexar County",78238,US
+455," Taco Taco Cafe"," 145 E. Hildebrand"," 78212"," San Antonio"," TX",29.466634,-98.493102,1,range_interpolation,145,"E Hildebrand Ave","San Antonio",TX,"Bexar County",78212,US
+456," The Magnolia Pancake Haus"," 606 Embassy Oak"," 78216"," San Antonio"," TX",29.564335,-98.487963,1,range_interpolation,606,"Embassy Oaks","San Antonio",TX,"Bexar County",78216,US
+457," Steer-In Restaurant"," 5130 E 10th Street"," 46219"," Indianapolis"," IN",39.781688,-86.082839,1,range_interpolation,5130,"E 10th St",Indianapolis,IN,"Marion County",46219,US
+458," The Tamale Place"," 5242 Rockville Road"," 46224"," Indianapolis"," IN",39.765288,-86.249341,1,range_interpolation,5242,"Rockville Rd",Indianapolis,IN,"Marion County",46224,US
+459," Zest-Exciting Food Creations"," 1134 E 54th Street"," 46220"," Indianapolis"," IN",39.85133,-86.139052,1,range_interpolation,1134,"E 54th St",Indianapolis,IN,"Marion County",46220,US
+460," Zydecos"," 11 E Main Street"," 46158"," Mooresville"," IN",39.612645,-86.374732,1,range_interpolation,11,"E Main St",Mooresville,IN,"Morgan County",46158,US
+461," Aunt Mary's Cafe"," 4307 Telegraph Avenue"," 94609"," Oakland"," CA",37.831638,-122.26404,1,range_interpolation,4307,"Telegraph Ave",Oakland,CA,"Alameda County",94609,US
+462," The Barking Dog Cafe"," 115 E 49th Street"," 46205"," Indianapolis"," IN",39.84252,-86.154535,1,range_interpolation,115,"E 49th St",Indianapolis,IN,"Marion County",46205,US
+463," California Tacos To Go"," 1450 Skipper Road"," 33613"," Tampa"," FL",28.081223,-82.444078,1,rooftop,1450,"Skipper Rd",Tampa,FL,"Hillsborough County",33613,US
+464," Garifuna Flava"," 2516 W 63rd Street"," 60629"," Chicago"," IL",41.779361,-87.686673,0.9,range_interpolation,2516,"W 63rd St",Chicago,IL,"Cook County",60629,US
+465," Irazu"," 1865 N Milwaukee Ave"," 60647"," Chicago"," IL",41.915379,-87.684897,1,range_interpolation,1865,"N Milwaukee Ave",Chicago,IL,"Cook County",60647,US
+466," Jose's Real Cuban Food"," 8799 Cortez Road W"," 34210"," Bradenton"," FL",27.461238,-82.649793,0.9,rooftop,8799,"Cortez Rd  W",Bradenton,FL,"Manatee County",34210,US
+467," Munch's Sundries and Restaurant"," 3920 6th Street S"," 33705"," St. Petersburg"," FL",27.732976,-82.64054,1,rooftop,3920,"6th St S","Saint Petersburg",FL,"Pinellas County",33705,US
+468," Tampa Bay Brewing Company"," 1600 E 8th Ave"," 33605"," Tampa"," FL",27.961315,-82.441628,1,rooftop,1600,"E 8th Ave",Tampa,FL,"Hillsborough County",33605,US
+469," Tampa Taco Bus"," 913 E Hillsborough Ave"," 33603"," Tampa"," FL",27.995776,-82.450283,1,rooftop,913,"E Hillsborough Ave",Tampa,FL,"Hillsborough County",33604,US
+470," The Old Coffee Pot Restaurant"," 714 Saint Peter Street"," 70116"," New Orleans"," LA",29.9834,-90.102549,1,range_interpolation,714,"Saint Peter St","New Orleans",LA,"Orleans Parish",70119,US
+471," Big & Littles"," 860 N. Orleans"," 60610"," Chicago"," IL",41.898294,-87.637385,1,range_interpolation,860,"N Orleans St",Chicago,IL,"Cook County",60610,US
+472," Chilam Balam"," 3023 N Broadway Street"," 60657"," Chicago"," IL",41.937113,-87.644151,1,range_interpolation,3023,"N Broadway St",Chicago,IL,"Cook County",60657,US
+473," Chuck's Southern Comforts Cafe"," 6501 W 79th Street"," 60459"," Burbank"," Il",41.748565,-87.782668,1,range_interpolation,6501,"W 79th St",Burbank,IL,"Cook County",60459,US
+474," DMK Burger Bar"," 2954 N Sheffield Ave"," 60657"," Chicago"," IL",41.935658,-87.654109,1,range_interpolation,2954,"N Sheffield Ave",Chicago,IL,"Cook County",60657,US
+475," Nana Organic"," 3267 S Halsted Street"," 60608"," Chicago"," IL",41.834808,-87.646051,1,range_interpolation,3267,"S Halsted St",Chicago,IL,"Cook County",60608,US
+476," Panozzo's Italian Market"," 1303 South Michigan Avenue"," 60605"," Chicago"," IL",41.865751,-87.623962,1,range_interpolation,1303,"S Michigan Ave",Chicago,IL,"Cook County",60605,US
+477," Citrus Breakfast and Lunch"," 2265 W Great Neck Road"," 23451"," Virginia Beach"," VA",36.910532,-76.071494,1,rooftop,2265,"Great Neck Rd W","Virginia Beach",VA,"Virginia Beach city",23451,US
+478," Flip Flops Grill and Chill"," 2217 Upton Drive"," 23454"," Virginia Beach"," VA",36.756294,-76.010439,1,rooftop,2217,"Upton Dr","Virginia Beach",VA,"Virginia Beach city",23456,US
+479," Harvey's Hot Dogs CLOSED"," 3205 Stamford Road"," 23703"," Portsmouth"," VA",36.86094,-76.390684,1,rooftop,3205,"Stamford Rd",Portsmouth,VA,"Portsmouth city",23703,US
+480," Moseberth's Chicken"," 1505 Airline Blvd"," 23707"," Portsmouth"," VA",36.826163,-76.347524,1,rooftop,1505,"Airline Blvd",Portsmouth,VA,"Portsmouth city",23707,US
+481," The Beach Pub"," 1001 Laskin Road"," 24351"," Virginia Beach"," VA",36.856553,-75.990855,1,rooftop,1001,"Laskin Rd","Virginia Beach",VA,"Virginia Beach city",23451,US
+482," Whitner's Barbecue"," 869 Lynnhaven Pkwy"," 23452"," Virginia Beach"," VA",36.811765,-76.07414,1,rooftop,869,"Lynnhaven Rd S","Virginia Beach",VA,"Virginia Beach city",23452,US
+483," Fresh Local Wild Food Truck"," W Hastings and Burrard Street"," V6E 1V3"," Vancouver"," BC",45.678996,-122.720499,1,place,,,Vancouver,WA,"Clark County",98660,US
+484," Falconetti's"," 1812 Commercial Drive"," V5N 4A5"," Vancouver"," BC",45.678996,-122.720499,0.33,place,,,Vancouver,WA,"Clark County",98660,US
+485," Clarkston Union Bar and Kitchen"," 54 S Main Street"," 48346"," Clarkston"," MI",42.735118,-83.418962,1,range_interpolation,54,"S Main St",Clarkston,MI,"Oakland County",48346,US
+486," Union Wood Shop"," 18 South Main Street"," 48346"," Clarkston"," MI",42.73532,-83.418967,1,range_interpolation,18,"S Main St",Clarkston,MI,"Oakland County",48346,US
+487," Polish Village Cafe"," 2990 Yemans Street"," 48212"," Hamtramck"," MI",42.397663,-83.058378,1,range_interpolation,2990,"Yemans St",Hamtramck,MI,"Wayne County",48212,US
+488," Peaceful Restaurant"," 532 West Broadway #110"," V5Z 1E9"," Vancouver"," BC",45.625562,-122.670682,1,range_interpolation,532,"Broadway St",Vancouver,WA,"Clark County",98660,US
+489," Save-on-Meats"," 43 West Hastings Street"," V6B 1G4"," Vancouver"," BC",45.678996,-122.720499,0.33,place,,,Vancouver,WA,"Clark County",98660,US
+490," Red Wagon Cafe"," 2296 East Hastings Street"," V5L 1V4"," Vancouver"," BC",45.678996,-122.720499,0.33,place,,,Vancouver,WA,"Clark County",98660,US
+491," Tomahawk Restaurant"," 1550 Philip Avenue North"," V7P 2V8"," Vancouver"," BC",45.678996,-122.720499,0.33,place,,,Vancouver,WA,"Clark County",98660,US
+492," Get Fresh Cafe"," 2500 Church Street"," 23504"," Norfolk"," VA",36.869849,-76.279399,1,rooftop,2500,"Church St",Norfolk,VA,"Norfolk city",23504,US
+493," The Broken Record Bar"," 1166 Geneva Avenue"," 94112"," San Francisco"," CA",37.714265,-122.437001,1,rooftop,1166,"Geneva Ave","San Francisco",CA,"San Francisco County",94112,US
+494," John's of 12th Street"," 302 East 12th Street"," 10003"," New York"," NY",40.730724,-73.985457,1,rooftop,302,"E 12th St","New York",NY,"New York County",10003,US
+495," Mama's Food Shop CLOSED"," 200 East 3rd Street"," 10009"," New York"," NY",40.722675,-73.983842,1,range_interpolation,200,"E 3rd St","New York",NY,"New York County",10009,US
+496," The Redhead Restaurant"," 349 East 13th Street"," 10003"," New York"," NY",40.730901,-73.983388,1,rooftop,349,"E 13th St","New York",NY,"New York County",10003,US
+497," Gazala's Place"," 709 9th Avenue"," 10036"," New York"," NY",40.762647,-73.989776,1,rooftop,709,"9th Ave","New York",NY,"New York County",10019,US
+498," Defonte's Sandwich Shop"," 261 3rd Avenue"," 10010"," New York"," NY",40.73738,-73.983986,1,rooftop,261,"3rd Ave","New York",NY,"New York County",10010,US
+499," Rincon Criollo"," 40-09 Junction Blvd"," 11372"," New York"," NY",40.756715,-73.873459,1,range_interpolation,009,"Junction Blvd","Jackson Heights",NY,"Queens County",11372,US
+500," The Glass Onion"," 1219 Savannah Hwy."," 29407"," Charleston"," SC",32.78485,-80.002745,1,range_interpolation,1219,"Savannah Hwy",Charleston,SC,"Charleston County",29407,US
+501," The Early Bird Diner"," 1644 Savannah Highway"," 29407"," Charleston"," SC",32.787104,-80.013926,1,range_interpolation,1644,"Savannah Hwy",Charleston,SC,"Charleston County",29407,US
+502," Fuel Charleston"," 211 Rutledge Avenue"," 29403-5822"," Charleston"," SC",32.78912,-79.946951,1,range_interpolation,211,"Rutledge Ave",Charleston,SC,"Charleston County",29403,US
+503," Tattooed Moose"," 1137 Morrison Drive"," 29403"," Charleston"," SC",32.811084,-79.948738,1,range_interpolation,1137,"Morrison Dr",Charleston,SC,"Charleston County",29403,US
+504," Perfectly Frank's"," 118 North Main Street"," 29483"," Summerville"," SC",33.021463,-80.174239,1,range_interpolation,118,"N Main St",Summerville,SC,"Dorchester County",29483,US
+505," Dixie Supply Bakery and Cafe"," 62 State Street"," 29401"," Charleston"," SC",32.780423,-79.928185,1,range_interpolation,62,"State St",Charleston,SC,"Charleston County",29401,US
+506," Galway Bay"," 63 Maryland Ave"," 21401"," Annapolis"," MD",38.979899,-76.489523,1,range_interpolation,63,"Maryland Ave",Annapolis,MD,"Anne Arundel County",21401,US
+507," Joe Squared"," 133 West North Avenue"," 21201"," Baltimore"," MD",39.310546,-76.619078,1,rooftop,133,"W North Ave",Baltimore,MD,"Baltimore city",21201,US
+508," Sip and Bite Restaurant"," 2200 Boston Street"," 21231"," Baltimore"," MD",39.283976,-76.585478,1,rooftop,2200,"Boston St",Baltimore,MD,"Baltimore city",21231,US
+509," Boulevard Diner"," 1660 Merritt Boulevard"," 21222"," Dundalk"," MD",39.271523,-76.502702,1,range_interpolation,1660,"Merritt Blvd",Dundalk,MD,"Baltimore County",21222,US
+510," R and R Taqueria"," 7894 Washington Blvd"," 21075"," Elkridge"," MD",39.172799,-76.784696,1,rooftop,7894,"Washington Blvd",Elkridge,MD,"Howard County",21075,US
+511," Supino Pizzeria"," 2457 Russell Street"," 48207"," Detroit"," MI",42.34531,-83.039934,1,range_interpolation,2457,"Russell St",Detroit,MI,"Wayne County",48207,US
+512," Rigoletto Italian Bakery and Cafe"," 2181 Upton Drive #414"," 23454"," Virginia Beach"," VA",36.757488,-76.008119,1,rooftop,2181,"Upton Dr","Virginia Beach",VA,"Virginia Beach city",23454,US
+513," Leaping Lizards Cafe"," 4408 Shore Drive"," 23455"," Virginia Beach"," VA",36.905742,-76.123669,1,rooftop,4408,"Shore Dr","Virginia Beach",VA,"Virginia Beach city",23455,US
+514," Danny's All American Diner"," 4406 N Falkenburg Road"," 33610"," Tampa"," FL",27.985571,-82.335343,1,rooftop,4406,"N Falkenburg Rd",Tampa,FL,"Hillsborough County",33610,US
+515," Webberville Brewery and Pub CLOSED"," 1093 Highview Drive"," 48892"," Webberville"," MI",42.659219,-84.189553,1,range_interpolation,1093,"Highview Dr",Webberville,MI,"Ingham County",48892,US
+516," Jethro's Fine Grub"," 3420 Dunbar Street"," V6S 2C2"," Vancouver"," BC",46.121302,-122.770898,0.8,street_center,,"Dunbar Rd",Kelso,WA,"Cowlitz County",98626,US
+517," Traffic Jam and Snug"," 511 W. Canfield Street"," 48201"," Detroit"," MI",42.351237,-83.065112,1,range_interpolation,511,"W Canfield St",Detroit,MI,"Wayne County",48201,US
+518," Smalley's Caribbean Barbeque"," 423 Main Street South"," 55082"," Stillwater"," MN",45.058573,-92.806892,0.9,range_interpolation,423,"Main St N",Stillwater,MN,"Washington County",55082,US
+519," Maple and Motor"," 4810 Maple Avenue"," 75219"," Dallas"," TX",32.814782,-96.827201,0.8,range_interpolation,4810,"Maple Ave",Dallas,TX,"Dallas County",75219,US
+520," Pecan Lodge"," 2702 MAIN STREET"," 75226"," Dallas"," TX",32.783975,-96.784183,0.9,range_interpolation,2702,"Main St",Dallas,TX,"Dallas County",75226,US
+521," Chop House Burgers"," 1700 W. Park Row Drive #116"," 76013"," Arlington"," TX",32.721393,-97.13335,1,range_interpolation,1700,"W Park Row Dr",Arlington,TX,"Tarrant County",76013,US
+522," Lito's Take Out"," 514 E Haley Street"," 93103"," Santa Barbara"," CA",34.422158,-119.689601,1,range_interpolation,514,"E Haley St","Santa Barbara",CA,"Santa Barbara County",93103,US
+523," Cane Rosso"," 2612 Commerce Street"," 75226"," Dallas"," TX",32.782382,-96.786634,1,range_interpolation,2612,"Commerce St",Dallas,TX,"Dallas County",75226,US
+524," Mac's Fish and Chips"," 503 State Street"," 93101"," Santa Barbara"," CA",34.416703,-119.695625,1,range_interpolation,503,"State St","Santa Barbara",CA,"Santa Barbara County",93101,US
+525," The Kitchen"," 529 South A Street"," 93030"," Oxnard"," CA",34.197556,-119.178726,1,range_interpolation,529,"S A St",Oxnard,CA,"Ventura County",93030,US
+526," Nye's Polonaise"," 112 East Hennepin Avenue"," 55414"," Minneapolis"," MN",44.987072,-93.258599,1,range_interpolation,112,"E Hennepin Ave",Minneapolis,MN,"Hennepin County",55414,US
+527," Sidecar"," 560 5th Avenue"," 11215"," Brooklyn"," NY",40.664322,-73.984132,0.22,place,,,Brooklyn,NY,"Kings County",11215,US
+528," Nortons Pastrami"," 18 West Figueroa Street"," 93101"," Santa Barbara"," CA",34.422336,-119.703434,1,range_interpolation,18,"W Figueroa St","Santa Barbara",CA,"Santa Barbara County",93101,US
+529," Meat and Bread"," 370 Cambie Street"," "," Vancouver"," BC",45.678996,-122.720499,0.33,place,,,Vancouver,WA,"Clark County",98660,US
+530," Defonte's of Brooklyn"," 379 Columbia Street"," 11231"," Brooklyn"," NY",40.678991,-74.005464,1,rooftop,379,"Columbia St",Brooklyn,NY,"Kings County",11231,US
+531," Smack Shack"," 1029 Marshall Street NE"," 55413"," Minneapolis"," MN",44.997478,-93.267986,1,range_interpolation,1029,"Marshall St NE",Minneapolis,MN,"Hennepin County",55413,US
+532," Savoy Cafe and Deli"," 24 W. Figueroa Street"," 93101"," Santa Barbara"," CA",34.422267,-119.703492,1,range_interpolation,24,"W Figueroa St","Santa Barbara",CA,"Santa Barbara County",93101,US
+533," Pepe's and Mito's"," 2911 Elm Street"," 75226"," Dallas"," TX",32.785082,-96.782419,1,range_interpolation,2911,"Elm St",Dallas,TX,"Dallas County",75226,US
+534," Pizzeria Lola"," 5557 Xerxes Ave. S"," 55410"," Minneapolis"," MN",44.902394,-93.318674,1,range_interpolation,5557,"Xerxes Ave",Minneapolis,MN,"Hennepin County",55410,US
+535," Monument Cafe"," 500 S Austin Avenue"," 78627"," Georgetown"," TX",30.63848,-97.678078,1,range_interpolation,500,"S Austin Ave",Georgetown,TX,"Williamson County",78626,US
+536," Luke's Inside Out"," 1109 South Lamar Boulevard"," 78704"," Austin"," TX",30.255369,-97.761671,1,range_interpolation,1109,"S Lamar Blvd",Austin,TX,"Travis County",78704,US
+537," Broders' Pasta Bar"," 5000 Penn Avenue South"," 55410"," Minneapolis"," MN",44.912215,-93.3087,1,range_interpolation,5000,"Penn Ave S",Minneapolis,MN,"Hennepin County",55419,US
+538," Broders Cucina Italiana"," 2308 West 50th Street"," 55410"," Minneapolis"," MN",44.912516,-93.308772,1,range_interpolation,2308,"W 50th St",Minneapolis,MN,"Hennepin County",55410,US
+539," Pete's Breakfast House Restaurant"," 2055 E Main Street"," 93001"," Ventura"," CA",34.277951,-119.269153,1,range_interpolation,2055,"E Main St",Ventura,CA,"Ventura County",93001,US
+540," Lola's Louisiana Kitchen"," 241 W. Charleston"," 89201"," Las Vegas"," NV",36.15871,-115.156652,1,range_interpolation,241,"W Charleston Blvd","Las Vegas",NV,"Clark County",89102,US
+541," Marla's Carribean Cuisine"," 3761 Bloomington Ave"," 55407"," Minneapolis"," MN",44.93483,-93.252245,1,range_interpolation,3761,"Bloomington Ave",Minneapolis,MN,"Hennepin County",55407,US
+542," Counter Cafe"," 626 North Lamar Boulevard"," 78703"," Austin"," TX",30.271807,-97.754012,1,range_interpolation,626,"N Lamar Blvd",Austin,TX,"Travis County",78703,US
+543," Cutty Foods"," 284 Washington Street"," 02445"," Brookline"," MA",42.333155,-71.119553,1,range_interpolation,284,"Washington St",Brookline,MA,"Norfolk County",02445,US
+544," Johnny Garlics Dublin"," 4920 Dublin Boulevard Ste 265"," 94568"," Dublin"," CA",37.705954,-121.883076,1,range_interpolation,4920,"Dublin Blvd",Dublin,CA,"Alameda County",94568,US
+545," Johnny Garlics San Jose CA"," 101 Curtner Ave"," 95125"," San Jose"," CA",37.300878,-121.865286,1,range_interpolation,101,"Curtner Ave","San Jose",CA,"Santa Clara County",95125,US
+546," Italian Express Pizzeria"," 336 Sumner Street East"," 02128"," Boston"," MA",42.367254,-71.035779,1,range_interpolation,336,"Sumner St",Boston,MA,"Suffolk County",02128,US
+547," Angelas Cafe Restaurant"," 131 Lexington Street East"," 02128"," Boston"," MA",42.378551,-71.035422,1,range_interpolation,131,"Lexington St",Boston,MA,"Suffolk County",02128,US
+548," John Mull's Meats and Road Kill Grill"," 3730 Thom Blvd"," 89130"," Las Vegas"," NV",36.227383,-115.212063,1,range_interpolation,3730,"Thom Blvd","Las Vegas",NV,"Clark County",89130,US
+549," Noble Pig Austin"," 12233 620 N"," 78750"," Austin"," TX",30.406729,-97.8155,0.33,place,,,Austin,TX,"Travis County",78750,US
+550," Moondoggies Bar and Naked City Pizza"," 3240 Arville Street"," 89102"," Las Vegas"," NV",36.131214,-115.199142,1,range_interpolation,3240,"Arville St","Las Vegas",NV,"Clark County",89102,US
+551," Forte European Tapas Bar and Bistro"," 4180 South Rainbow Boulevard"," 89103"," Las Vegas"," NV",36.113085,-115.242803,1,range_interpolation,4180,"S Rainbow Blvd","Las Vegas",NV,"Clark County",89103,US
+552," Anthonino's Taverna"," 2225 Macklind Avenue"," 63110"," St. Louis"," MO",38.614339,-90.277775,1,range_interpolation,2225,"Macklind Ave","Saint Louis",MO,"St. Louis city",63110,US
+553," The Shaved Duck"," 2900 Virginia Avenue"," 63118"," St. Louis"," MO",38.603907,-90.23615,1,range_interpolation,2900,"Virginia Ave","Saint Louis",MO,"St. Louis city",63118,US
+554," Hwy 61 Roadhouse"," 34 South Old Orchard Avenue"," 63119"," Webster Groves"," MO",38.590511,-90.338648,1,range_interpolation,34,"S Old Orchard Ave","Saint Louis",MO,"St. Louis County",63119,US
+555," Dressel's Public House"," 419 N Euclid Avenue"," 63108"," St. Louis"," MO",38.649097,-90.26099,1,range_interpolation,419,"N Euclid Ave","Saint Louis",MO,"St. Louis city",63108,US
+556," Bachi Burger"," 470 E. Windmill Lane"," 89123"," Las Vegas"," NV",36.042508,-115.152103,1,range_interpolation,470,"E Windmill Ln","Las Vegas",NV,"Clark County",89123,US
+557," Afrah"," 314 E.Main Street"," 75081"," Richardson"," TX",32.949266,-96.721626,0.33,place,,,Richardson,TX,"Dallas County",75081,US
+558," Taste of Europe Restaurant Russian"," 1901 West Pioneer Parkway"," 76013"," Arlington"," TX",32.709201,-97.136715,1,range_interpolation,1901,"W Pioneer Pkwy",Arlington,TX,"Tarrant County",76013,US
+559," Foreign and Domestic"," 306 E. 53rd Street"," 78751"," Austin"," TX",30.317374,-97.720167,1,range_interpolation,306,"E 53rd St",Austin,TX,"Travis County",78751,US
+560," Hopleaf Bar"," 5148 North Clark Street"," 60640"," Chicago"," IL",41.975506,-87.668491,1,range_interpolation,5148,"N Clark St",Chicago,IL,"Cook County",60640,US
+561," Jawaiian Irie Jerk Restaurant"," 1137 Eleventh Ave"," 96816"," Honolulu"," HI",21.290612,-157.788328,0.33,place,,,Honolulu,HI,"Honolulu County",96816,US
+562," Yayo Taco is CLOSED"," 4632 S. Maryland Pkwy #18"," 89119"," Las Vegas"," NV",36.105564,-115.13707,0.9,range_interpolation,4632,"S Maryland Pkwy","Las Vegas",NV,"Clark County",89119,US
+563," Boston Burger Company"," 37 Davis Square"," 02144"," Somerville"," MA",42.396792,-71.122504,1,range_interpolation,37,"Davis Sq",Somerville,MA,"Middlesex County",02144,US
+564," Weeping Radish Farm"," 6810 Caratoke Hwy."," 27939"," Grandy"," NC",36.221444,-75.86975,0.8,range_interpolation,6810,"Caratoke Hwy",Grandy,NC,"Currituck County",27939,US
+565," Tortugas Lie"," 3016 South Virginia Dare Trail"," 27959"," Nags Head"," NC",35.978653,-75.63622,1,range_interpolation,3016,"S Virginia Dare Trl","Nags Head",NC,"Dare County",27959,US
+566," Memphis Street Cafe"," 2476 Memphis Street"," 38632"," Hernando"," MS",34.824854,-89.994603,1,range_interpolation,2476,"Memphis St",Hernando,MS,"DeSoto County",38632,US
+567," Chicago Brauhaus"," 4732 N Lincoln Ave"," 60625"," Chicago"," IL",41.967434,-87.687966,1,range_interpolation,4732,"N Lincoln Ave",Chicago,IL,"Cook County",60625,US
+568," Camilles on Wheels Food Truck"," "," 96814"," Kailua"," HI",21.293143,-157.848767,0.67,place,,,Honolulu,HI,"Honolulu County",96814,US
+569," Ortegaz Southwestern Grill and Wine Bar"," 201 Sir Walter Raleigh Street"," 27954"," Manteo"," NC",35.9092,-75.670138,1,range_interpolation,201,"Sir Walter Raleigh St",Manteo,NC,"Dare County",27954,US
+570," Heeia Kea Pier General Store and Deli"," 46-499 Kamehameha HWY."," 96744"," Kaneohe"," HI",21.39562,-157.797476,1,range_interpolation,499,"Kamehameha Hwy",Kaneohe,HI,"Honolulu County",96744,US
+571," REX Italian Foods"," 4431 N Harlem Ave"," 60706"," Norridge"," IL",41.961873,-87.807061,1,range_interpolation,4431,"N Harlem Ave","Harwood Heights",IL,"Cook County",60706,US
+572," bopNgrill"," 6604 N Sheridan Road"," 60626"," Chicago"," IL",42.002592,-87.660933,1,range_interpolation,6604,"N Sheridan Rd",Chicago,IL,"Cook County",60626,US
+573," Sweet Home Waimanalo"," 41-1025 Kalanianaole Highway"," 96795"," Waimanalo"," HI",21.340468,-157.704101,1,range_interpolation,1025,"Kalanianaole Hwy",Waimanalo,HI,"Honolulu County",96795,US
+574," Davis' Pub"," 400 Chester Aveune"," 21403"," Annapolis"," MD",38.969189,-76.480329,1,rooftop,400,"Chester Ave",Annapolis,MD,"Anne Arundel County",21403,US
+575," Rizzos Diner"," 106 G.E. Patterson"," 38103"," Memphis"," TN",35.154875,-90.049631,0.33,place,,,Memphis,TN,"Shelby County",38103,US
+576," 90 Miles Cuban Cafe"," 3101 N. Clybourn"," 60618"," Chicago"," IL",41.937516,-87.685578,1,range_interpolation,3101,"N Clybourn Ave",Chicago,IL,"Cook County",60618,US
+577," Byblos Mediterranean Cafe"," 223 North Clinton Street"," 13202"," Syracuse"," NY",43.051546,-76.153662,1,range_interpolation,223,"N Clinton St",Syracuse,NY,"Onondaga County",13202,US
+578," Memphis BBQ Co."," 709 Desoto Cove"," 38637"," Horn Lake"," MS",34.96404,-90.003768,1,range_interpolation,709,"Desoto Cv","Horn Lake",MS,"DeSoto County",38637,US
+579," Evas European Sweets"," 1305 Milton Avenue"," 13204"," Syracuse"," NY",43.059403,-76.199373,1,range_interpolation,1305,"Milton Ave",Syracuse,NY,"Onondaga County",13204,US
+580," Empire Brewing Company"," 120 Walton Street"," 13202"," Syracuse"," NY",43.048112,-76.153858,1,range_interpolation,120,"Walton St",Syracuse,NY,"Onondaga County",13202,US
+581," Funk N Waffles"," 727 South Crouse Avenue"," 13210"," Syracuse"," NY",43.042386,-76.136477,1,range_interpolation,727,"S Crouse Ave",Syracuse,NY,"Onondaga County",13210,US
+582," Pastabilities"," 311 South Franklin Street"," 13202"," Syracuse"," NY",43.048626,-76.155375,1,range_interpolation,311,"S Franklin St",Syracuse,NY,"Onondaga County",13202,US
+583," Kitty Hoynes"," 301 West Fayette Street"," 13202"," Syracuse"," NY",43.048852,-76.155525,1,range_interpolation,301,"W Fayette St",Syracuse,NY,"Onondaga County",13202,US
+584," Guys American Kitchen and Bar"," 220 W 44th Street"," 10036"," New York"," NY",40.757838,-73.987495,1,range_interpolation,220,"W 44th St","New York",NY,"New York County",10036,US
+585," Brine and Bottle"," 7531 S Virginia Dare Trail"," 27959"," Nags Head"," NC",35.905868,-75.599358,1,range_interpolation,7531,"S Virginia Dare Trl","Nags Head",NC,"Dare County",27959,US
+586," Outer Banks Brewing Station"," 600 South Croatan Highway"," 27948"," Kill Devil Hills"," NC",36.01683,-75.66629,0.33,place,,,"Kill Devil Hills",NC,"Dare County",27948,US
+587," Patti's Pierogis"," 1019 S Main Street"," 02724"," Fall River"," MA",41.690882,-71.165865,0.9,range_interpolation,1019,"S Main St","Fall River",MA,"Bristol County",02724,US
+588," Tupelo"," 1193 Cambridge Street"," 02139"," Cambridge"," MA",42.373429,-71.097259,1,range_interpolation,1193,"Cambridge St",Cambridge,MA,"Middlesex County",02139,US
+589," Angelos Civita Farnese Restaurant"," 141 Atwells Ave"," 02903"," Providence"," RI",41.823149,-71.422684,1,range_interpolation,141,"Atwells Ave",Providence,RI,"Providence County",02903,US
+590," Mediterraneo Caffe"," 134 Atwells Avenue"," 02903"," Providence"," RI",41.823133,-71.422412,1,range_interpolation,134,"Atwells Ave",Providence,RI,"Providence County",02903,US
+591," South of Beale"," 361 South Main Street"," 38103"," Memphis"," TN",35.136573,-90.057644,1,range_interpolation,361,"S Main St",Memphis,TN,"Shelby County",38103,US
+592," Big Wave Shrimp"," 66-521 Kamehameha Hwy"," 96712"," Haleiwa"," HI",21.659324,-158.056591,1,range_interpolation,521,"Kamehameha Hwy",Haleiwa,HI,"Honolulu County",96712,US
+593," Anthonys Seafood"," 963 Aquidneck Avenue"," 02842"," Middletown"," RI",41.513665,-71.282511,1,range_interpolation,963,"Aquidneck Ave",Middletown,RI,"Newport County",02842,US
+594," Guerrilla Street Food Truck"," "," "," St. Louis"," MO",38.631501,-90.19231,1,place,,,"Saint Louis",MO,"St. Louis city",63101,US
+595," Fresh Catch Kaneohe"," 45-1118 Kamehameha Hwy"," 96744"," Kaneohe"," HI",21.4168,-157.801564,1,range_interpolation,1118,"Kamehameha Hwy",Kaneohe,HI,"Honolulu County",96744,US
+596," The Elegant Farmer"," 262 S Highland Street"," 38111"," Memphis"," TN",35.124505,-89.945205,1,range_interpolation,262,"S Highland St",Memphis,TN,"Shelby County",38111,US
+597," Italian Corner"," 10 Boyd Avenue"," 02914"," East Providence"," RI",41.80793,-71.348784,1,range_interpolation,10,"Boyd Ave","East Providence",RI,"Providence County",02914,US
+598," Johnny's BBQ"," 5959 Broadmoor"," 66201"," Mission"," KS",39.007755,-94.679486,0.22,place,,,"Shawnee Mission",KS,"Johnson County",66201,US
+599," Three Angels Diner"," 2617 Broad Ave"," 38112"," Memphis"," TN",35.14754,-89.972077,1,range_interpolation,2617,"Broad Ave",Memphis,TN,"Shelby County",38112,US
+600," Opal Thai Food"," 66-460 Kamehameha Hwy"," 96712"," Haleiwa"," HI",21.619003,-158.084601,1,range_interpolation,460,"Kamehameha Hwy",Haleiwa,HI,"Honolulu County",96712,US
+601," Aunt Carries Seafood Restaurant"," 1240 Ocean Road"," 02882"," Narragansett"," RI",41.374773,-71.485245,0.8,range_interpolation,1240,"Ocean Rd",Narragansett,RI,"Washington County",02882,US
+602," Edgewood Cafe"," 1864 Broad Street"," 02905"," Cranston"," RI",41.774904,-71.398416,1,range_interpolation,1864,"Broad St",Providence,RI,"Providence County",02905,US
+603," Yankee Lobster Fish Market"," 300 Northern Avenue"," 02210"," Boston"," MA",42.348112,-71.036827,1,range_interpolation,300,"Northern Ave",Boston,MA,"Suffolk County",02210,US
+604," Espinos Mexican Bar & Grill"," 17409 Chesterfield Airport Road"," 63005"," Chesterfield"," MO",38.668148,-90.615335,1,range_interpolation,17409,"Chesterfield Airport Rd",Chesterfield,MO,"St. Louis County",63005,US
+605," Hey Meatball"," 719 College Street"," M6G 1C2"," Toronto"," ON",28.811303,-81.890684,0.8,street_center,,"S College St",Leesburg,FL,"Lake County",34748,US
+606," Caplansky's Delicatessen"," 356 College Street"," M5T 1S6"," Toronto"," ON",28.811303,-81.890684,0.8,street_center,,"S College St",Leesburg,FL,"Lake County",34748,US
+607," Rosedale Diner"," 1164 Yonge Street"," M4W 2L9"," Toronto"," ON",32.738366,-117.222127,0.8,street_center,,"Yonge St","San Diego",CA,"San Diego County",92106,US
+608," Chili Johns"," 2018 West Burbank Boulevard"," 91506"," Burbank"," CA",34.18022,-118.33319,1,range_interpolation,2018,"W Burbank Blvd",Burbank,CA,"Los Angeles County",91506,US
+609," "," 2018 West Burbank Boulevard"," "," ",,29.776691,-98.46263,0.22,place,,,Bulverde,TX,"Comal County",78163,US
+610," La Isla Restaurant"," 104 Washington Street"," 07030"," Hoboken"," NJ",40.737521,-74.031032,1,range_interpolation,104,"Washington St",Hoboken,NJ,"Hudson County",07030,US
+611," Coastal Cravings"," 1209 Duck Road"," 27949"," Duck"," NC",36.174256,-75.756286,1,range_interpolation,1209,"Duck Rd","Kitty Hawk",NC,"Dare County",27949,US
+612," The Smoke Joint"," 87 S Elliott Place"," 11217"," Brooklyn"," NY",40.686944,-73.975406,1,rooftop,87,"S Elliott Pl",Brooklyn,NY,"Kings County",11217,US
+613," Jimmy's Diner"," 577 Union Ave"," 11211"," Brooklyn"," NY",40.712597,-73.953098,0.22,place,,,Brooklyn,NY,"Kings County",11211,US
+614," Darbys Cafe"," 211 5th Ave SE"," 98501"," Olympia"," WA",47.044026,-122.900209,1,range_interpolation,211,"5th Ave SE",Olympia,WA,"Thurston County",98501,US
+615," Marie's Italian Specialties"," 641 Shunpike Rd"," 07928"," Chatham"," NJ",40.74615,-74.430019,1,range_interpolation,641,"Shunpike Rd",Chatham,NJ,"Morris County",07928,US
+616," Bruno's European Restaurant"," 10716 A Street South"," 98444"," Tacoma"," WA",47.159705,-122.431695,1,range_interpolation,10716,"A St S",Tacoma,WA,"Pierce County",98444,US
+617," "," 10716 A Street South"," "," ",,37.329217,-86.364699,0.3,place,,,South,KY,"Grayson County",42754,US
+618," "," 10716 A Street South"," "," ",,37.329217,-86.364699,0.3,place,,,South,KY,"Grayson County",42754,US
+619," "," 10716 A Street South"," "," ",,37.329217,-86.364699,0.3,place,,,South,KY,"Grayson County",42754,US
+620," "," 10716 A Street South"," "," ",,37.329217,-86.364699,0.3,place,,,South,KY,"Grayson County",42754,US
+621," "," 10716 A Street South"," "," ",,37.329217,-86.364699,0.3,place,,,South,KY,"Grayson County",42754,US
+622," "," 10716 A Street South"," "," ",,37.329217,-86.364699,0.3,place,,,South,KY,"Grayson County",42754,US
+623," "," 10716 A Street South"," "," ",,37.329217,-86.364699,0.3,place,,,South,KY,"Grayson County",42754,US
+624," Pies n Thighs"," 166 South 4th Street"," 11211"," Brooklyn"," NY",40.711217,-73.961345,1,rooftop,166,"S 4th St",Brooklyn,NY,"Kings County",11211,US
+625," The Ace Toronto"," 231 Roncesvalles Avenue"," M6R 2L6"," Toronto"," ON",34.044944,-96.321428,0.22,place,,,Durant,OK,"Bryan County",74701,US
+626," The Lakeview Restaurant"," 1132 Dundas Street West"," M6J 2Y2"," Toronto"," ON",34.045915,-118.192357,0.8,street_center,,"Dundas St","Los Angeles",CA,"Los Angeles County",90063,US
+627," The Stockyards Smokehouse and Larder"," 699 Saint Clair Avenue West"," M6C 1B2"," Toronto"," ON",26.650039,-81.919741,0.8,street_center,,"Saint Clair Ave W","North Fort Myers",FL,"Lee County",33903,US
+628," Crown Bar"," 2705 6th Avenue"," 98405"," Tacoma"," WA",47.25559,-122.471391,1,range_interpolation,2705,"6th Ave",Tacoma,WA,"Pierce County",98406,US
+629," The Golden State Cafe"," 426 North Fairfax Avenue"," 90036"," Los Angeles"," CA",34.079001,-118.361281,1,rooftop,426,"N  Fairfax Ave","Los Angeles",CA,"Los Angeles County",90036,US
+630," Beer Belly"," 532 South Western Avenue"," 90020"," Los Angeles"," CA",34.064386,-118.308907,1,rooftop,532,"S  Western Ave","Los Angeles",CA,"Los Angeles County",90020,US
+631," Chomp Chomp Nation (Food Truck)"," "," 92612"," Irvine"," CA",33.65844,-117.826009,1,place,,,Irvine,CA,"Orange County",92612,US
+632," Dirty Oscars Annex"," 2309 6th Avenue"," 98403"," Tacoma"," WA",47.255598,-122.467209,1,range_interpolation,2309,"6th Ave",Tacoma,WA,"Pierce County",98403,US
+633," Highland Tavern"," 3400 Navajo Street"," 80211"," Denver"," CO",39.764281,-105.004141,1,range_interpolation,3400,"Navajo St",Denver,CO,"Denver County",80211,US
+634," Sidecar Bar and Grille"," 2201 Christian Street"," 19146"," Philadelphia"," PA",39.94151,-75.179347,1,range_interpolation,2201,"Christian St",Philadelphia,PA,"Philadelphia County",19146,US
+635," Perk Eatery"," 6501 East Greenway Parkway"," 85254"," Scottsdale"," AZ",33.625402,-111.940429,1,range_interpolation,6501,"E Greenway Pkwy",Scottsdale,AZ,"Maricopa County",85254,US
+636," Atomic Cowboy"," 3237 East Colfax Avenue"," 80206"," Denver"," CO",39.740309,-104.949691,1,range_interpolation,3237,"E Colfax Ave",Denver,CO,"Denver County",80206,US
+637," South Philadelphia Tap Room"," 1509 Mifflin Street"," 19145"," Philadelphia"," PA",39.927229,-75.171103,1,range_interpolation,1509,"Mifflin St",Philadelphia,PA,"Philadelphia County",19145,US
+638," St. Francis"," 111 East Camelback Road"," 85012"," Phoenix"," AZ",33.509118,-112.07195,1,range_interpolation,111,"E Camelback Rd",Phoenix,AZ,"Maricopa County",85012,US
+639," Barrio Cafe"," 2814 N 16th Street"," 85006"," Phoenix"," AZ",33.47912,-112.04779,1,range_interpolation,2814,"N 16th St",Phoenix,AZ,"Maricopa County",85006,US
+640," Nopalito on 9th"," 1224 9th Avenue"," 94122"," San Francisco"," CA",37.76547,-122.466267,1,range_interpolation,1224,"9th Ave","San Francisco",CA,"San Francisco County",94122,US
+641," Percy Street Barbecue"," 900 South Street"," 19147"," Philadelphia"," PA",39.942745,-75.157057,1,range_interpolation,900,"South St",Philadelphia,PA,"Philadelphia County",19147,US
+642," Hops and Pie"," 3920 Tennyson Street"," 80212"," Denver"," CO",39.771282,-105.043862,1,range_interpolation,3920,"Tennyson St",Denver,CO,"Denver County",80212,US
+643," Bludso's BBQ"," 811 South Long Beach Boulevard"," 90221"," Compton"," CA",33.889242,-118.207554,1,rooftop,811,"S  Long Beach Blvd",Compton,CA,"Los Angeles County",90221,US
+644," Curry Corner"," 1212 East Apache Boulevard"," 85281"," Tempe"," AZ",33.414628,-111.920226,0.8,range_interpolation,1212,"E Apache Blvd",Tempe,AZ,"Maricopa County",85281,US
+645," Prohibition"," 504 East Colfax Avenue"," 80220"," Denver"," CO",39.739876,-104.981066,1,range_interpolation,504,"E Colfax Ave",Denver,CO,"Denver County",80218,US
+646," Standard Tap"," 901 North 2nd Street"," 19123"," North Philadelphia"," PA",39.963988,-75.140706,1,range_interpolation,901,"N 2nd St",Philadelphia,PA,"Philadelphia County",19123,US
+647," Cora Fayes Cafe"," 2861 Colorado Boulevard"," 80207"," Denver"," CO",39.757617,-104.940446,0.7,range_interpolation,2861,"N Colorado Blvd",Denver,CO,"Denver County",80207,US
+648," DeFalco's Italian Deli"," 2334 Scottsdale Oak Plaza Shopping Center"," 85257"," Scottsdale"," AZ",33.473358,-111.926337,1,range_interpolation,2334,"E Scottsdale Mall",Scottsdale,AZ,"Maricopa County",85257,US
+649," The Jamaican Jerk Hut"," 1436 South Street"," 19146"," Philadelphia"," PA",39.943583,-75.166049,1,range_interpolation,1436,"South St",Philadelphia,PA,"Philadelphia County",19146,US
+650," Black Pelican Seafood Company"," 3848 North Virginia Dare Trail"," 27949"," Kitty Hawk"," NC",36.06431,-75.688981,1,range_interpolation,3848,"N Virginia Dare Trl","Kitty Hawk",NC,"Dare County",27949,US
+651," Geechee Girl Rice Cafe"," 6825 Germantown Avenue"," 19119"," Philadelphia"," PA",40.054895,-75.186829,1,range_interpolation,6825,"Germantown Ave",Philadelphia,PA,"Philadelphia County",19119,US
+652," The Duce"," 525 South Central Avenue"," 85004"," Downtown Phoenix"," AZ",33.453787,-112.073664,1,range_interpolation,525,"N Central Ave",Phoenix,AZ,"Maricopa County",85004,US
+653," Haggo's Organic Taco"," 1114 North Coast Highway 101"," 92024"," Encinitas"," CA",33.068491,-117.303921,1,rooftop,1114,"N Coast Highway 101",Encinitas,CA,"San Diego County",92024,US
+654," The Parks Finest BBQ"," 1267 West Temple Street"," 90026"," Central LA"," CA",34.066431,-118.254133,1,rooftop,1267,"W  Temple St","Los Angeles",CA,"Los Angeles County",90026,US
+655," Eastside Market Italian Deli"," 1013 Alpine Street"," 90012"," Los Angeles"," CA",34.065164,-118.246631,1,rooftop,1013,"Alpine St","Los Angeles",CA,"Los Angeles County",90012,US
+656," Crockett's Public House"," 118 East Stewart Avenue"," 98372"," Puyallup"," WA",47.192846,-122.293634,1,range_interpolation,118,"E Stewart Ave",Puyallup,WA,"Pierce County",98372,US
+657," Fish Tale Brewpub"," 515 Jefferson Street Southeast"," 98501"," Olympia"," WA",47.04429,-122.89673,1,range_interpolation,515,"Jefferson St SE",Olympia,WA,"Thurston County",98501,US
+658," ob noodle house"," 2218 Cable Street"," 92107"," Ocean Beach"," CA",32.751263,-117.24483,1,rooftop,2218,"Cable St","San Diego",CA,"San Diego County",92107,US
+659," Shirley's Tippy Canoe"," 28242 Historic Columbia River Highway"," 97060"," Troutdale"," OR",45.514712,-122.362683,0.9,range_interpolation,28242,"E Crown Point Hwy",Troutdale,OR,"Multnomah County",97060,US
+660," Spiritos Italian Diner"," 2508 South El Camino Real"," 92008"," Carlsbad"," CA",33.180786,-117.326725,1,range_interpolation,2508,"Co Hwy S11",Carlsbad,CA,"San Diego County",92008,US
+661," Nopalito on broderick"," 306 Broderick Street"," 94117"," San Francisco"," CA",37.773226,-122.438974,1,rooftop,306,"Broderick St","San Francisco",CA,"San Francisco County",94117,US
+662," Pica Pica Maize Kitchen"," 401 Valencia Street"," 94103"," San Francisco"," CA",37.766409,-122.421714,1,rooftop,401,"Valencia St","San Francisco",CA,"San Francisco County",94103,US
+663," Edelweiss Sausage & Delicatessen"," 3119 Southeast 12th Avenue"," 97202"," Portland"," OR",45.500803,-122.653302,1,range_interpolation,3119,"SE 12th Ave",Portland,OR,"Multnomah County",97202,US
+664," Crest Cafe"," 425 Robinson Avenue"," 92103"," San Diego"," CA",32.746807,-117.160768,1,rooftop,425,"Robinson Ave","San Diego",CA,"San Diego County",92103,US
+665," Show Dogs"," 1020 Market Street"," 94102"," San Francisco"," CA",37.782044,-122.410989,1,rooftop,1020,"Market St","San Francisco",CA,"San Francisco County",94102,US
+666," Industrial Cafe & Saloon"," 2572 Northwest Vaughn Street"," 97210"," Portland"," OR",45.536666,-122.703913,1,range_interpolation,2572,"NW Vaughn St",Portland,OR,"Multnomah County",97210,US
+667," The Refuge"," 963 Laurel Street"," 94070"," San Carlos"," CA",37.501886,-122.255316,1,range_interpolation,963,"Laurel St","San Carlos",CA,"San Mateo County",94070,US
+668," The Country Cat"," 7937 Southeast Stark Street"," 97215"," Portland"," OR",45.519305,-122.582188,1,range_interpolation,7937,"SE Stark St",Portland,OR,"Multnomah County",97215,US
+669," Millers East Coast Deli"," 1725 Polk Street"," 94109"," San Francisco"," CA",37.792734,-122.42146,1,rooftop,1725,"Polk St","San Francisco",CA,"San Francisco County",94109,US
+670," Koja Kitchen Food Truck"," "," 94123"," San Francisco"," CA",37.79967,-122.435732,1,place,,,"San Francisco",CA,"San Francisco County",94123,US
+671," The Front Porch"," 65a 29th Street"," 94110"," San Francisco"," CA",37.743722,-122.421978,1,rooftop,65,"29th St","San Francisco",CA,"San Francisco County",94110,US
+672," Senor Sisig Food Truck"," 94115 San Francisco"," 94115"," San Francisco"," CA",37.786028,-122.437032,0.33,place,,,"San Francisco",CA,"San Francisco County",94115,US
+673," A Taste of Home Cooking"," 12365 West 58th Avenue"," 80002"," Arvada"," CO",39.80166,-105.137265,0.8,range_interpolation,12365,"W 58th Ave",Arvada,CO,"Jefferson County",80002,US
+674," PDX Six Seven One Food Truck"," NE 52nd Ave & NE Sandy Blvd"," 97213"," Portland"," OR",45.540119,-122.609967,1,intersection,,"NE 52nd Ave",Portland,OR,"Multnomah County",97213,US
+675," Golden Crown Panaderia"," 1103 Mountain Road Northwest"," 87102"," Albuquerque"," NM",35.095468,-106.657954,1,range_interpolation,1103,"Mountain Rd NW",Albuquerque,NM,"Bernalillo County",87102,US
+676," Casa Chimayo"," 409 West Water Street"," 87501"," Santa Fe"," NM",35.688172,-105.944672,1,range_interpolation,409,"W Water St","Santa Fe",NM,"Santa Fe County",87501,US
+677," Torinos at Home"," 7600 Jefferson Street Northeast"," 87109"," Albuquerque"," NM",35.166374,-106.591055,1,range_interpolation,7600,"Jefferson St NE",Albuquerque,NM,"Bernalillo County",87109,US
+678," Frank's Noodle House"," 822 Northeast Broadway Street"," 97232"," Portland"," OR",45.53491,-122.657426,1,range_interpolation,822,"NE Broadway St",Portland,OR,"Multnomah County",97232,US
+679," Bocadillos"," 1609 Indian School Road Northwest"," 87104"," Albuquerque"," NM",35.11077,-106.661809,1,range_interpolation,1609,"Indian School Rd NW",Albuquerque,NM,"Bernalillo County",87104,US
+680," Jambo Cafe New Mexico"," 2010 Cerrillos Road"," 87505"," Santa Fe"," NM",35.66313,-105.976046,1,range_interpolation,2010,"Cerrillos Rd","Santa Fe",NM,"Santa Fe County",87505,US
+681," Danny Edward's Blvd BBQ"," 2900 Southwest Boulevard"," 64108"," Kansas City"," MO",39.07513,-94.603358,1,range_interpolation,2900,"Southwest Blvd","Kansas City",MO,"Jackson County",64108,US
+682," Back Street Bistro"," 513 Camino De Los Marquez"," 87505"," Santa Fe"," NM",35.998909,-106.049405,0.8,street_center,,"Camino De Los Sanchez",Espanola,NM,"Santa Fe County",87532,US
+683," Succotash"," 2601 Holmes Street"," 64108"," Kansas City"," MO",39.0793,-94.576133,1,range_interpolation,2601,"Holmes St","Kansas City",MO,"Jackson County",64108,US
+684," Cupinis"," 1809 Westport Road"," 64111"," Kansas City"," MO",39.05007,-94.606598,1,range_interpolation,1809,"Westport Rd","Kansas City",MO,"Jackson County",64111,US
+685," The Cube BBQ"," 1520 Central Avenue Southeast"," 87123"," Albuquerque"," NM",35.089224,-106.66406,1,range_interpolation,1520,"Central Ave",Albuquerque,NM,"Bernalillo County",87104,US
+686," Nexus Brewery and Restaurant"," 4730 Pan American Freeway"," 87109"," Albuquerque"," NM",35.135006,-106.605556,1,range_interpolation,4730,"Pan American Fwy",Albuquerque,NM,"Bernalillo County",87109,US
+687," B.B.'s Lawn Side Bar B-Q"," 1205 East 85th Street"," 64131"," Kansas City"," MO",38.973273,-94.575417,0.9,range_interpolation,1205,"E 85th St","Kansas City",MO,"Jackson County",64131,US
+688," The Tin Shed Garden Cafe"," 1438 Northeast Alberta Street"," 97211"," Portland"," OR",45.558945,-122.651133,1,range_interpolation,1438,"NE Alberta St",Portland,OR,"Multnomah County",97211,US
+689," Asi y Asado"," "," "," Cabo San Lucas"," BS",33.324113,-111.878217,0.6,place,,,"Sun Lakes",AZ,"Maricopa County",85224,US
+690," Soloman's Landing Restaurant"," "," "," Cabo San Lucas"," BS",33.324113,-111.878217,0.6,place,,,"Sun Lakes",AZ,"Maricopa County",85224,US
+691," "," "," "," ",,0,0,0,,,,,,,,
+692," Tiki Bar"," "," "," Cabo San Lucas"," BS",33.324113,-111.878217,0.6,place,,,"Sun Lakes",AZ,"Maricopa County",85224,US
+693," "," "," "," ",,0,0,0,,,,,,,,
+694," 55 South"," 403 Main Street"," 37064"," Franklin"," TN",35.924023,-86.871101,1,range_interpolation,403,"Main St",Franklin,TN,"Williamson County",37064,US
+695," Potpie"," 904 Westport Road"," 64111"," Kansas City"," MO",39.050864,-94.596841,1,range_interpolation,904,"Westport Rd","Kansas City",MO,"Jackson County",64111,US
+696," Phat Bites"," 940 Allen Road"," 37214"," Nashville"," TN",36.150647,-86.664674,1,range_interpolation,940,"Allen Rd",Nashville,TN,"Davidson County",37214,US
+697," Cafe Nonna"," 4427 Murphy Road"," 37209"," Nashville"," TN",36.140821,-86.839394,1,range_interpolation,4427,"Murphy Rd",Nashville,TN,"Davidson County",37209,US
+698," Blue Koi"," 10581 Mission Road"," 66206"," Leawood"," KS",38.934668,-94.630068,1,range_interpolation,10581,"Mission Rd","Shawnee Mission",KS,"Johnson County",66206,US
+699," The Grilled Cheeserie Food Truck"," "," "," Tennessee"," TN",35.737569,-87.473903,0.53,place,,,Deans,TN,"Hickman County",37033,US
+700," Hotel Ivanhoe"," 315 Main Street"," 95536"," Ferndale"," CA",40.575876,-124.264894,1,range_interpolation,315,"Main St",Ferndale,CA,"Humboldt County",95536,US
+701," Ferndale Meat Co."," 376 Main Street"," 95536"," Ferndale"," CA",40.576025,-124.264341,1,range_interpolation,376,"Main St",Ferndale,CA,"Humboldt County",95536,US
+702," Clendenens Cider"," 96 12th Street"," 95540"," Fortuna"," CA",40.589814,-124.154628,1,range_interpolation,96,"12th St",Fortuna,CA,"Humboldt County",95540,US
+703," Clendenens Cider Works"," 96 12th Street"," 95540"," Fortuna"," CA",40.589814,-124.154628,1,range_interpolation,96,"12th St",Fortuna,CA,"Humboldt County",95540,US
+704," Loleta Cheese Factory"," 252 Loleta Drive"," 95551"," Loleta"," CA",40.641143,-124.223726,1,range_interpolation,252,"Loleta Dr",Loleta,CA,"Humboldt County",95551,US
+705," Humboldt Sweets"," 399 Main Street"," 95536"," Ferndale"," CA",40.576357,-124.264441,1,range_interpolation,399,"Main St",Ferndale,CA,"Humboldt County",95536,US
+706," Blue Collar"," 6730 Biscayne Boulevard"," 33138"," Miami"," FL",25.837815,-80.184605,1,rooftop,6730,"Biscayne Blvd","Miami Shores",FL,"Miami-Dade County",33138,US
+707," The Federal"," 5132 Biscayne Boulevard"," 33137"," Miami"," FL",25.824588,-80.187042,1,range_interpolation,5132,"Biscayne Blvd",Miami,FL,"Miami-Dade County",33137,US
+708," Latin House Burger & Taco Bar"," 9565 Sunset Drive"," 33173"," Miami"," FL",25.701779,-80.350143,0.8,street_center,,"SW 72nd St",Miami,FL,"Miami-Dade County",33173,US
+709," Sakaya Kitchen"," 3401 N Miami Ave"," 33127"," Miami"," FL",25.808424,-80.194567,1,rooftop,3401,"N Miami Ave",Miami,FL,"Miami-Dade County",33137,US
+710," Dj's Clam Shack"," 629 Duval Street"," 33040"," Key West"," FL",24.554651,-81.801731,1,range_interpolation,629,"Duval St","Key West",FL,"Monroe County",33040,US
+711," Garbo's Grill"," 603 Greene Street"," 33040"," Key West"," FL",24.560037,-81.804039,1,range_interpolation,603,"Greene St","Key West",FL,"Monroe County",33040,US
+712," Bad Boy Burrito"," 1220 1/2 Simonton Street"," 33040"," Key West"," FL",24.553963,-81.799565,0.8,street_center,,"Simonton Ln","Key West",FL,"Monroe County",33040,US
+713," Brick and Fire Bistro"," 1630 F Street"," 95501"," Eureka"," CA",40.792693,-124.163863,1,range_interpolation,1630,"F St",Eureka,CA,"Humboldt County",95501,US
+714," Brindle Room"," 277 East 10th Street"," 10009"," New York"," NY",40.728185,-73.98279,1,rooftop,277,"E 10th St","New York",NY,"New York County",10009,US
+715," Black Tree"," 131 Orchard Street"," 10002"," New York"," NY",40.719721,-73.989521,1,rooftop,131,"Orchard St","New York",NY,"New York County",10002,US
+716," Bunker Vietnamese"," 46-63 Metropolitan Avenue"," 11385"," Ridgewood"," NY",40.71353,-73.913832,1,range_interpolation,063,"Metropolitan Ave",Ridgewood,NY,"Queens County",11385,US
+717," Pauls Live From New York"," 604 F Street"," 95501"," Eureka"," CA",40.80067,-124.165799,1,range_interpolation,604,"F St",Eureka,CA,"Humboldt County",95501,US
+718," Queens Comfort"," 40-09 30th Avenue"," 11103"," Astoria"," NY",40.763848,-73.914589,1,rooftop,40-009,"30th Ave",Astoria,NY,"Queens County",11103,US
+719," Sammy's Bistro"," 1890 Bonanza Drive"," 84060"," Park City"," UT",40.662991,-111.50083,0.8,street_center,,"Bonanza Dr","Park City",UT,"Summit County",84060,US
+720," Silver Star Cafe"," 1825 3 Kings Drive"," 84060"," Park City"," UT",40.660525,-111.517217,1,range_interpolation,003,"Kings Ct","Park City",UT,"Summit County",84068,US
+721," Maxwell's in Salt Lake City"," 357 South Main Street"," 84111"," Salt Lake City"," UT",40.761314,-111.890939,1,range_interpolation,357,"S Main St","Salt Lake City",UT,"Salt Lake County",84111,US
+722," Cafe Nooner"," 409 Opera Alley"," 95501"," Eureka"," CA",40.803833,-124.166447,1,range_interpolation,409,"Opera Aly",Eureka,CA,"Humboldt County",95501,US
+723," Ducks Eatery"," 351 East 12th Street"," 10003"," East Village"," NY",40.730242,-73.983806,1,rooftop,351,"E 12th St","New York",NY,"New York County",10003,US
+724," Whisk Gourmet Food"," 7382 Southwest 56th Avenue"," 33143"," Miami"," FL",25.702903,-80.284671,1,rooftop,7382,"SW 56th Ave","South Miami",FL,"Miami-Dade County",33143,US
+725," Tin Roof Grill"," 9284 South 700 East"," 84070"," Sandy"," UT",40.582148,-111.872343,1,range_interpolation,9284,"S 700 E",Sandy,UT,"Salt Lake County",84070,US
+726," The Alley Restaurant at Aiea Bowl"," 99-115 Aiea Heights Drive"," 96701"," Aiea"," HI",21.378941,-157.930416,1,range_interpolation,115,"Aiea H8ths Dr",Aiea,HI,"Honolulu County",96701,US
+727," Loulou's Griddle in the Middle"," Municipal Wharf 2 Monterey"," 93940"," Monterey"," CA",36.601643,-121.889814,1,street_center,,"Municipal Wharf 2",Monterey,CA,"Monterey County",93940,US
+728," Fat Sal's"," 1300 North Highland Avenue"," 90028"," Los Angeles"," CA",34.094531,-118.338429,1,rooftop,1300,"N  Highland Ave","Los Angeles",CA,"Los Angeles County",90028,US
+729," Elena’s Home of Finest Filipino Foods"," 94-866 Moloalo Street"," 96797"," Waipahu"," HI",21.384659,-158.002774,1,range_interpolation,866,"Moloalo St",Waipahu,HI,"Honolulu County",96797,US
+730," Aristo's Greek Restaurant & Cafe"," 224 South 1300 East"," 84102"," Salt Lake City"," UT",40.764478,-111.854032,1,range_interpolation,224,"S 1300 E","Salt Lake City",UT,"Salt Lake County",84102,US
+731," Oh Mai Sandwich"," 3425 South State Street"," 84115"," Salt Lake City"," UT",40.696921,-111.888103,1,range_interpolation,3425,"S State St","Salt Lake City",UT,"Salt Lake County",84115,US
+732," Boots & Kimo's Homestyle Kitchen"," 151 Hekili Street"," 96734"," Kailua"," HI",21.392123,-157.742566,1,range_interpolation,151,"Hekili St",Kailua,HI,"Honolulu County",96734,US
+733," Dean's Drive Inn"," 45-773 Kamehameha Highway"," 96744"," Kaneohe"," HI",21.467899,-157.843622,1,range_interpolation,773,"Kamehameha Hwy",Kaneohe,HI,"Honolulu County",96744,US
+734," Uahi Island Grill"," 131 Hekili Street"," 96734"," Kailua"," HI",21.39228,-157.743158,1,range_interpolation,131,"Hekili St",Kailua,HI,"Honolulu County",96734,US
+735," Tamarindo Food Truck"," "," 92656"," Orange County"," CA",33.576205,-117.730364,0.67,place,,,"Aliso Viejo",CA,"Orange County",92656,US
+736," Mike’s Huli Huli"," 47 Kamehameha Highway"," 96744"," Kaneohe"," HI",21.420233,-157.802966,1,range_interpolation,47,"Kamehameha Hwy",Kaneohe,HI,"Honolulu County",96744,US
+737," Taste of Belgium"," 1135 Vine Street"," 45202"," Cincinnati"," OH",39.107528,-84.514705,1,range_interpolation,1135,"Vine St",Cincinnati,OH,"Hamilton County",45202,US
+738," Bakersfield OTR"," 1213 Vine Street"," 45202"," Cincinnati"," OH",39.108416,-84.51495,1,range_interpolation,1213,"Vine St",Cincinnati,OH,"Hamilton County",45202,US
+739," Senate Restaurant"," 1212 Vine Street"," 45202"," Cincinnati"," OH",39.108473,-84.514655,1,range_interpolation,1212,"Vine St",Cincinnati,OH,"Hamilton County",45202,US
+740," Rutts Hawaiian Cafe & Catering"," 12114 West Washington Boulevard"," 90066"," Los Angeles"," CA",34.000888,-118.426992,1,rooftop,12114,"Washington Pl","Los Angeles",CA,"Los Angeles County",90066,US
+741," Sabroso! Mexican Grill"," 13129 Harbor Boulevard"," 92843"," Garden Grove"," CA",33.772573,-117.920551,1,range_interpolation,13129,"Harbor Blvd","Garden Grove",CA,"Orange County",92840,US
+742," Monterey's Fish House"," 2114 Del Monte Avenue"," 93940"," Monterey"," CA",36.602048,-121.866178,1,range_interpolation,2114,"Del Monte Ave",Monterey,CA,"Monterey County",93940,US
+743," Rosine's Restaurant"," 434 Alvarado Street"," 93940"," Monterey"," CA",36.59883,-121.894811,1,range_interpolation,434,"Alvarado St",Monterey,CA,"Monterey County",93940,US
+744," Sidewinders American Grill"," 945 West Broadway"," 83001"," Jackson"," WY",43.479803,-110.75416,0.8,street_center,,"E Broadway Ave",Jackson,WY,"Teton County",83001,US
+745," Blunch"," 59 East Springfield Street"," 02118"," Boston"," MA",42.335889,-71.075416,1,range_interpolation,59,"E Springfield St",Boston,MA,"Suffolk County",02118,US

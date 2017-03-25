@@ -1,0 +1,31 @@
+{
+  "name": "foodmap",
+  "version": "0.0.1",
+  "description": "food map",
+  "main": "dist",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/davidmichaelryan/foodmap.git"
+  },
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "build": "gulp",
+    "watch": "gulp watch"
+  },
+  "author": "David Ryan",
+  "license": "ISC",
+  "homepage": "http://davidmichaelryan.com",
+  "bugs": {
+    "url": "https://github.com/davidmichaelryan/foodmap/issues"
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-styl": "^1.2.0",
+    "haversine": "^1.0.2"
+  }
+}

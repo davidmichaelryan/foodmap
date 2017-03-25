@@ -1,0 +1,746 @@
+id, name, address, zip_code, city, state
+1, A1 Diner, 3 Bridge Street, 04345, Gardiner, ME
+2, Tick Tock Diner, 281 Allwood Road, , Clifton, NJ
+3, Blue Moon Cafe, 1621 Aliceanna Street, , Baltimore, MD
+4, Hodad's, 5010 Newport Avenue, , Ocean Beach, CA
+5, Joe's Farm Grill, 3000 E. Ray Road, , Gilbert, AZ
+6, Al's Breakfast, 413 14th Avenue SE, , Minneapolis, MN
+7, Psycho Suzi's, 1900 Marshall Street NE, , Minneapolis, MN
+8, Franks Diner, 508 58th Street, , Kenosha, WI
+9, Alpine Steakhouse, 4520 S. Tamiami Trail, , Sarasota, FL
+10, Aunt Lena's Creamery CLOSED, 4040 South Arizona Avenue, , Chandler, AZ
+11, Baby Blues Bar-B-Q, 444 Lincoln Boulevard, , Venice, CA
+12, Barbeque King Drive-In, 2900 Wilkinson Boulevard, , Charlotte, NC
+13, Bayway Diner, 2019 South Wood Avenue, , Linden, NJ
+14, Hillbilly Hot Dogs, 6591 Ohio River Road, , Lesage, WV
+15, Chap's Pit Beef, 5801 Pulaski Highway, , Baltimore, MD
+16, Triple X Family Restaurant, 2 North Salisbury Street, , West Lafayette, IN
+17, JT Farnham's Seafood and Grill, 88 Eastern Ave, 01929, South Essex, MA
+18, Red Arrow Diner, 61 Lowell Street, , Manchester, NH
+19, Brownstone Diner, 426 Jersey Avenue, , Jersey City, NJ
+20, White Manna Hamburgers, 358 River Street, , Hackensack, NJ
+21, Eveready Diner, 4189 Albany Post Road, , Hyde Park, NY
+22, BBQ Shack, 1613 E. Peoria Street, 66071, Paola, KS
+23, Beacon Drive-In, 255 John B. White Boulevard, , Spartanburg, SC
+24, Benny's Seafood, 2500 SW 107th Avenue, , South Miami, FL
+25, Big Star Diner, 305 Madison Avenue North, , Bainbridge Island, WA
+26, Bobby's Hawaiian Style Restaurant, 14626 Hwy 99, 98087, Lynnwood, WA
+27, BoBo Drive-In, 2300 SW 10th Avenue, 66604, Topeka, KS
+28, Brint's Diner NEW OWNERS, 4834 East Lincoln Street, 67218, Wichita, KS
+29, Cafe On The Route CLOSED, 1101 Military Avenue, 66713, Baxter Springs, KS
+30, Central City Cafe, 529 14th Street, , West Huntington, WV
+31, Charlie's Diner, 32 West Main Street, , Spencer, MA
+32, Chino Bandido, 15414 North 19th Avenue, , Phoenix, AZ
+33, The Coffee Cup, 512 Nevada Way, , Boulder City, NV
+34, Cozy Corner, 745 North Parkway, , Memphis, TN
+35, Creole Creamery, 4924 Prytania Street, , New Orleans, LA
+36, Daddypops Diner, 232 North York Road, , Hatboro, PA
+37, Dari-Ette Drive-In, 1440 Minnehaha Avenue, , St. Paul, MN
+38, The Dining Car, 8826 Frankford Avenue, , Philadelphia, PA
+39, Dot's Back Inn, 4030 Macarthur Avenue, , Richmond, VA
+40, Doumars, 1919 Monticello Avenue, , Norfolk, VA
+41, Duarte's Tavern, 202 Stage Road, , Pescadero, CA
+42, El Indio, 3695 India Street, , San Diego, CA
+43, 11th Street Diner, 1065 Washington Avenue, , Miami Beach, FL
+44, Emma Jean's Holland Burger Cafe, 17143 D Street, , Victorville, CA
+45, Charlie Parker's, 700 North Street, , Springfield, IL
+46, Evelyn's Drive-In, 2325 Main Road (Route 77), , Tiverton, RI
+47, The Fly Trap, 22950 Woodward Avenue, , Ferndale, MI
+48, Four Kegs Sports Pub, 276 N Jones Blvd, 89107, Las Vegas, NV
+49, The Frosted Mug CLOSED, 11541 South Pulaski Road, , Alsip, IL
+50, Gaffey Street Diner, 247 North Gaffey Street, , San Pedro, CA
+51, Grampa's Bakery, 17 Southwest First Street, , Dania Beach, FL
+52, Grubstake Diner, 1525 Pine Street, , San Francisco, CA
+53, Hackney's On Harms, 1241 Harms Road, , Glenview, IL
+54, Harold's Restaurant, 602 North Limestone Street, , Gaffney, SC
+55, Hightstown Diner, 151 Mercer Street, , Highstown, NJ
+56, Hullabaloo Diner, 15045 FM 2154 Road, , College Station, TX
+57, Iron Barley, 5510 Virginia Avenue, , St. Louis, MO
+58, Jay Bee's Bar-B-Que, 15911 Avalon Boulevard, , Gardena, CA
+59, Jefferson Diner, 5 Bowling Green Parkway, , Lake Hopatong, NJ
+60, Joe's Cable Car CLOSED, 4320 Mission Street, , San Francisco, CA
+61, Joe's Gizzard City, 120 West Main Street, , Potterville, MI
+62, Keegan's Seafood Grille, 1519 Gulf Boulevard, , Indian Rocks Beach, FL
+63, Kelly's Diner, 674 Broadway, , Somerville, MA
+64, Krazy Jim's Blimpy Burger, 551 South Division Street, , Ann Arbor, MI
+65, Leonard's BBQ, 5465 Fox Plaza Drive, , Memphis, TN
+66, Leo's BBQ, 3631 North Kelley Avenue, 73111, Oklahoma City, OK
+67, Little Tea Shop, 69 Monroe Avenue, , Memphis, TN
+68, Los Tapatios, 1141 Old Bayshore Highway, , San Jose, CA
+69, Louie Mueller Barbecue, 206 West Second Street, , Taylor, TX
+70, Mac and Ernie's Roadside Eatery, Williams' Creek Depot - FM 470, 78883, Tarpley, TX
+71, Mad Greek's Diner, 72112 Baker Boulevard, , Baker, CA
+72, 39th Street Mama's CLOSED, 3906 Waddell Street, , Kansas City, MO
+73, Maria's Taco Xpress, 2529 South Lamar Boulevard, , Austin, TX
+74, Marietta Diner, 306 Cobb Pkwy S, 30060, Marietta, GA
+75, Marlowe's Ribs, 4381 Elvis Presley Boulevard, , Memphis, TN
+76, Matthew's Cafeteria, 2299 Main Street, , Tucker, GA
+77, Matt's Big Breakfast, 801 North 1st Street, , Phoenix, AZ
+78, Mike's Chili Parlor, 1447 Northwest Ballard Way, , Seattle, WA
+79, Mike's City Diner, 1714 Washington Street, , Boston, MA
+80, Mo Gridder's, 565 Hunts Point Avenue, , Bronx, NY
+81, Monte Carlo Steakhouse, 3916 Central SW, , Albuquerque, NM
+82, Mustache Bill's Diner, 8th Avenue and Broadway Street, , Barnegat Light, NJ
+83, The Nook, 492 Hamline Avenue South, , St. Paul, MN
+84, The Original Falafel's Drive-In, 2301 Stevens Creek Boulevard, 95128, San Jose, CA
+85, Panini Pete's, 42 1/2 South Section Street, , Fairhope, AL
+86, Paradise Pup, 1724 S. River Road, , Des Plaines, IL
+87, Patrick's Roadhouse, 106 Entrada Drive, , Los Angeles, CA
+88, Penguin Drive-In, 1921 Commonwealth Avenue, , Charlotte, NC
+89, Pizza Palace, 3132 E. Magnolia Avenue, , Knoxville, TN
+90, Ramona Cafe, 628 Main Street, , Ramona, CA
+91, The Ritz Diner, 72 E. Mount Pleasant Avenue, , Livingston, NJ
+92, Roberto's Mexican Food, 39510 N. Daisy Mountain Drive, 85086, Anthem, AZ
+93, The Rock Cafe, 114 Main Street, , Stroud, OK
+94, Rosie's Diner CLOSED, 4500 14 Mile Road, , Rockford, MI
+95, Russian River Pub, 11829 River Road, , Forestville, CA
+96, Schooner or Later, 241 N. Marina Drive, , Long Beach, CA
+97, Scully's Tavern, 9809 Sunset Drive, , Miami, FL
+98, Silk City Diner, 435 Spring Garden Street, , Philadelphia, PA
+99, Skylark Diner, Route 1 and Wooding Avenue, , Edison, NJ
+100, Smokey Valley Truck Stop, 40 Bond Court, , Olive Hill, KY
+101, Smoque, 3800 N. Pulaski Road, , Chicago, IL
+102, South Side Soda Shop & Diner, 1122 South Main Street, , Goshen, IN
+103, Squeeze Inn, 5301 Power Inn Road, 95820, Sacramento, CA
+104, Studio Diner, 4701 Ruffin Road, , San Diego, CA
+105, Sweetie Pie's, 4270 Manchester Avenue, , St. Louis, MO
+106, Taylor's Automatic Refresher, 933 Main Street, , St. Helena, CA
+107, Tecolote Cafe, 1203 Cerrillos Road, , Santa Fe, NM
+108, Ted Peters Famous Smoked Fish, 1350 Pasadena Avenue, , Pasadena, FL
+109, Thee Pitts Again, 5558 W. Bell Road, , Glendale, AZ
+110, Tom's Bar-B-Q, 4087 New Getwell Road, 38118, Memphis, TN
+111, Village Cafe, 1001 W. Grace Street, , Richmond, VA
+112, Virginia Diner, 408 County Drive N, 23888, Wakefield, VA
+113, Voula's Offshore Cafe, 658 NE Northlake Way, , Seattle, WA
+114, White Palace Grill, 1159 S. Canal Street, , Chicago, IL
+115, Willie Bird's Restaurant, 1150 Santa Rosa Avenue, , Santa Rosa, CA
+116, YJ's Snack Bar, 128 W. 18th Street, , Kansas City, MO
+117, Victor's 1959 Cafe, 3756 Grand Ave, , Minneapolis, MN
+118, Town Talk Diner CLOSED, 2701 1/2 E. Lake Street, , Minneapolis, MN
+119, Donatelli's, 2692 East County Road E, , White Bear Lake, MN
+120, Modern Cafe, 337 13th Ave NE, , Minneapolis, MN
+121, Byways Cafe, 1212 NW Glisan, , Portland, OR
+122, The Wienery, 414 Cedar Ave S., 55467, Minneapolis, MN
+123, Clanton's Cafe, 319 E. Illinois Ave., 74301, Vinita, OK
+124, Grinder's, 417 E. 18th St., 64108, Kansas City, MO
+125, Tip Top Cafe, 2814 Fredericksburg Rd., 78201, San Antonio, TX
+126, The Shed, 7501 Hwy 57, 39565, Ocean Springs, MS
+127, The Joint, 701 Mazant Street, 70117, New Orleans, LA
+128, Texas Pride BBQ, 2980 E Tx 1604 Loop S, 78101, Adkins, TX
+129, Burger Bar, 5291 S 1900 W, 84067, Roy, UT
+130, Emily's Lebanese Delicatessen, 641 University Ave NE, 55416, Minneapolis, MN
+131, The Original Vito and Nick's Pizzeria, 8433 South Pulaski Road, 60652, Chicago, IL
+132, Valencia Luncheria, 172 Main Street, 06851, Norwalk, CT
+133, Brewburger's, 4629 South 108th Street, 68127, Omaha, NE
+134, Glenn's Diner, 1820 W. Montrose Ave, 60613, Chicago, IL
+135, Lone Star Taqueria, 2265 Fort Union Boulevard, 84121, Salt Lake City, UT
+136, Pat's BBQ, 155 West Commonwealth Avenue, 84115, Salt Lake City, UT
+137, Blow Fly Inn, 1201 Washington Ave, 39507, Gulfport, MS
+138, Tune-Up Cafe, 1115 Hickox Street, , Santa Fe, NM
+139, Pizzeria Luigi, 1137 25th Street, 92102, San Diego, CA
+140, Di Pasquale's, 3700 Gough Street, 21224, Baltimore, MD
+141, Lo Bello's, 809 Fifth Avenue, 15108, Coraopolis, PA
+142, Stoney Creek Inn, 8238 Fort Smallwood Road, 21226, Baltimore, MD
+143, Alcenia's, 317 N Main, 38103, Memphis, TN
+144, Harry's Roadhouse, 96 Old Las Vegas, 87505, Santa Fe, NM
+145, Dor-Stop Restaurant, 1430 Potomac Ave, 15216, Pittsburgh, PA
+146, Surrey's Cafe, 1418 Magazine Street, 70130, New Orleans, LA
+147, Sophia's Place, 6313 4th St N.W., 87107, Albuquerque, NM
+148, Magnolia Cafe, 1920 S Congress Ave, 78704, Austin, TX
+149, Ruth's Diner, 2100 Emigration Canyon, 84108, Salt Lake City, UT
+150, O'Rourke's Diner, 728 Main Street, 06457, Middletown, CT
+151, Parasol's Restaurant & Bar, 2533 Constance Street, 70130, New Orleans, LA
+152, Tommy's Joynt, 1101 Geary Blvd., 94109, San Francisco, CA
+153, Joe Tess Place, 5424 South 24th Street, 68102, Omaha, NE
+154, Big Jim's, 201 Saline Street, 15201, Pittsburgh, PA
+155, Hob Nob Hill, 2271 First Ave, 92101, San Diego, CA
+156, Tufano's Vernon Park Tap, 1073 W Vernon Park, 60607, Chicago, IL
+157, The Silver Skillet, 200 14th St., 30318, Atlanta, GA
+158, Wilsons BBQ, 1851 Post Rd, 06824, Fairfield, CT
+159, Standard Diner, 320 Central Ave. SE, 87102, Albuquerque, NM
+160, Salsa Brava, 2220 E Route 66, 86004, Flagstaff, AZ
+161, Dell Rhea's Chicken Basket, 645 Joliet Road, 60527, Willowbrook, IL
+162, Green Mesquite, 1400 Barton Springs Rd., 78704, Austin, TX
+163, Gorilla Barbeque, 2145 Coast Highway, 94044, Pacifica, CA
+164, Hank's Creekside Restaurant, 2800 4th St., 95405, Santa Rosa, CA
+165, Rivershack Tavern, 3449 River Rd., 70121, Jefferson, LA
+166, Blue Plate Diner, 2041 S 2100 E, 84108, Salt Lake City, UT
+167, Broadway Diner, 6501 Eastern Ave, 21224, Baltimore, MD
+168, The Highlander, 931 Monroe Dr., 30308, Atlanta, GA
+169, Guys Gumbo Shack, 212 1/2 Fairhope Ave., 36532, Fairhope, AL
+170, Starlite Lounge, 364 Freeport Road, 15238, Blawnox, PA
+171, Casino El Camino, 517 E 6th St., 78701, Austin, TX
+172, G and A Restaurant, 3802 Eastern Avenue, 21224, Baltimore, MD
+173, Uncle Lou's, 3633 Millbranch Road, 38116, Memphis, TN
+174, Captain Chuck-a-Mucks, 21088 Marina Road, 23314, Carrollton, VA
+175, Dixie Quick's, 157 West Broadway, 51503, Council Bluffs, IA
+176, Cabbagetown CLOSED, 198 Carroll St. SE, 30312, Atlanta, GA
+177, The Cove, 606 W. Cypress St., 78212, San Antonio, TX
+178, Bryant Lake Bowl, 801 W Lake St., 55408, Minneapolis, MN
+179, Jamaica Kitchen, 8736 SW 72 Street Miami, FL 33173, 33173, Miami, FL
+180, Crystal Restaurant, 1211 Penn Avenue, 15222, Pittsburgh, PA
+181, Red Iguana, 736 W North Temple, 84116, Salt Lake City, UT
+182, Colonnade, 1879 Cheshire Bridge Road NE, 30084, Atlanta, GA
+183, Manci's Antique Club, 1715 Main St., 36526, Daphne, AL
+184, Amato's, 6405 Center Street, 68016, Omaha, NE
+185, Darwell's Cafe, 127 E. First St., 39560, Long Beach, MS
+186, Brick Oven Pizza, 800 S Broadway, 21231, Baltimore, MD
+187, Nadine's, 19 S. 27th St., 19203, Pittsburgh, PA
+188, Casamento's, 4330 Magazine St., 70115, New Orleans, LA
+189, Big Mama's, 3223 North 45th St., 68104, Omaha, NE
+190, Moochie's Meatballs, 232 E 800 S., 84111, Salt Lake City, UT
+191, Cemita's Puebla, 3619 North Ave, 60647, Chicago, IL
+192, Tioli's Crazee Burger, 4201 30th Street, 92104, San Diego, CA
+193, Cecilia's Cafe, 230 6TH St. SW, 87102, Albuquerque, NM
+194, Joey K's, 3001 Magazine St, 70115, New Orleans, LA
+195, Kelly O's, 1130 Perry Hwy, 15237, Pittsburgh, PA
+196, Giusti's, 14743 Walnut Grove-Thornton Road, 95690, Walnut Grove, CA
+197, Louie's, 1839 N Henderson Avenue, 75206, Dallas, TX
+198, Super Duper Weenie, 306 Black Rock Turnpike, 06825, Fairfield, CT
+199, California Taco, 3235 California Street, 68131, Omaha, NE
+200, Bert's Burger Bowl, 235 N Guadalupe St., 87501, Santa Fe, NM
+201, Chef Point Cafe, 5901 Watauga Rd., 76148, Watauga, TX
+202, Jamie's Grill and Bar, 427 Braodway, 95818, Sacramento, CA
+203, Black Duck Cafe, 605 Riverside Avenue, 06800, Westport, CT
+204, Backroad Pizza, 1807 2nd Street, 87505, Santa Fe, NM
+205, Kuma's Corner, 2900 W Belmont Ave, 60618, Chicago, IL
+206, Slim's Last Chance, 5606 1st Avenue S, 98108, Seattle, WA
+207, Cafe Rolle, 5737 H Street, 95819, Sacramento, CA
+208, Bar Gernika, 202 South Capitol Blvd, 83714, Boise, ID
+209, Havana Hideout, 509 Lake Avenue, 33460, Lake Worth, FL
+210, Los Taquitos, 4747 East Elliot Road, 85044, Phoenix, AZ
+211, Fred's Texas Cafe, 915 Currie Street, 76107, Ft. Worth, TX
+212, Blue Water Seafood, 3667 India Street, 92103, San Diego, CA
+213, Creolina's Dixie Take Out CLOSED, 13150 West State Road 84, 33325, Davie, FL
+214, Sol Food, 901 Lincoln Ave, 94901, San Rafael, CA
+215, Georgia's Greek, 323 NW 85th Street, 98117, Seattle, WA
+216, Over Easy, 4730 E Indian School Road, 85018, Phoenix, AZ
+217, Avila's, 4714 Maple Avenue, 75219, Dallas, TX
+218, West Side Drive-In, 1939 West State Street, 83702, Boise, ID
+219, Bizzarro Italian Cafe, 1307 N 46th Street, 98103, Seattle, WA
+220, La Piazza Al Forno, 5803 W Glendale Avenue, 85301, Glendale, AZ
+221, Twisted Root Burger Company, 2615 Commerce Street, 75226, Dallas, TX
+222, Arleta Library Bakery and Cafe, 5513 SE 72nd, 97206, Portland, OR
+223, Bubba's Diner, 566 San Anselmo Avenue, 94960, San Anselmo, CA
+224, Flakowitz of Boynton, 7410 West Boynton Beach Blvd, 33437, Boynton Beach, FL
+225, Jamaica Gates Caribbean Cuisine, 1020 W Arkansas, 76013, Arlington, TX
+226, Otto's Sausage, 4138 SE Woodstock Blvd, 97202, Portland, OR
+227, Zia Diner, 326 South Guadalupe, 87501, Santa Fe, NM
+228, Southern Kitchen, 1716 6th Avenue, 98405, Tacoma, WA
+229, Giuseppe's, 2824 E Indian Road, 85016, Phoenix, AZ
+230, Blue Marlin, 2500 North East 163rd Street, 33302, Miami, FL
+231, Pine State Biscuits, 2204 NE Alberta Street, 97211, Portland, OR
+232, Rocco's Ristorante, 1131 Folsom Street, 94103, San Francisco, CA
+233, Donn's Hilltop Kodiak Grill CLOSED, 12342 East Highway 21, 83716, Boise, ID
+234, La Camaronera, 1952 West Flagler Street, 33135, Miami, FL
+235, Dottie's True Blue Cafe, 28 6th Street, 94103, San Francisco, CA
+236, Tre Kronor, 3258 Foster Avenue, 60625, Chicago, IL
+237, Rick's Press Room Grill and Bar, 130 East Idaho Street, 83642, Meridian, ID
+238, Mama E's Wings and Waffles, 3838 Springlake Drive, 73111, Oklahoma City, OK
+239, Haus Murphy's, 5739 W. Glendale Avenue, 85301, Glendale, AZ
+240, Comet Cafe, 1947 N Farwell Ave., 53202, Milwaukee, WI
+241, Bette’s Oceanview Diner, 1807 4th Street, 94710, Berkeley, CA
+242, Bob’s Taco Station, 1901 Ave H, 77471, Rosenberg, TX
+243, Cafe Pita, 10890 Westheimer Road, 77042, Houston, TX
+244, Cattlemen's Steakhouse, 1309 S Agnew Ave, 73108, Oklahoma City, OK
+245, Eischen's Bar, 109 N 2nd Street, 73762, Okarche, OK
+246, Fab Hot Dogs, 19417 Victory Blvd, 91335, Reseda, CA
+247, Ingrid's Kitchen, 3701 N Youngs Blvd, 73112, Oklahoma City, OK
+248, Kenny and Ziggy's Deli, 2327 Post Oak Blvd, 77056, Houston, TX
+249, Lankford Grocery and Market, 88 Dennis St, 77006, Houston, TX
+250, Mambo's Cafe, 1701 Victory Blvd, 91201, Glendale, CA
+251, Mom's Tamales, 3328 Pasadena Ave, 90031, Los Angeles, CA
+252, Nic's Grill, 1201 N Pennsylvania Ave, 73107, Oklahoma City, OK
+253, Niko Niko's, 2520 Montrose Blvd, 77006, Houston, TX
+254, PizzalChik, 7330 W State St, 83714, Garden City, ID
+255, Podnah's Pit Barbeque, 1625 NE Killingsworth, 97211, Portland, OR
+256, Pok Pok Restaurant, 3226 SE Division St, 97202, Portland, OR
+257, Q Restaurant, 225 Clement St, 94118, San Francisco, CA
+258, T-Bone Tom's Steakhouse, 707 Hwy 146, 77565, Kemah, TX
+259, The Diner, 213 E Main St, 73069, Norman, OK
+260, The Nickel Diner, 524 S Main St, 90013, Los Angeles, CA
+261, The Red Lion Pub, 2316 S Shepherd Dr, 77019, Houston, TX
+262, The Shanty, 38995 N Old Highway 41, 60083, Wadsworth, IL
+263, Tex Wasabi's Santa Rosa, 515 4th Street, 95401, Santa Rosa, CA
+264, Tex Wasabi's Sacramento, 2243 Arden Way, 95825, Sacramento, CA
+265, Johnny Garlic's Windsor CA, 8988 Brooks Road South, 9542, Windsor, CA
+266, Johnny Garlic's Santa Rosa CA, 1460 Farmers Lane, 95405, Santa Rosa, CA
+267, Johnny Garlic's Roseville CA, 10505 Fairway Drive, 95678, Roseville, CA
+268, Bunk Sandwiches, 621 SE Morrison Street, 97214, Portland, OR
+269, Sonny's Famous Steak Hoagies, 1857 NW 66TH Ave, 33024, Hollywood, FL
+270, The Depot American Diner CLOSED, 5840 W Roosevelt Road, 60644, Chicago, IL
+271, Brandy's Restaurant and Bakery, 1500 E Cedar Ave, , Flagstaff, AZ
+272, Blueplate Lunch Counter and Soda Fountain, 308 SW Washington Street, , Portland, OR
+273, Polka Catering, 4112 Verdugo Road, , Los Angeles, CA
+274, Whale's Rib Raw Bar, 2031 NE 2nd Street, , Deerfield Beach, FL
+275, Pam's Trinidadian Caribbean Kitchen, 5000 University Way NE, , Seattle, WA
+276, Prince Lebanese Grill, 502 W Randol Mill Road, , Arlington, TX
+277, Cempazuchi, 1205 E Brady Street, , Milwaukee, WI
+278, Oinkster, 2005 Colorado Blvd, , Eagle Rock, CA
+279, Geraci's Restaurant, 2266 Warrensville Center Road, , Cleveland, OH
+280, Lucky's Cafe, 777 Starkweather Ave, , Cleveland, OH
+281, Melt Bar and Grilled, 14718 Detroit Ave, , Lakewood, OH
+282, Momocho Mod Mex, 1835 Fulton Road, , Cleveland, OH
+283, Sterle's Slovenian Country House, 1401 E 55th Street, , Cleveland, OH
+284, Bartley's Burger Cottage, 1246 Massachusetts Ave, , Cambridge, MA
+285, Crazy Burger, 144 Boon Street, , Narragansett, RI
+286, Morin's Hometown Bar and Grille, 16 S Main Street, , Atteboro, MA
+287, Sam La Grassa's, 44 Province Street, , Boston, MA
+288, The Orchard House, 14949 Sunnyslope Road, , Caldwell, ID
+289, Four Sisters Owl Diner, 244 Appleton Street, , Lowell, MA
+290, Blackthorn Restaurant and Pub, 2134 Seneca Street, , Buffalo, NY
+291, Earl's Drive-In CLOSED, 12139 Olean Road, , Chaffee, NY
+292, Grovers Bar and Grill, 9160 Transit Road East, , Amherst, NY
+293, Lake Effect Diner, 3165 Main Street, , Buffalo, NY
+294, Liberty Elm Diner - CLOSED, 777 Elmwood Ave, , Providence, RI
+295, Louie's Restaurant, 286 Brook Street, , Providence, RI
+296, Pizza Junction, 1269 Erie Avenue, 14120, Tonawanda, NY
+297, Sophia Restaurant, 749 Military Road, , Buffalo, NY
+298, Antojitos La Texanita, 1667 Sebastopol Road, , Santa Rosa, CA
+299, Donnie Mac's Trailer Park CLOSED, 1515 W Grove Street, 83702, Boise, ID
+300, Tap Tap Restaurant, 819 5th Street, , Miami Beach, FL
+301, Big Daddy's BBQ and Banquet, 107 Wickersham Street, , Fairbanks, AK
+302, Highway Inn, 94-226 Leoku Street, , Waipahu, HI
+303, Hot Licks, 3453 College Road, , Fairbanks, AK
+304, Pagoda Restaurant, 431 N Santa Claus Lane, , North Pole, AK
+305, Poke Stop, 1840 Meheula Pkwy, , Mililani Town, HI
+306, Hanks Haute Dogs, 324 Coral St, , Honolulu, HI
+307, Jakes Good Eats, 12721 Albemarle Rd, , Charlotte, NC
+308, Nico's Pier 38, 1133 N. Nimitz Hwy, 96817, Honolulu, HI
+309, Rainbow Drive-In, 3308 Kanaina Ave, , Honolulu, HI
+310, Honkytonk BBQ, 1213 W 18th Street, , Chicago, IL
+311, ParkView Nite Club, 1261 West 58th Street, , Cleveland, OH
+312, Santa Cruz Diner, 909 Ocean Street, 95060, Santa Cruz, CA
+313, The Little Depot Diner, 1 Railroad Avenue, 01961, Peabody, MA
+314, Silver Gulch Restaurant, 2195 Old Steese Hwy N, 99712, Fox, AK
+315, The Cookie Jar, 1006 Cadillac Ct, 99701, Fairbanks, AK
+316, Tee Off Bar and Grill, 3129 Clement Street, 94121, San Francisco, CA
+317, Country Cafe, 235 North Santa Claus Lane, 99705, North Pole, AK
+318, Elf's Den Restaurant Lounge, Mi 14 Richardson Hwy, 99705, North Pole, AK
+319, Cabo Fish Taco, 3201 N Davidson Street, 28205, Charlotte, NC
+320, Dish, 1220 Thomas Ave, 28205, Charlotte, NC
+321, Farmer's Shed, 2514 Augusta Hwy, 29072, Lexington, SC
+322, Landmark Restaurant Diner, 4429 Central Ave, 28205, Charlotte, NC
+323, Taste of Peru, 6545 N Clark Street, 60626, Chicago, IL
+324, South 21 Drive-In, 3101 E Independence Blvd, 28205, Charlotte, NC
+325, Pawley's Front Porch, 827 Harden Street, 29205, Columbia, SC
+326, Napa Rose, 1600 Disneyland Drive, 92802, Anaheim, CA
+327, Schellville Grill, 22900 Broadway, 95476, Sonoma, CA
+328, Louis' Basque Corner, 301 E. 4th Street, 89512, Reno, NV
+329, Gold 'N Silver Inn, 790 W 4th Street, 89503, Reno, NV
+330, Cafe Citti, 9047 Sonoma Hwy, 95452, Kenwood, CA
+331, Burger Me, 10418 Donner Pass Rd, 96161, Truckee, CA
+332, 900 Grayson, 900 Grayson Street, 94710, Berkeley, CA
+333, Rick and Ann's Restaurant, 2922 Domingo Ave, 94705, Berkeley, CA
+334, Boondocks BBQ and Grill, 4653 Ohio 60, 43756, McConnelsville, OH
+335, 13 Gypsies, 887 Stockton Street, 32204, Jacksonville, FL
+336, Aldo's Harbor Restaurant, 616 Atlantic Ave, 95062, Santa Cruz, CA
+337, At Last Cafe, 204 Orange Ave, 90802, Long Beach, CA
+338, Blackwater Grill, 260 Redfern Village, 31522, St. Simon Island, GA
+339, Culhane's Irish Pub, 967 Atlantic Blvd, 32233, Atlantic Beach, FL
+340, Dish Cafe and Catering, 855 Mill Street, 89502, Reno, NV
+341, Don Chow Tacos Food Truck, 11500 Tennessee Ave, 90064, Los Angeles, CA
+342, Fox Restaurant, 3580 St Johns Ave, 32205, Jacksonville, FL
+343, Galewood Cookshack CLOSED, 2135 N Milwaukee Ave, 60647, Chicago, IL
+344, Gloria's Cafe, 10227 Venice Blvd, 90034, Los Angeles, CA
+345, JAX Truckee Diner, 10144 W River Street, 96161, Truckee, CA
+346, Mama Cozza's Italian Restaurant, 2170 W Ball Road, 92804, Anaheim, CA
+347, Metro Diner, 3302 Hendricks Ave, 32207, Jacksonville, FL
+348, Naglee Park Garage, 505 E San Carlos Street, 95112, San Jose, CA
+349, North End Caffe, 3421 N Highland Ave, 90266, Manhattan Beach, CA
+350, Paul's Coffee Shop, 16947 Bushard Street, 92708, Fountain Valley, CA
+351, Rudy's Can't Fail Cafe, 4081 Hollis Street, 94608, Emeryville, CA
+352, Singletons Seafood Shack, 4728 Ocean Street, 32233, Jacksonville, FL
+353, Southern Soul BBQ, 2020 Demere Road, 31522, St. Simon Island, GA
+354, Blue Ash Chili Restaurant, 9565 Kenwood Road, 45242, Blue Ash, OH
+355, J.J. McBrewster's American Smokehouse, 3101 Clays Mill Road, 40503, Lexington, KY
+356, Rick's White Light Diner, 114 Bridge Street, 40601, Frankfort, KY
+357, Terry's Turf Club, 4618 Eastern Ave, 45226, Cincinnati, OH
+358, The Parkette Drive-in, 1230 E. New Circle Road, 40505, Lexington, KY
+359, Virgil's Cafe, 710 Fairfield Ave, 41073, Bellevue, KY
+360, Wallace Station, 3854 Old Frankfort Pike, 40383, Versailles, KY
+361, Pier 23 Cafe, 23 Pier, 94124, San Francisco, CA
+362, Arnold's Country Kitchen, 605 8th Ave S, 37203, Nashville, TN
+363, Athens Family Restaurant, 2526 Franklin Pike, 37204, Nashville, TN
+364, Bro's Cajun Cuisine, 3214 Charlotte Ave, 37209, Nashville, TN
+365, Cafe Rakka, 71 New Shackle Island Rd, 37075, Hendersonville, TN
+366, Martin's BBQ Joint, 7238 Nolensville Road, 37135, Nolensville, TN
+367, Savarino's Cucina, 2121 Belcourt Ave, 37212, Nashville, TN
+368, Happy Gillis Cafe and Hang Out, 549 Gillis Street, 64106, Kansas City, MO
+369, Jamaica Way Restaurant and Catering, 900 Rosa L Parks Blvd, 37208, Nashville, TN
+370, Swagger Fine Spirits and Food, 8431 Wornall Road, 64114, Kansas City, MO
+371, The Brick, 1727 McGee Street, 64108, Kansas City, MO
+372, Woodyard BBQ, 3001 Merriam Lane, 66106, Kansas City, KS
+373, RJ's Bob-Be-Que, 5835 Lamar Ave, 66202, Mission, KS
+374, Smokin Guns BBQ and Catering, 1218 Swift Avenue, 64116, Kansas City, MO
+375, Murphy's Bar and Grill, 2 Merchant St, 96813, Honolulu, HI
+376, Comet Ping Pong, 5037 Connecticut Ave NW, 20008, Washington, DC
+377, La Caraquena, 300 W Broad Street, 22046, Falls Church, VA
+378, Metro 29 Diner, 4711 Lee Hwy, 22207, Arlington, VA
+379, Oohhs and Aahhs Soul Food, 1005 U Street NW, 20001, Washington, DC
+380, Tortilla Cafe, 210 7th Street SE, 20003, Washington, DC
+381, Tune Inn, 331 Pennsylvania Ave SE, 20003, Washington, DC
+382, Greek Corner, 2366 Massachusetts Ave, 02140, Cambridge, MA
+383, Rino's Place, 258 Saratoga Street, 02128, Boston, MA
+384, The Lobster Shanty, 25 Front Street, 01970, Salem, MA
+385, Porthole Restaurant, 20 Custom House Wharf, 04101, Portland, ME
+386, Maine Diner, 2265 Post Road, 04090, Wells, ME
+387, Bob's Clam Hut, 315 US Route 1, 03904, Kittery, ME
+388, Becky's Diner, 390 Commercial Street, 04101, Portland, ME
+389, The Blue Door Pub, 1811 Selby Ave Street, 55104, St. Paul, MN
+390, Kramarczuk Sausage Company, 215 E Hennepin Ave, 55413, Minneapolis, MN
+391, Gordy's Hi-Hat, 415 Sunnyside Drive, 55720, Cloquet, MN
+392, Duluth Grill, 118 S 27th Ave W, 55806, Duluth, MN
+393, Colossal Cafe, 1839 E 42nd Street, 55407, Minneapolis, MN
+394, At Saras Table Chester Creek Cafe, 1902 E 8th Street, 55812, Duluth, MN
+395, Northern Waters Smokehaus, 394 S Lake Ave, 55802, Duluth, MN
+396, Anchor Bar and Grill, 413 Tower Ave, 54880, Superior, WI
+397, Corey's Catsup and Mustard, 623 Main Street, 06040, Central Manchester, CT
+398, General Store and Post Office Tavern CLOSED, 6 Post Office Road, 20910, Silver Spring, MD
+399, 10th Ave Burrito Co, 817 Belmar Plaza, 07719, Belmar, NJ
+400, Capone's Pub and Grill, 751 N 4th Street, 83814, Coeur d'Alene, ID
+401, Chaps Coffee Co, 4235 S Cheney Spokane Road, 99224, Spokane, WA
+402, George's Place, 301 Beach Ave, 08204, Cape May, NJ
+403, Good Dog Bar, 224 S 15th Street, 19102, Philadelphia, PA
+404, Hills' Restaurant and Lounge, 401 W Main Ave, 99201, Spokane, WA
+405, Honey's Sit 'n Eat, 800 N 4th Street, 19123, Philadelphia, PA
+406, Jimmy's Down The Street Cafe, 1613 E Sherman Ave, 83814, Coeur d'Alene, ID
+407, Memphis Taproom, 2331 E Cumberland Street, 19125, Philadelphia, PA
+408, Picabu Neighborhood Bistro, 901 W 14th Ave, 99203, Spokane, WA
+409, Putah Creek Cafe, 210 Railroad Ave, 95694, Winters, CA
+410, Quahog's Seafood Shack, 206 97th Street, 08247, Stone Harbor, NJ
+411, The Pineville Tavern, 413 Pineville Road, 18938, New Hope, PA
+412, Waddell's Neighborhood Pub, 4318 S Regal Street, 99223, Spokane, WA
+413, Merritt Canteen, 4355 Main Street, 06606, Bridgeport, CT
+414, Dad's Kitchen, 2968 Freeport Blvd, 95818, Sacramento, CA
+415, Gatsby's Diner CLOSED, 2598 Alta Arden Expy, 95825, Sacramento, CA
+416, Worth Our Weight, 1021 Hahman Drive, 95405, Santa Rosa, CA
+417, L. A. Pines Cafe, 1061 Robert Blvd, 70458, Slidell, LA
+418, Louie and the Red Head Lady, 2820 East Causeway Approach, 70448, Mandeville, LA
+419, Mahonys PO Boy Shop, 3454 Magazine Street, 70115, New Orleans, LA
+420, Bens Best Kosher Deli, 96-40 Queens Blvd., , Rego Park, NY
+421, Hildebrandts, 84 Hillside Ave, 11596, Williston Park, NY
+422, The Pit Stop, 1706 Sunrise Hwy, 11566, Merrick, NY
+423, The Sparrow Tavern, 24-01 29th Street, 11102, New York, NY
+424, Tortilleria Nixtamal, 104-05 47th Ave, 11368, Corona, NY
+425, Sammy's Food Services and Deli, 3000 Elysian Fields Ave, 70122, New Orleans, LA
+426, Mulberry Italian Ristorante, 64 Jackson Ave, 14218, Lackawanna, NY
+427, Germaine’s Luau, 91-119 Olai Street, 96707, Kapolei, HI
+428, Brats Brothers, 13355 Ventura Blvd., 91423, Sherman Oaks, CA
+429, Bang!, 3472 W 32nd Ave, 80211, Denver, CO
+430, Foolish Craig's Cafe, 1611 Pearl Street, 80302, Boulder, CO
+431, Lauer Krauts, 26 S 6th Ave, 80601, Brighton, CO
+432, Sam's No 3, 1500 Curtis Street, 80202, Denver, CO
+433, Steuben's, 523 E 17th Ave, 80203, Denver, CO
+434, The Bagel Deli, 6439 E Hampden Ave, 80222, Denver, CO
+435, The Sink, 1165 13th Street, 80302, Boulder, CO
+436, Tocabe, 3536 W 44th Ave, 80211, Denver, CO
+437, Maui's Dog House, 806 New Jersey Ave, 08260, Wildwood, NJ
+438, Meal Ticket, 1235 San Pablo Ave, 94706, Albany, CA
+439, Catelli's Restaurant, 21047 Geyserville Ave, 95441, Geyserville, CA
+440, HRD Coffee Shop, 521 3rd Street, 94107, San Francisco, CA
+441, Jimtown Store, 6706 California 128, 95448, Healdsburg, CA
+442, Sunflower Caffe Espresso and Wine Bar, 421 1st Street W, 95476, Sonoma, CA
+443, Elk Public House, 1931 W Pacific Ave, 99201, Spokane, WA
+444, QFanatic BBQ and Grill, 180 Miller Road, 55316, Champlin, MN
+445, The Golden Bear, 2326 K Street, 95816, Sacramento, CA
+446, 3 Sisters Cafe, 6360 Guilford Ave, 46220, Indianapolis, IN
+447, Sage General Store, 2420 Jackson Avenue, 11101, Long Island City, NY
+448, Jerseys Cafe, 13710 N Meridian Street, 46302, Carmel, IN
+449, Katie's Restaurant, 3701 Iberville Street, 70119, New Orleans, LA
+450, Beto's on Broadway, 8142 Broadway Street, 78209, San Antonio, TX
+451, Bun 'n' Barrel, 1150 Austin Hwy, 78209, San Antonio, TX
+452, Dough Pizzeria Napoletana, 6989 Blanco Road, 78213, San Antonio, TX
+453, El Bohio Restaurant, 1127 Harry Wurzbach Road, 78209, San Antonio, TX
+454, Moroccan Bites, 5714 Evers Road, 78238, San Antonio, TX
+455, Taco Taco Cafe, 145 E. Hildebrand, 78212, San Antonio, TX
+456, The Magnolia Pancake Haus, 606 Embassy Oak, 78216, San Antonio, TX
+457, Steer-In Restaurant, 5130 E 10th Street, 46219, Indianapolis, IN
+458, The Tamale Place, 5242 Rockville Road, 46224, Indianapolis, IN
+459, Zest-Exciting Food Creations, 1134 E 54th Street, 46220, Indianapolis, IN
+460, Zydecos, 11 E Main Street, 46158, Mooresville, IN
+461, Aunt Mary's Cafe, 4307 Telegraph Avenue, 94609, Oakland, CA
+462, The Barking Dog Cafe, 115 E 49th Street, 46205, Indianapolis, IN
+463, California Tacos To Go, 1450 Skipper Road, 33613, Tampa, FL
+464, Garifuna Flava, 2516 W 63rd Street, 60629, Chicago, IL
+465, Irazu, 1865 N Milwaukee Ave, 60647, Chicago, IL
+466, Jose's Real Cuban Food, 8799 Cortez Road W, 34210, Bradenton, FL
+467, Munch's Sundries and Restaurant, 3920 6th Street S, 33705, St. Petersburg, FL
+468, Tampa Bay Brewing Company, 1600 E 8th Ave, 33605, Tampa, FL
+469, Tampa Taco Bus, 913 E Hillsborough Ave, 33603, Tampa, FL
+470, The Old Coffee Pot Restaurant, 714 Saint Peter Street, 70116, New Orleans, LA
+471, Big & Littles, 860 N. Orleans, 60610, Chicago, IL
+472, Chilam Balam, 3023 N Broadway Street, 60657, Chicago, IL
+473, Chuck's Southern Comforts Cafe, 6501 W 79th Street, 60459, Burbank, Il
+474, DMK Burger Bar, 2954 N Sheffield Ave, 60657, Chicago, IL
+475, Nana Organic, 3267 S Halsted Street, 60608, Chicago, IL
+476, Panozzo's Italian Market, 1303 South Michigan Avenue, 60605, Chicago, IL
+477, Citrus Breakfast and Lunch, 2265 W Great Neck Road, 23451, Virginia Beach, VA
+478, Flip Flops Grill and Chill, 2217 Upton Drive, 23454, Virginia Beach, VA
+479, Harvey's Hot Dogs CLOSED, 3205 Stamford Road, 23703, Portsmouth, VA
+480, Moseberth's Chicken, 1505 Airline Blvd, 23707, Portsmouth, VA
+481, The Beach Pub, 1001 Laskin Road, 24351, Virginia Beach, VA
+482, Whitner's Barbecue, 869 Lynnhaven Pkwy, 23452, Virginia Beach, VA
+483, Fresh Local Wild Food Truck, W Hastings and Burrard Street, V6E 1V3, Vancouver, BC
+484, Falconetti's, 1812 Commercial Drive, V5N 4A5, Vancouver, BC
+485, Clarkston Union Bar and Kitchen, 54 S Main Street, 48346, Clarkston, MI
+486, Union Wood Shop, 18 South Main Street, 48346, Clarkston, MI
+487, Polish Village Cafe, 2990 Yemans Street, 48212, Hamtramck, MI
+488, Peaceful Restaurant, 532 West Broadway #110, V5Z 1E9, Vancouver, BC
+489, Save-on-Meats, 43 West Hastings Street, V6B 1G4, Vancouver, BC
+490, Red Wagon Cafe, 2296 East Hastings Street, V5L 1V4, Vancouver, BC
+491, Tomahawk Restaurant, 1550 Philip Avenue North, V7P 2V8, Vancouver, BC
+492, Get Fresh Cafe, 2500 Church Street, 23504, Norfolk, VA
+493, The Broken Record Bar, 1166 Geneva Avenue, 94112, San Francisco, CA
+494, John's of 12th Street, 302 East 12th Street, 10003, New York, NY
+495, Mama's Food Shop CLOSED, 200 East 3rd Street, 10009, New York, NY
+496, The Redhead Restaurant, 349 East 13th Street, 10003, New York, NY
+497, Gazala's Place, 709 9th Avenue, 10036, New York, NY
+498, Defonte's Sandwich Shop, 261 3rd Avenue, 10010, New York, NY
+499, Rincon Criollo, 40-09 Junction Blvd, 11372, New York, NY
+500, The Glass Onion, 1219 Savannah Hwy., 29407, Charleston, SC
+501, The Early Bird Diner, 1644 Savannah Highway, 29407, Charleston, SC
+502, Fuel Charleston, 211 Rutledge Avenue, 29403-5822, Charleston, SC
+503, Tattooed Moose, 1137 Morrison Drive, 29403, Charleston, SC
+504, Perfectly Frank's, 118 North Main Street, 29483, Summerville, SC
+505, Dixie Supply Bakery and Cafe, 62 State Street, 29401, Charleston, SC
+506, Galway Bay, 63 Maryland Ave, 21401, Annapolis, MD
+507, Joe Squared, 133 West North Avenue, 21201, Baltimore, MD
+508, Sip and Bite Restaurant, 2200 Boston Street, 21231, Baltimore, MD
+509, Boulevard Diner, 1660 Merritt Boulevard, 21222, Dundalk, MD
+510, R and R Taqueria, 7894 Washington Blvd, 21075, Elkridge, MD
+511, Supino Pizzeria, 2457 Russell Street, 48207, Detroit, MI
+512, Rigoletto Italian Bakery and Cafe, 2181 Upton Drive #414, 23454, Virginia Beach, VA
+513, Leaping Lizards Cafe, 4408 Shore Drive, 23455, Virginia Beach, VA
+514, Danny's All American Diner, 4406 N Falkenburg Road, 33610, Tampa, FL
+515, Webberville Brewery and Pub CLOSED, 1093 Highview Drive, 48892, Webberville, MI
+516, Jethro's Fine Grub, 3420 Dunbar Street, V6S 2C2, Vancouver, BC
+517, Traffic Jam and Snug, 511 W. Canfield Street, 48201, Detroit, MI
+518, Smalley's Caribbean Barbeque, 423 Main Street South, 55082, Stillwater, MN
+519, Maple and Motor, 4810 Maple Avenue, 75219, Dallas, TX
+520, Pecan Lodge, 2702 MAIN STREET, 75226, Dallas, TX
+521, Chop House Burgers, 1700 W. Park Row Drive #116, 76013, Arlington, TX
+522, Lito's Take Out, 514 E Haley Street, 93103, Santa Barbara, CA
+523, Cane Rosso, 2612 Commerce Street, 75226, Dallas, TX
+524, Mac's Fish and Chips, 503 State Street, 93101, Santa Barbara, CA
+525, The Kitchen, 529 South A Street, 93030, Oxnard, CA
+526, Nye's Polonaise, 112 East Hennepin Avenue, 55414, Minneapolis, MN
+527, Sidecar, 560 5th Avenue, 11215, Brooklyn, NY
+528, Nortons Pastrami, 18 West Figueroa Street, 93101, Santa Barbara, CA
+529, Meat and Bread, 370 Cambie Street, , Vancouver, BC
+530, Defonte's of Brooklyn, 379 Columbia Street, 11231, Brooklyn, NY
+531, Smack Shack, 1029 Marshall Street NE, 55413, Minneapolis, MN
+532, Savoy Cafe and Deli, 24 W. Figueroa Street, 93101, Santa Barbara, CA
+533, Pepe's and Mito's, 2911 Elm Street, 75226, Dallas, TX
+534, Pizzeria Lola, 5557 Xerxes Ave. S, 55410, Minneapolis, MN
+535, Monument Cafe, 500 S Austin Avenue, 78627, Georgetown, TX
+536, Luke's Inside Out, 1109 South Lamar Boulevard, 78704, Austin, TX
+537, Broders' Pasta Bar, 5000 Penn Avenue South, 55410, Minneapolis, MN
+538, Broders Cucina Italiana, 2308 West 50th Street, 55410, Minneapolis, MN
+539, Pete's Breakfast House Restaurant, 2055 E Main Street, 93001, Ventura, CA
+540, Lola's Louisiana Kitchen, 241 W. Charleston, 89201, Las Vegas, NV
+541, Marla's Carribean Cuisine, 3761 Bloomington Ave, 55407, Minneapolis, MN
+542, Counter Cafe, 626 North Lamar Boulevard, 78703, Austin, TX
+543, Cutty Foods, 284 Washington Street, 02445, Brookline, MA
+544, Johnny Garlics Dublin, 4920 Dublin Boulevard Ste 265, 94568, Dublin, CA
+545, Johnny Garlics San Jose CA, 101 Curtner Ave, 95125, San Jose, CA
+546, Italian Express Pizzeria, 336 Sumner Street East, 02128, Boston, MA
+547, Angelas Cafe Restaurant, 131 Lexington Street East, 02128, Boston, MA
+548, John Mull's Meats and Road Kill Grill, 3730 Thom Blvd, 89130, Las Vegas, NV
+549, Noble Pig Austin, 12233 620 N, 78750, Austin, TX
+550, Moondoggies Bar and Naked City Pizza, 3240 Arville Street, 89102, Las Vegas, NV
+551, Forte European Tapas Bar and Bistro, 4180 South Rainbow Boulevard, 89103, Las Vegas, NV
+552, Anthonino's Taverna, 2225 Macklind Avenue, 63110, St. Louis, MO
+553, The Shaved Duck, 2900 Virginia Avenue, 63118, St. Louis, MO
+554, Hwy 61 Roadhouse, 34 South Old Orchard Avenue, 63119, Webster Groves, MO
+555, Dressel's Public House, 419 N Euclid Avenue, 63108, St. Louis, MO
+556, Bachi Burger, 470 E. Windmill Lane, 89123, Las Vegas, NV
+557, Afrah, 314 E.Main Street, 75081, Richardson, TX
+558, Taste of Europe Restaurant Russian, 1901 West Pioneer Parkway, 76013, Arlington, TX
+559, Foreign and Domestic, 306 E. 53rd Street, 78751, Austin, TX
+560, Hopleaf Bar, 5148 North Clark Street, 60640, Chicago, IL
+561, Jawaiian Irie Jerk Restaurant, 1137 Eleventh Ave, 96816, Honolulu, HI
+562, Yayo Taco is CLOSED, 4632 S. Maryland Pkwy #18, 89119, Las Vegas, NV
+563, Boston Burger Company, 37 Davis Square, 02144, Somerville, MA
+564, Weeping Radish Farm, 6810 Caratoke Hwy., 27939, Grandy, NC
+565, Tortugas Lie, 3016 South Virginia Dare Trail, 27959, Nags Head, NC
+566, Memphis Street Cafe, 2476 Memphis Street, 38632, Hernando, MS
+567, Chicago Brauhaus, 4732 N Lincoln Ave, 60625, Chicago, IL
+568, Camilles on Wheels Food Truck, , 96814, Kailua, HI
+569, Ortegaz Southwestern Grill and Wine Bar, 201 Sir Walter Raleigh Street, 27954, Manteo, NC
+570, Heeia Kea Pier General Store and Deli, 46-499 Kamehameha HWY., 96744, Kaneohe, HI
+571, REX Italian Foods, 4431 N Harlem Ave, 60706, Norridge, IL
+572, bopNgrill, 6604 N Sheridan Road, 60626, Chicago, IL
+573, Sweet Home Waimanalo, 41-1025 Kalanianaole Highway, 96795, Waimanalo, HI
+574, Davis' Pub, 400 Chester Aveune, 21403, Annapolis, MD
+575, Rizzos Diner, 106 G.E. Patterson, 38103, Memphis, TN
+576, 90 Miles Cuban Cafe, 3101 N. Clybourn, 60618, Chicago, IL
+577, Byblos Mediterranean Cafe, 223 North Clinton Street, 13202, Syracuse, NY
+578, Memphis BBQ Co., 709 Desoto Cove, 38637, Horn Lake, MS
+579, Evas European Sweets, 1305 Milton Avenue, 13204, Syracuse, NY
+580, Empire Brewing Company, 120 Walton Street, 13202, Syracuse, NY
+581, Funk N Waffles, 727 South Crouse Avenue, 13210, Syracuse, NY
+582, Pastabilities, 311 South Franklin Street, 13202, Syracuse, NY
+583, Kitty Hoynes, 301 West Fayette Street, 13202, Syracuse, NY
+584, Guys American Kitchen and Bar, 220 W 44th Street, 10036, New York, NY
+585, Brine and Bottle, 7531 S Virginia Dare Trail, 27959, Nags Head, NC
+586, Outer Banks Brewing Station, 600 South Croatan Highway, 27948, Kill Devil Hills, NC
+587, Patti's Pierogis, 1019 S Main Street, 02724, Fall River, MA
+588, Tupelo, 1193 Cambridge Street, 02139, Cambridge, MA
+589, Angelos Civita Farnese Restaurant, 141 Atwells Ave, 02903, Providence, RI
+590, Mediterraneo Caffe, 134 Atwells Avenue, 02903, Providence, RI
+591, South of Beale, 361 South Main Street, 38103, Memphis, TN
+592, Big Wave Shrimp, 66-521 Kamehameha Hwy, 96712, Haleiwa, HI
+593, Anthonys Seafood, 963 Aquidneck Avenue, 02842, Middletown, RI
+594, Guerrilla Street Food Truck, , , St. Louis, MO
+595, Fresh Catch Kaneohe, 45-1118 Kamehameha Hwy, 96744, Kaneohe, HI
+596, The Elegant Farmer, 262 S Highland Street, 38111, Memphis, TN
+597, Italian Corner, 10 Boyd Avenue, 02914, East Providence, RI
+598, Johnny's BBQ, 5959 Broadmoor, 66201, Mission, KS
+599, Three Angels Diner, 2617 Broad Ave, 38112, Memphis, TN
+600, Opal Thai Food, 66-460 Kamehameha Hwy, 96712, Haleiwa, HI
+601, Aunt Carries Seafood Restaurant, 1240 Ocean Road, 02882, Narragansett, RI
+602, Edgewood Cafe, 1864 Broad Street, 02905, Cranston, RI
+603, Yankee Lobster Fish Market, 300 Northern Avenue, 02210, Boston, MA
+604, Espinos Mexican Bar & Grill, 17409 Chesterfield Airport Road, 63005, Chesterfield, MO
+605, Hey Meatball, 719 College Street, M6G 1C2, Toronto, ON
+606, Caplansky's Delicatessen, 356 College Street, M5T 1S6, Toronto, ON
+607, Rosedale Diner, 1164 Yonge Street, M4W 2L9, Toronto, ON
+608, Chili Johns, 2018 West Burbank Boulevard, 91506, Burbank, CA
+609, , 2018 West Burbank Boulevard, , ,
+610, La Isla Restaurant, 104 Washington Street, 07030, Hoboken, NJ
+611, Coastal Cravings, 1209 Duck Road, 27949, Duck, NC
+612, The Smoke Joint, 87 S Elliott Place, 11217, Brooklyn, NY
+613, Jimmy's Diner, 577 Union Ave, 11211, Brooklyn, NY
+614, Darbys Cafe, 211 5th Ave SE, 98501, Olympia, WA
+615, Marie's Italian Specialties, 641 Shunpike Rd, 07928, Chatham, NJ
+616, Bruno's European Restaurant, 10716 A Street South, 98444, Tacoma, WA
+617, , 10716 A Street South, , ,
+618, , 10716 A Street South, , ,
+619, , 10716 A Street South, , ,
+620, , 10716 A Street South, , ,
+621, , 10716 A Street South, , ,
+622, , 10716 A Street South, , ,
+623, , 10716 A Street South, , ,
+624, Pies n Thighs, 166 South 4th Street, 11211, Brooklyn, NY
+625, The Ace Toronto, 231 Roncesvalles Avenue, M6R 2L6, Toronto, ON
+626, The Lakeview Restaurant, 1132 Dundas Street West, M6J 2Y2, Toronto, ON
+627, The Stockyards Smokehouse and Larder, 699 Saint Clair Avenue West, M6C 1B2, Toronto, ON
+628, Crown Bar, 2705 6th Avenue, 98405, Tacoma, WA
+629, The Golden State Cafe, 426 North Fairfax Avenue, 90036, Los Angeles, CA
+630, Beer Belly, 532 South Western Avenue, 90020, Los Angeles, CA
+631, Chomp Chomp Nation (Food Truck), , 92612, Irvine, CA
+632, Dirty Oscars Annex, 2309 6th Avenue, 98403, Tacoma, WA
+633, Highland Tavern, 3400 Navajo Street, 80211, Denver, CO
+634, Sidecar Bar and Grille, 2201 Christian Street, 19146, Philadelphia, PA
+635, Perk Eatery, 6501 East Greenway Parkway, 85254, Scottsdale, AZ
+636, Atomic Cowboy, 3237 East Colfax Avenue, 80206, Denver, CO
+637, South Philadelphia Tap Room, 1509 Mifflin Street, 19145, Philadelphia, PA
+638, St. Francis, 111 East Camelback Road, 85012, Phoenix, AZ
+639, Barrio Cafe, 2814 N 16th Street, 85006, Phoenix, AZ
+640, Nopalito on 9th, 1224 9th Avenue, 94122, San Francisco, CA
+641, Percy Street Barbecue, 900 South Street, 19147, Philadelphia, PA
+642, Hops and Pie, 3920 Tennyson Street, 80212, Denver, CO
+643, Bludso's BBQ, 811 South Long Beach Boulevard, 90221, Compton, CA
+644, Curry Corner, 1212 East Apache Boulevard, 85281, Tempe, AZ
+645, Prohibition, 504 East Colfax Avenue, 80220, Denver, CO
+646, Standard Tap, 901 North 2nd Street, 19123, North Philadelphia, PA
+647, Cora Fayes Cafe, 2861 Colorado Boulevard, 80207, Denver, CO
+648, DeFalco's Italian Deli, 2334 Scottsdale Oak Plaza Shopping Center, 85257, Scottsdale, AZ
+649, The Jamaican Jerk Hut, 1436 South Street, 19146, Philadelphia, PA
+650, Black Pelican Seafood Company, 3848 North Virginia Dare Trail, 27949, Kitty Hawk, NC
+651, Geechee Girl Rice Cafe, 6825 Germantown Avenue, 19119, Philadelphia, PA
+652, The Duce, 525 South Central Avenue, 85004, Downtown Phoenix, AZ
+653, Haggo's Organic Taco, 1114 North Coast Highway 101, 92024, Encinitas, CA
+654, The Parks Finest BBQ, 1267 West Temple Street, 90026, Central LA, CA
+655, Eastside Market Italian Deli, 1013 Alpine Street, 90012, Los Angeles, CA
+656, Crockett's Public House, 118 East Stewart Avenue, 98372, Puyallup, WA
+657, Fish Tale Brewpub, 515 Jefferson Street Southeast, 98501, Olympia, WA
+658, ob noodle house, 2218 Cable Street, 92107, Ocean Beach, CA
+659, Shirley's Tippy Canoe, 28242 Historic Columbia River Highway, 97060, Troutdale, OR
+660, Spiritos Italian Diner, 2508 South El Camino Real, 92008, Carlsbad, CA
+661, Nopalito on broderick, 306 Broderick Street, 94117, San Francisco, CA
+662, Pica Pica Maize Kitchen, 401 Valencia Street, 94103, San Francisco, CA
+663, Edelweiss Sausage & Delicatessen, 3119 Southeast 12th Avenue, 97202, Portland, OR
+664, Crest Cafe, 425 Robinson Avenue, 92103, San Diego, CA
+665, Show Dogs, 1020 Market Street, 94102, San Francisco, CA
+666, Industrial Cafe & Saloon, 2572 Northwest Vaughn Street, 97210, Portland, OR
+667, The Refuge, 963 Laurel Street, 94070, San Carlos, CA
+668, The Country Cat, 7937 Southeast Stark Street, 97215, Portland, OR
+669, Millers East Coast Deli, 1725 Polk Street, 94109, San Francisco, CA
+670, Koja Kitchen Food Truck, , 94123, San Francisco, CA
+671, The Front Porch, 65a 29th Street, 94110, San Francisco, CA
+672, Senor Sisig Food Truck, 94115 San Francisco, 94115, San Francisco, CA
+673, A Taste of Home Cooking, 12365 West 58th Avenue, 80002, Arvada, CO
+674, PDX Six Seven One Food Truck, NE 52nd Ave & NE Sandy Blvd, 97213, Portland, OR
+675, Golden Crown Panaderia, 1103 Mountain Road Northwest, 87102, Albuquerque, NM
+676, Casa Chimayo, 409 West Water Street, 87501, Santa Fe, NM
+677, Torinos at Home, 7600 Jefferson Street Northeast, 87109, Albuquerque, NM
+678, Frank's Noodle House, 822 Northeast Broadway Street, 97232, Portland, OR
+679, Bocadillos, 1609 Indian School Road Northwest, 87104, Albuquerque, NM
+680, Jambo Cafe New Mexico, 2010 Cerrillos Road, 87505, Santa Fe, NM
+681, Danny Edward's Blvd BBQ, 2900 Southwest Boulevard, 64108, Kansas City, MO
+682, Back Street Bistro, 513 Camino De Los Marquez, 87505, Santa Fe, NM
+683, Succotash, 2601 Holmes Street, 64108, Kansas City, MO
+684, Cupinis, 1809 Westport Road, 64111, Kansas City, MO
+685, The Cube BBQ, 1520 Central Avenue Southeast, 87123, Albuquerque, NM
+686, Nexus Brewery and Restaurant, 4730 Pan American Freeway, 87109, Albuquerque, NM
+687, B.B.'s Lawn Side Bar B-Q, 1205 East 85th Street, 64131, Kansas City, MO
+688, The Tin Shed Garden Cafe, 1438 Northeast Alberta Street, 97211, Portland, OR
+689, Asi y Asado, , , Cabo San Lucas, BS
+690, Soloman's Landing Restaurant, , , Cabo San Lucas, BS
+691, , , , ,
+692, Tiki Bar, , , Cabo San Lucas, BS
+693, , , , ,
+694, 55 South, 403 Main Street, 37064, Franklin, TN
+695, Potpie, 904 Westport Road, 64111, Kansas City, MO
+696, Phat Bites, 940 Allen Road, 37214, Nashville, TN
+697, Cafe Nonna, 4427 Murphy Road, 37209, Nashville, TN
+698, Blue Koi, 10581 Mission Road, 66206, Leawood, KS
+699, The Grilled Cheeserie Food Truck, , , Tennessee, TN
+700, Hotel Ivanhoe, 315 Main Street, 95536, Ferndale, CA
+701, Ferndale Meat Co., 376 Main Street, 95536, Ferndale, CA
+702, Clendenens Cider, 96 12th Street, 95540, Fortuna, CA
+703, Clendenens Cider Works, 96 12th Street, 95540, Fortuna, CA
+704, Loleta Cheese Factory, 252 Loleta Drive, 95551, Loleta, CA
+705, Humboldt Sweets, 399 Main Street, 95536, Ferndale, CA
+706, Blue Collar, 6730 Biscayne Boulevard, 33138, Miami, FL
+707, The Federal, 5132 Biscayne Boulevard, 33137, Miami, FL
+708, Latin House Burger & Taco Bar, 9565 Sunset Drive, 33173, Miami, FL
+709, Sakaya Kitchen, 3401 N Miami Ave, 33127, Miami, FL
+710, Dj's Clam Shack, 629 Duval Street, 33040, Key West, FL
+711, Garbo's Grill, 603 Greene Street, 33040, Key West, FL
+712, Bad Boy Burrito, 1220 1/2 Simonton Street, 33040, Key West, FL
+713, Brick and Fire Bistro, 1630 F Street, 95501, Eureka, CA
+714, Brindle Room, 277 East 10th Street, 10009, New York, NY
+715, Black Tree, 131 Orchard Street, 10002, New York, NY
+716, Bunker Vietnamese, 46-63 Metropolitan Avenue, 11385, Ridgewood, NY
+717, Pauls Live From New York, 604 F Street, 95501, Eureka, CA
+718, Queens Comfort, 40-09 30th Avenue, 11103, Astoria, NY
+719, Sammy's Bistro, 1890 Bonanza Drive, 84060, Park City, UT
+720, Silver Star Cafe, 1825 3 Kings Drive, 84060, Park City, UT
+721, Maxwell's in Salt Lake City, 357 South Main Street, 84111, Salt Lake City, UT
+722, Cafe Nooner, 409 Opera Alley, 95501, Eureka, CA
+723, Ducks Eatery, 351 East 12th Street, 10003, East Village, NY
+724, Whisk Gourmet Food, 7382 Southwest 56th Avenue, 33143, Miami, FL
+725, Tin Roof Grill, 9284 South 700 East, 84070, Sandy, UT
+726, The Alley Restaurant at Aiea Bowl, 99-115 Aiea Heights Drive, 96701, Aiea, HI
+727, Loulou's Griddle in the Middle, Municipal Wharf 2 Monterey, 93940, Monterey, CA
+728, Fat Sal's, 1300 North Highland Avenue, 90028, Los Angeles, CA
+729, Elena’s Home of Finest Filipino Foods, 94-866 Moloalo Street, 96797, Waipahu, HI
+730, Aristo's Greek Restaurant & Cafe, 224 South 1300 East, 84102, Salt Lake City, UT
+731, Oh Mai Sandwich, 3425 South State Street, 84115, Salt Lake City, UT
+732, Boots & Kimo's Homestyle Kitchen, 151 Hekili Street, 96734, Kailua, HI
+733, Dean's Drive Inn, 45-773 Kamehameha Highway, 96744, Kaneohe, HI
+734, Uahi Island Grill, 131 Hekili Street, 96734, Kailua, HI
+735, Tamarindo Food Truck, , 92656, Orange County, CA
+736, Mike’s Huli Huli, 47 Kamehameha Highway, 96744, Kaneohe, HI
+737, Taste of Belgium, 1135 Vine Street, 45202, Cincinnati, OH
+738, Bakersfield OTR, 1213 Vine Street, 45202, Cincinnati, OH
+739, Senate Restaurant, 1212 Vine Street, 45202, Cincinnati, OH
+740, Rutts Hawaiian Cafe & Catering, 12114 West Washington Boulevard, 90066, Los Angeles, CA
+741, Sabroso! Mexican Grill, 13129 Harbor Boulevard, 92843, Garden Grove, CA
+742, Monterey's Fish House, 2114 Del Monte Avenue, 93940, Monterey, CA
+743, Rosine's Restaurant, 434 Alvarado Street, 93940, Monterey, CA
+744, Sidewinders American Grill, 945 West Broadway, 83001, Jackson, WY
+745, Blunch, 59 East Springfield Street, 02118, Boston, MA
