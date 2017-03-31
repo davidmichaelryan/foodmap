@@ -13,13 +13,21 @@ function _initMapForm() {
     document.getElementById("map-form").addEventListener('‌​submit', function(event){event.preventDefault();});
 }
 
+function resizeMapElement() {
+    let mapHeight = window.innerHeight - document.getElementById('map').getBoundingClientRect().top - 40
+    document.getElementById('map').style.height = `${mapHeight}px`
+}
+
 function initMap() {
     FoodMap = {}
     FoodMap["directionsService"] = new google.maps.DirectionsService()
     FoodMap["directionsDisplay"] = new google.maps.DirectionsRenderer()
     FoodMap.infoWindows = []
     FoodMap.markers = []
-        
+
+    resizeMapElement()
+    window.onresize = resizeMapElement
+
     var map = new google.maps.Map(document.getElementById('map'), {
         center: {lat: 41.8781, lng: -87.6298},
         mapTypeId: google.maps.MapTypeId.ROADMAP,
@@ -54,6 +62,10 @@ function updateMap() {
     }
 
     formData = getInfoFromForm();
+
+    if(!formData.startingLocation.length || formData.endingLocation.length) {
+        return;
+    }
 
     var navigator = new Promise(function(resolve, reject) {
         makeDirections(formData.startingLocation, formData.endingLocation, function(response, status) {
