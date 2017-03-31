@@ -9,6 +9,7 @@ function initMap() {
     FoodMap["directionsService"] = new google.maps.DirectionsService()
     FoodMap["directionsDisplay"] = new google.maps.DirectionsRenderer()
     FoodMap.infoWindows = []
+    FoodMap.markers = []
         
     var map = new google.maps.Map(document.getElementById('map'), {
         center: {lat: 41.8781, lng: -87.6298},
@@ -32,6 +33,13 @@ function getInfoFromForm() {
 
 function updateMap() {
     var FoodMap = window.FoodMap;
+
+    FoodMap.markers.map(function(marker) {
+        marker.setMap(null);
+    });
+    FoodMap.infoWindows = []
+    FoodMap.markers = []
+
     if ((typeof FoodMap === undefined)){
         return;
     }
@@ -71,7 +79,7 @@ function addLocationToMap(location) {
     infoWindowContent += "<h1>Embassy to Flavortown:</h1>"
     infoWindowContent += "<h2>" + location.title + "</h2>"
     infoWindowContent += "<p>" + location.formattedAddress + "</p>"
-    infoWindowContent += "<a href='" + location.website + "'>website</a>"
+    infoWindowContent += "<a target='_blank' href='" + location.website + "'>website</a>"
     infoWindowContent += "</div>"
 
     var infoWindow = new google.maps.InfoWindow({
@@ -91,11 +99,12 @@ function addLocationToMap(location) {
 
     marker.addListener('click', function(){
         FoodMap.infoWindows.map(function(infoWindow){
-            infoWindow.close()
+            infoWindow.close();
         })
         infoWindow.open(FoodMap.googleMap, marker);
     })
     FoodMap.infoWindows.push(infoWindow);
+    FoodMap.markers.push(marker);
 }
 
 function makeDirections(startingLocation, endingLocation, callback) {
