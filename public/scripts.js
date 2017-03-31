@@ -17,6 +17,7 @@ function initMap() {
     FoodMap = {}
     FoodMap["directionsService"] = new google.maps.DirectionsService()
     FoodMap["directionsDisplay"] = new google.maps.DirectionsRenderer()
+    FoodMap.infoWindows = []
         
     var map = new google.maps.Map(document.getElementById('map'), {
         center: {lat: 41.8781, lng: -87.6298},
@@ -59,8 +60,11 @@ function updateMap() {
     });
 
     navigator.then(function(response) {
-        var suggestedStop = searchForStops(response);
-        return addLocationToMap(suggestedStop);
+        var suggestedStops = searchForStops(response);
+        for (var i=0; i < suggestedStops.length; i++){
+            addLocationToMap(suggestedStops[i]);
+        }
+        return;
     }, function(err) {
         throw new Error('fetching directions failed with status: ' + status);
     });
@@ -73,7 +77,7 @@ function addLocationToMap(location) {
     }
 
     var infoWindowContent = "<div class='info-window'>"
-    infoWindowContent += "<h1>Closest Embassy to Flavortown:</h1>"
+    infoWindowContent += "<h1>Embassy to Flavortown:</h1>"
     infoWindowContent += "<h2>" + location.title + "</h2>"
     infoWindowContent += "<p>" + location.formattedAddress + "</p>"
     infoWindowContent += "<a href='" + location.website + "'>website</a>"
@@ -95,8 +99,12 @@ function addLocationToMap(location) {
     });
 
     marker.addListener('click', function(){
+        FoodMap.infoWindows.map(function(infoWindow){
+            infoWindow.close()
+        })
         infoWindow.open(FoodMap.googleMap, marker);
     })
+    FoodMap.infoWindows.push(infoWindow);
 }
 
 function makeDirections(startingLocation, endingLocation, callback) {
@@ -127,7 +135,7 @@ function getHalfwayPoint(mapResponse) {
 }
 
 function searchForStops(mapResponse) {
-    var midpoint = getHalfwayPoint(mapResponse);
+    var drivingPath = mapResponse.routes[0].overview_path;
 
     if ((confirmArrival().flavortown != true) || (!flavortown)) {
         throw new Error('flavortown assets have not loaded');
@@ -138,21 +146,36 @@ function searchForStops(mapResponse) {
         return;
     }
 
-    var distance = 0;
-    var minDistance = minDistanceLocation = undefined;
-    for (var i=0; i < flavortown.length; i++){
-        var location = flavortown[i]
-        var locationLatLng = {
-            latitude: +location['address']['lat'],
-            longitude: +location['address']['lng']
-        };
-        distance = haversine(midpoint, locationLatLng, {unit: 'mile'});
-        if (minDistance === undefined || minDistance > distance){
-            minDistance = distance;
-            minDistanceLocation = location;
-        }
+    var checkEvery = 10;
+    while((checkEvery*10 / drivingPath.length) > 10) {
+        checkEvery = checkEvery * 10;
     }
-    return minDistanceLocation;
+
+    var count = checkEvery;
+    var result = [];
+    while(count < drivingPath.length) {
+        var pathPoint = {
+            latitude: drivingPath[count].lat(),
+            longitude: drivingPath[count].lng()
+        }
+        var distance = 0;
+        var minDistance = minDistanceLocation = undefined;
+        for (var i=0; i < flavortown.length; i++){
+            var location = flavortown[i]
+            var locationLatLng = {
+                latitude: +location['address']['lat'],
+                longitude: +location['address']['lng']
+            };
+            distance = haversine(pathPoint, locationLatLng, {unit: 'mile'});
+            if (minDistance === undefined || minDistance > distance){
+                minDistance = distance;
+                minDistanceLocation = location;
+            }
+        }
+        result.push(minDistanceLocation);
+        count = count + checkEvery;
+    }
+    return result;
 }
 
 function addAllLocations() {
