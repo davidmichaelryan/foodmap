@@ -12,7 +12,7 @@
     <meta name='description' itemprop='description' content='Food Map'>
     <title>Food Map</title>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans|Gentium+Book+Basic' rel='stylesheet' type='text/css'>
-    <link rel='stylesheet' href='styles.css'>
+    <link rel='stylesheet' href='public/styles.css'>
   </head>
   <body>
     <form id="map-form" action="#" onsubmit="updateMap(); return false;">
@@ -26,9 +26,9 @@
     <!--
       JAVACSRIPT
     -->
-    <script src='scripts.js'></script>
+    <script src='public/scripts.js'></script>
     <script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCvRWaNGBayIc2C59blfpri7Cq8W4cTwxE'
     async defer onload="initMap()"></script>
-    <script async defer src="flavortown.js" onload="confirmArrival('flavortown')"></script>
+    <script async defer src="public/flavortown.js" onload="confirmArrival('flavortown')"></script>
   </body>
 </html>
